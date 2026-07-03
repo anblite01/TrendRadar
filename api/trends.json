@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T12:51:37.856457+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-07-03T16:16:55.415577+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 128,
+      "match_count": 143,
       "titles": [
         {
           "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 12时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 16时16分]"
         },
         {
           "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 12时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 16时16分]"
         },
         {
           "title": "中国空军覆盖整个南海？专家：不是能不能，是已经做到了",
@@ -48,11 +49,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 12时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 16时16分]"
         },
         {
           "title": "中国男篮对日本12人大名单公布",
@@ -61,11 +63,12 @@
           "ranks": [
             1,
             10,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 12时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 16时16分]"
         },
         {
           "title": "大众股东呼吁在德生产中国「特供」车型以挽救就业，这释放了哪些信号？",
@@ -80,6 +83,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时57分 ~ 08时15分]"
+        },
+        {
+          "title": "老外开中国车遭日本人骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355826&amp;topic_name=%E8%80%81%E5%A4%96%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E9%81%AD%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 16时16分]"
         },
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -100,19 +117,6 @@
           "ranks": [
             15,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 12时51分]"
-        },
-        {
-          "title": "老外开中国车遭日本人骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355826&amp;topic_name=%E8%80%81%E5%A4%96%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E9%81%AD%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            25
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -192,6 +196,18 @@
           "time_info": "[06时15分 ~ 08时15分]"
         },
         {
+          "title": "欧盟推“欧洲制造”卡中国，车企内部先吵起来了",
+          "url": "https://news.ifeng.com/c/8uSDNt6Vrjj",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时16分]"
+        },
+        {
           "title": "纳斯达克中国金龙指数跌超2%，百度(BIDU.O)跌5.39%，网易(NTES.O)跌2.67%，阿里巴巴(BABA.N)跌2.57%。",
           "url": "https://flash.jin10.com/detail/20260703003627474800",
           "source": "金十数据",
@@ -264,9 +280,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "事关中国 美国福克斯新闻又道歉了",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E4%B8%AD%E5%9B%BD+%E7%BE%8E%E5%9B%BD%E7%A6%8F%E5%85%8B%E6%96%AF%E6%96%B0%E9%97%BB%E5%8F%88%E9%81%93%E6%AD%89%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "国乒男单美国大满贯全军覆没",
@@ -275,7 +302,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -326,13 +353,24 @@
           "time_info": "[02时42分 ~ 06时15分]"
         },
         {
+          "title": "前5月中国农机出口超336亿元",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8D5%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9C%BA%E5%87%BA%E5%8F%A3%E8%B6%85336%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "高质量发展中国行",
           "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E8%A1%8C&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -398,18 +436,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "欧盟推“欧洲制造”卡中国，车企内部先吵起来了",
-          "url": "https://news.ifeng.com/c/8uSDNt6Vrjj",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -442,7 +469,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -507,16 +534,29 @@
           "time_info": "[04时25分 ~ 06时15分]"
         },
         {
+          "title": "中国男篮主场迎战日本男篮",
+          "url": "https://www.douyin.com/hot/2556627",
+          "source": "抖音",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时16分]"
+        },
+        {
           "title": "中国空调为何能火到欧洲",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83%E4%B8%BA%E4%BD%95%E8%83%BD%E7%81%AB%E5%88%B0%E6%AC%A7%E6%B4%B2",
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 12时51分]"
+          "appearance_count": 3,
+          "time_info": "[08时15分 ~ 16时16分]"
         },
         {
           "title": "中国空军覆盖整个南海？专家回应",
@@ -541,6 +581,54 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 08时15分]"
+        },
+        {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时16分]"
+        },
+        {
+          "title": "中国完成了哪些在外国人看来难以完成的事？",
+          "url": "https://www.zhihu.com/question/51296294",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时16分]"
+        },
+        {
+          "title": "拒绝空调的欧洲和电网告急的美国，极端热浪撕开了什么？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503572",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时16分]"
+        },
+        {
+          "title": "二季度以来险资加仓港股提速：“平安系”超百亿港元增持国寿H股 中国通号、青岛啤酒股份等获长线布局",
+          "url": "https://www.cls.cn/detail/2416037",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时16分]"
         },
         {
           "title": "美国司法部调查所谓涉及Susquehanna的内幕交易。",
@@ -595,7 +683,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -606,20 +694,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
         {
-          "title": "中国完成了哪些在外国人看来难以完成的事？",
-          "url": "https://www.zhihu.com/question/51296294",
-          "source": "知乎",
+          "title": "美国选美皇后在委内瑞拉强震中遇难",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%80%89%E7%BE%8E%E7%9A%87%E5%90%8E%E5%9C%A8%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%BA%E9%9C%87%E4%B8%AD%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "16时16分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
@@ -666,17 +754,6 @@
           "time_info": "08时15分"
         },
         {
-          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
-          "url": "https://www.cls.cn/detail/2416012",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
           "title": "美国总统特朗普：我认为马斯克会将SpaceX(SPCX.O)股票捐赠给“特朗普账户”。",
           "url": "https://flash.jin10.com/detail/20260703055138280800",
           "source": "金十数据",
@@ -686,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "拜登之子讽刺特朗普乃“史上最会停战总统”",
+          "url": "https://flash.jin10.com/detail/20260703154708989800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美国油服贝克休斯：美国能源企业钻井机连增三周。",
@@ -721,6 +809,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "国际原子能机构：尚未获准进入伊朗核设施",
+          "url": "https://wallstreetcn.com/livenews/3128532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "俄罗斯空袭基辅致27死91伤",
           "url": "https://news.ifeng.com/c/8uRgDFcFX7y",
           "source": "凤凰网",
@@ -738,7 +837,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -782,9 +881,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美国总统特朗普：我与埃隆·马斯克的关系非常好。",
@@ -837,29 +947,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "二季度以来险资加仓港股提速：“平安系”超百亿港元增持国寿H股 中国通号、青岛啤酒股份等获长线布局",
-          "url": "https://www.cls.cn/detail/2416037",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "中国男篮主场迎战日本男篮",
-          "url": "https://www.douyin.com/hot/2556627",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -906,6 +994,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "美国飞行员遭枪杀，印尼军方：遗体已经找回",
+          "url": "https://news.ifeng.com/c/8uSGF4kMLn0",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "知情人士：特朗普政府与Anthropic之间并未讨论由政府持有该公司的股权。",
@@ -974,17 +1073,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "拒绝空调的欧洲和电网告急的美国，极端热浪撕开了什么？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503572",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
           "title": "学者警告：伊朗正将霍尔木兹海峡控制常态化",
           "url": "https://flash.jin10.com/detail/20260703021810181800",
           "source": "金十数据",
@@ -1029,6 +1117,28 @@
           "time_info": "08时15分"
         },
         {
+          "title": "世界杯“美国化”疑云",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E7%BE%8E%E5%9B%BD%E5%8C%96%E2%80%9D%E7%96%91%E4%BA%91",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "特朗普：在签署选举法案前，不会签署住房法案",
           "url": "https://flash.jin10.com/detail/20260703054420148800",
           "source": "金十数据",
@@ -1068,9 +1178,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "高志凯：美国的乱还没到头",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%BF%97%E5%87%AF%EF%BC%9A%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B9%B1%E8%BF%98%E6%B2%A1%E5%88%B0%E5%A4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美国总统特朗普：伊朗局势关乎去核化，而非战争。美国的做法仍然专注于消除核威胁。",
@@ -1090,7 +1211,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -1112,7 +1233,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -1137,6 +1258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊拉克总统抵达德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260703153909043800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
@@ -1170,6 +1302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "哈梅内伊遗体告别仪式在伊朗举行",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%BE%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "甩开美国另起炉灶 加拿大计划在北约峰会上宣布“全球防务银行”创始成员",
@@ -1266,7 +1409,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -1326,6 +1469,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "中国造的“老头乐”在美国杀疯了",
+          "url": "https://www.toutiao.com/trending/7658075005603348522/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "美国总统特朗普：已正式“终止”相关海洋保护限制，坚决不允许其他国家占据美国海域资源。呼吁选民在中期选举中支持共和党。",
           "url": "https://flash.jin10.com/detail/20260703015427959800",
           "source": "金十数据",
@@ -1365,7 +1519,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -1379,6 +1533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "外交部：坚决反对有关国家恶意诋毁中国民族政策",
+          "url": "https://wallstreetcn.com/livenews/3128515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "特斯拉(TSLA.O)：长轴距Model Y现已在美国和波多黎各上市。",
@@ -1442,15 +1607,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "美国女子持刀逼近警员遭枪杀",
+          "url": "https://www.toutiao.com/trending/7658127788016140330/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 60,
+      "match_count": 67,
       "titles": [
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -1464,6 +1640,41 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时57分 ~ 12时51分]"
+        },
+        {
+          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时15分 ~ 16时16分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2415963",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时15分 ~ 16时16分]"
+        },
+        {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时15分 ~ 16时16分]"
         },
         {
           "title": "伊拉克女议员家中搜出黄金内衣",
@@ -1495,28 +1706,6 @@
           "time_info": "[00时57分 ~ 08时15分]"
         },
         {
-          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 12时51分]"
-        },
-        {
-          "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2415963",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 12时51分]"
-        },
-        {
           "title": "机票捡漏黄金期来了",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E6%8D%A1%E6%BC%8F%E9%BB%84%E9%87%91%E6%9C%9F%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -1532,18 +1721,6 @@
           "time_info": "[00时57分 ~ 08时15分]"
         },
         {
-          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
-          "url": "https://www.cls.cn/detail/2415948",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 12时51分]"
-        },
-        {
           "title": "非农提振昙花一现，芯片股两日累跌11%，纳指独跌，道指新高，黄金大涨",
           "url": "https://wallstreetcn.com/articles/3776024",
           "source": "华尔街见闻",
@@ -1553,6 +1730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "加拿大推进西海岸原油管道项目以减少对美市场依赖",
+          "url": "https://flash.jin10.com/detail/20260703155107887800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -1681,6 +1869,18 @@
           "time_info": "[00时58分 ~ 02时43分]"
         },
         {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时16分]"
+        },
+        {
           "title": "美股三大股指走势分化，纳指跌超1%，标普500指数跌0.28%，道指涨0.64%。",
           "url": "https://flash.jin10.com/detail/20260703002510414800",
           "source": "金十数据",
@@ -1701,6 +1901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美股收盘：芯片股重挫 闪迪大跌14%",
@@ -1745,17 +1956,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
-          "url": "https://www.cls.cn/detail/2415987",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
         },
         {
           "title": "LME期铜收涨28美元，报13326美元/吨。 LME期铝收涨16美元，报3092美元/吨。 LME期锌收跌12美元，报3487美元/吨。 LME期铅收涨10美元，报1876美元/吨。 LME期镍收跌105美元，报16250美元/吨。 LME期锡收跌672美元，报50960美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -1835,6 +2035,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "现货白银日内涨幅达3.00%，现报62.79美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260703153956234800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "美元指数在非农日跌超0.4%",
           "url": "https://wallstreetcn.com/livenews/3128198",
           "source": "华尔街见闻-快讯",
@@ -1855,6 +2066,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "加拿大推进西海岸原油管道项目以减少对美市场依赖",
+          "url": "https://wallstreetcn.com/livenews/3128522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "传特斯拉控AI成本 员工每周不得超过200美元",
@@ -1918,7 +2140,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -1932,6 +2154,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "现货黄金涨1.3%，报4177.72美元/盎司； 现货白银涨超3%，报62.78美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3128520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "黄金暴力拉涨日内涨幅扩大至 2.3%，背后有哪些原因？这会是黄金止跌的信号吗？",
+          "url": "https://www.zhihu.com/question/2056301842225525732",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7830元，较周三夜盘收盘涨50点。成交量605.08亿美元。",
@@ -1995,7 +2239,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -2028,9 +2272,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "加息跌破半数，黄金赔率变脸｜市场赔率数据表",
+          "url": "https://flash.jin10.com/detail/20260703153315046800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美股存储芯片指数跌超7%，成分股全线溃败，闪迪盘中跌幅扩大至10%，泰瑞达、拉姆研究、应用材料、希捷科技、西部数据、Rambus、美光科技至多跌7.6%。",
@@ -2061,7 +2316,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
