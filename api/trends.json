@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-03T16:16:55.415577+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-07-03T19:39:58.588766+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 143,
+      "match_count": 157,
       "titles": [
         {
           "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
           "url": "https://wallstreetcn.com/articles/3776083",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 16时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 19时39分]"
         },
         {
           "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
@@ -50,11 +51,12 @@
           "ranks": [
             1,
             11,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 16时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 19时39分]"
         },
         {
           "title": "中国男篮对日本12人大名单公布",
@@ -71,6 +73,21 @@
           "time_info": "[00时57分 ~ 16时16分]"
         },
         {
+          "title": "老外开中国车遭日本人骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355826&amp;topic_name=%E8%80%81%E5%A4%96%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E9%81%AD%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            25,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 19时39分]"
+        },
+        {
           "title": "大众股东呼吁在德生产中国「特供」车型以挽救就业，这释放了哪些信号？",
           "url": "https://www.zhihu.com/question/2055241009630598774",
           "source": "知乎",
@@ -83,20 +100,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时57分 ~ 08时15分]"
-        },
-        {
-          "title": "老外开中国车遭日本人骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355826&amp;topic_name=%E8%80%81%E5%A4%96%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E9%81%AD%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 16时16分]"
         },
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -121,6 +124,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时57分 ~ 12时51分]"
+        },
+        {
+          "title": "欧盟推“欧洲制造”卡中国，车企内部先吵起来了",
+          "url": "https://news.ifeng.com/c/8uSDNt6Vrjj",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 19时39分]"
         },
         {
           "title": "专家称中国空军已覆盖整个南海",
@@ -196,16 +211,39 @@
           "time_info": "[06时15分 ~ 08时15分]"
         },
         {
-          "title": "欧盟推“欧洲制造”卡中国，车企内部先吵起来了",
-          "url": "https://news.ifeng.com/c/8uSDNt6Vrjj",
-          "source": "凤凰网",
+          "title": "前5月中国农机出口超336亿元",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8D5%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9C%BA%E5%87%BA%E5%8F%A3%E8%B6%85336%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时16分]"
+          "time_info": "[16时16分 ~ 19时39分]"
+        },
+        {
+          "title": "中国男篮主场迎战日本男篮",
+          "url": "https://www.douyin.com/hot/2556627",
+          "source": "抖音",
+          "ranks": [
+            11,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 19时39分]"
+        },
+        {
+          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
+          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "纳斯达克中国金龙指数跌超2%，百度(BIDU.O)跌5.39%，网易(NTES.O)跌2.67%，阿里巴巴(BABA.N)跌2.57%。",
@@ -239,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "黎巴嫩总统奥恩：黎巴嫩一些人难以与伊朗和美国的道路保持距离。",
+          "url": "https://flash.jin10.com/detail/20260703193357242800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储",
@@ -285,13 +334,24 @@
           "time_info": "12时51分"
         },
         {
+          "title": "中方坚决反对有关国家诋毁中国民族政策",
+          "url": "https://www.toutiao.com/trending/7657540121208127531/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "事关中国 美国福克斯新闻又道歉了",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E4%B8%AD%E5%9B%BD+%E7%BE%8E%E5%9B%BD%E7%A6%8F%E5%85%8B%E6%96%AF%E6%96%B0%E9%97%BB%E5%8F%88%E9%81%93%E6%AD%89%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -351,17 +411,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时42分 ~ 06时15分]"
-        },
-        {
-          "title": "前5月中国农机出口超336亿元",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8D5%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9C%BA%E5%87%BA%E5%8F%A3%E8%B6%85336%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "高质量发展中国行",
@@ -474,6 +523,17 @@
           "time_info": "12时51分"
         },
         {
+          "title": "中国造的“老头乐”在美国杀疯了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E7%9A%84%E2%80%9C%E8%80%81%E5%A4%B4%E4%B9%90%E2%80%9D%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%9D%80%E7%96%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
           "url": "https://flash.jin10.com/detail/20260703040541565800",
           "source": "金十数据",
@@ -522,6 +582,19 @@
           "time_info": "[00时57分 ~ 04时25分]"
         },
         {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 19时39分]"
+        },
+        {
           "title": "中国电动汽车电池零部件制造商龙电华鑫申请美国IPO",
           "url": "https://wallstreetcn.com/livenews/3128215",
           "source": "华尔街见闻-快讯",
@@ -532,18 +605,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 06时15分]"
-        },
-        {
-          "title": "中国男篮主场迎战日本男篮",
-          "url": "https://www.douyin.com/hot/2556627",
-          "source": "抖音",
-          "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时16分]"
         },
         {
           "title": "中国空调为何能火到欧洲",
@@ -571,6 +632,32 @@
           "time_info": "[00时57分 ~ 02时43分]"
         },
         {
+          "title": "二季度以来险资加仓港股提速：“平安系”超百亿港元增持国寿H股 中国通号、青岛啤酒股份等获长线布局",
+          "url": "https://www.cls.cn/detail/2416037",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 19时39分]"
+        },
+        {
+          "title": "拒绝空调的欧洲和电网告急的美国，极端热浪撕开了什么？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503572",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 19时39分]"
+        },
+        {
           "title": "美国球场美食大赏",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%90%83%E5%9C%BA%E7%BE%8E%E9%A3%9F%E5%A4%A7%E8%B5%8F",
           "source": "bilibili 热搜",
@@ -581,18 +668,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 08时15分]"
-        },
-        {
-          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
-          "url": "https://www.cls.cn/detail/2416012",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时16分]"
         },
         {
           "title": "中国完成了哪些在外国人看来难以完成的事？",
@@ -607,28 +682,15 @@
           "time_info": "[12时51分 ~ 16时16分]"
         },
         {
-          "title": "拒绝空调的欧洲和电网告急的美国，极端热浪撕开了什么？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503572",
-          "source": "澎湃新闻",
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时16分]"
-        },
-        {
-          "title": "二季度以来险资加仓港股提速：“平安系”超百亿港元增持国寿H股 中国通号、青岛啤酒股份等获长线布局",
-          "url": "https://www.cls.cn/detail/2416037",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时16分]"
+          "time_info": "[16时16分 ~ 19时39分]"
         },
         {
           "title": "美国司法部调查所谓涉及Susquehanna的内幕交易。",
@@ -643,6 +705,17 @@
           "time_info": "[00时58分 ~ 02时43分]"
         },
         {
+          "title": "美国飞行员遭枪杀，印尼军方：遗体已经找回",
+          "url": "https://news.ifeng.com/c/8uSGF4kMLn0",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 19时39分]"
+        },
+        {
           "title": "美国财政部拍卖四周期国债，得标利率3.605%，投标倍数2.72。 拍卖八周期国债，得标利率3.650%，投标倍数2.70。",
           "url": "https://wallstreetcn.com/livenews/3128141",
           "source": "华尔街见闻-快讯",
@@ -653,6 +726,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 02时43分]"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 19时39分]"
+        },
+        {
+          "title": "中国造的“老头乐”在美国杀疯了",
+          "url": "https://www.toutiao.com/trending/7658075005603348522/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 19时39分]"
         },
         {
           "title": "美国加州正式设立“李小龙日”",
@@ -705,9 +801,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "伊朗革命卫队总司令现身",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E6%80%BB%E5%8F%B8%E4%BB%A4%E7%8E%B0%E8%BA%AB",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
@@ -730,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "黎巴嫩总统奥恩：将黎巴嫩与伊朗-美国问题分开是一项主权决定。",
+          "url": "https://flash.jin10.com/detail/20260703193216132800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
@@ -771,7 +889,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -815,7 +933,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -884,17 +1002,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "美国总统特朗普：我与埃隆·马斯克的关系非常好。",
@@ -994,17 +1101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "美国飞行员遭枪杀，印尼军方：遗体已经找回",
-          "url": "https://news.ifeng.com/c/8uSGF4kMLn0",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "知情人士：特朗普政府与Anthropic之间并未讨论由政府持有该公司的股权。",
@@ -1123,18 +1219,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1189,7 +1274,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1266,9 +1351,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "中国证监会关于就《关于修改〈北京证券交易所上市公司证券发行注册管理办法〉的决定（征求意见稿）》及相关配套规则公开征求意见的通知。",
+          "url": "https://flash.jin10.com/detail/20260703192402885800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "高志凯：美国的乱还没到头",
+          "url": "https://www.toutiao.com/trending/7657467335395999798/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
@@ -1310,7 +1417,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1381,6 +1488,17 @@
           "time_info": "08时15分"
         },
         {
+          "title": "LV老花被指模仿中国唐代宝相花",
+          "url": "https://www.baidu.com/s?wd=LV%E8%80%81%E8%8A%B1%E8%A2%AB%E6%8C%87%E6%A8%A1%E4%BB%BF%E4%B8%AD%E5%9B%BD%E5%94%90%E4%BB%A3%E5%AE%9D%E7%9B%B8%E8%8A%B1",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：欧洲必须具备足够的自主防御能力，以应对包括俄罗斯弹道导弹在内的各种威胁。",
           "url": "https://flash.jin10.com/detail/20260702235725256800",
           "source": "金十数据",
@@ -1425,6 +1543,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "中国证监会关于就《关于修改〈上市公司证券发行注册管理办法〉的决定（征求意见稿）》及相关配套规则公开征求意见的通知。",
+          "url": "https://flash.jin10.com/detail/20260703192012457800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "普京为何说俄罗斯到了命运攸关时刻",
           "url": "https://www.toutiao.com/trending/7657550168787763206/",
           "source": "今日头条",
@@ -1447,6 +1576,17 @@
           "time_info": "08时15分"
         },
         {
+          "title": "中国证监会就完善上市公司再融资规则公开征求意见。",
+          "url": "https://flash.jin10.com/detail/20260703191958338800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.43%，前值6.49%。",
           "url": "https://wallstreetcn.com/livenews/3128168",
           "source": "华尔街见闻-快讯",
@@ -1467,17 +1607,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "中国造的“老头乐”在美国杀疯了",
-          "url": "https://www.toutiao.com/trending/7658075005603348522/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "美国总统特朗普：已正式“终止”相关海洋保护限制，坚决不允许其他国家占据美国海域资源。呼吁选民在中期选举中支持共和党。",
@@ -1541,7 +1670,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1618,15 +1747,48 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "中国用电自由背后是几代人接力",
+          "url": "https://www.toutiao.com/trending/7657448884998684710/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "陪看中国男篮vs日本",
+          "url": "https://www.baidu.com/s?wd=%E9%99%AA%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "廖岷会见美国欧亚集团名誉董事长库普钱",
+          "url": "https://wallstreetcn.com/livenews/3128632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 67,
+      "match_count": 74,
       "titles": [
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -1646,11 +1808,12 @@
           "url": "https://wallstreetcn.com/articles/3776024",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 19时39分]"
         },
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -1738,7 +1901,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1776,6 +1939,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "印度央行：截至6月26日，印度黄金储备为1025.4亿美元，前一周为1079.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260703193340344800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260703003051377800",
           "source": "金十数据",
@@ -1807,6 +1981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "印度外汇储备在6月26日当周降至6669.3亿美元，较上周下降56.54亿美元。",
+          "url": "https://flash.jin10.com/detail/20260703193250545800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
@@ -1857,6 +2042,17 @@
           "time_info": "[00时58分 ~ 02时43分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 19时39分]"
+        },
+        {
           "title": "大摩等机构不认同看涨美元的市场主流观点",
           "url": "https://wallstreetcn.com/livenews/3128145",
           "source": "华尔街见闻-快讯",
@@ -1881,6 +2077,29 @@
           "time_info": "[12时51分 ~ 16时16分]"
         },
         {
+          "title": "黄金暴力拉涨日内涨幅扩大至 2.3%，背后有哪些原因？这会是黄金止跌的信号吗？",
+          "url": "https://www.zhihu.com/question/2056301842225525732",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 19时39分]"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "美股三大股指走势分化，纳指跌超1%，标普500指数跌0.28%，道指涨0.64%。",
           "url": "https://flash.jin10.com/detail/20260703002510414800",
           "source": "金十数据",
@@ -1903,15 +2122,15 @@
           "time_info": "02时43分"
         },
         {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
+          "title": "世界杯 1/16 决赛葡萄牙 2-1 克罗地亚，克罗地亚黄金一代正式结束了最后一趟世界杯旅途，你有何感想？",
+          "url": "https://www.zhihu.com/question/2056317872792773424",
+          "source": "知乎",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "19时39分"
         },
         {
           "title": "美股收盘：芯片股重挫 闪迪大跌14%",
@@ -2024,6 +2243,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "联动科技：香港联动以现金方式收购Northstar Technologies Limited 100%股权，交易对价为1,000万美元",
+          "url": "https://wallstreetcn.com/livenews/3128661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "卡特彼勒(CAT.N)：公司启动德克萨斯州劳动力发展计划，作为其五年1亿美元计划的一部分。首期拨款高达500万美元用于德克萨斯州劳动力培训。",
           "url": "https://flash.jin10.com/detail/20260703000158677800",
           "source": "金十数据",
@@ -2041,7 +2271,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -2074,7 +2304,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -2162,18 +2392,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "黄金暴力拉涨日内涨幅扩大至 2.3%，背后有哪些原因？这会是黄金止跌的信号吗？",
-          "url": "https://www.zhihu.com/question/2056301842225525732",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -2283,7 +2502,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -2297,6 +2516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "赤峰黄金：近期，公司黄金产品的市场价格波动较大，预计将对公司经营业绩产生一定影响。",
+          "url": "https://wallstreetcn.com/livenews/3128645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
@@ -2385,6 +2615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "联动科技：拟1,000万美元收购NorthstarTechnologies Limited100%股权，将存储测试设备技术等落地国内",
+          "url": "https://flash.jin10.com/detail/20260703190833589800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     }
