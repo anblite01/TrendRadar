@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T00:11:30.778768+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-05T02:09:11.401976+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 43,
+      "match_count": 60,
       "titles": [
         {
           "title": "中国7舰横穿日本4大要道",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "伊朗外长会晤黎真主党及哈马斯代表",
-          "url": "https://wallstreetcn.com/livenews/3128948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
         },
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -37,8 +26,107 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "十五五期间美丽中国建设规划亮点",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E6%9C%9F%E9%97%B4%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "日媒关注：中国机车对日反向输出",
+          "url": "https://news.ifeng.com/c/8uUAOeqyjus",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "伊朗外长会晤黎真主党及哈马斯代表",
+          "url": "https://wallstreetcn.com/livenews/3128948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://wallstreetcn.com/livenews/3128947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://wallstreetcn.com/livenews/3128945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "佛得角再谢中国,友谊长存",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355899&amp;topic_name=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%86%8D%E8%B0%A2%E4%B8%AD%E5%9B%BD%2C%E5%8F%8B%E8%B0%8A%E9%95%BF%E5%AD%98",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://wallstreetcn.com/livenews/3128943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时09分]"
         },
         {
           "title": "何小鹏：中国智驾领先全球，L2级辅助驾驶将加速出海",
@@ -52,92 +140,27 @@
           "time_info": "00时11分"
         },
         {
-          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
-          "url": "https://wallstreetcn.com/livenews/3128947",
-          "source": "华尔街见闻-快讯",
+          "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
+          "url": "https://flash.jin10.com/detail/20260705015152155800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
         },
         {
           "title": "佛得角再次感谢中国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E5%86%8D%E6%AC%A1%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
-          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
-          "url": "https://wallstreetcn.com/livenews/3128945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "十五五期间美丽中国建设规划亮点",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E6%9C%9F%E9%97%B4%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "董路：中国足球小将现在就能超越日本",
-          "url": "https://www.toutiao.com/trending/7657769293937098798/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "日媒关注：中国机车对日反向输出",
-          "url": "https://news.ifeng.com/c/8uUAOeqyjus",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
         },
         {
           "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
@@ -151,15 +174,27 @@
           "time_info": "00时11分"
         },
         {
-          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
-          "url": "https://wallstreetcn.com/livenews/3128943",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列总理内塔尼亚胡表示，昨天与美国总统特朗普通了电话，已同意很快在美国与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260705013538607800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
+        },
+        {
+          "title": "董路：中国足球小将现在就能超越日本",
+          "url": "https://www.toutiao.com/trending/7657769293937098798/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
         },
         {
           "title": "王楚钦孙颖莎不敌韩国组合，获WTT美国大满贯赛混双亚军",
@@ -169,19 +204,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "针对云南大理州宾川县地震 中国地震局启动四级应急响应",
-          "url": "https://wallstreetcn.com/livenews/3128942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
         },
         {
           "title": "美国250周年庆典变特朗普私人派对？",
@@ -191,19 +215,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
         },
         {
-          "title": "日本首次公布跟踪中国航母视频",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%85%AC%E5%B8%83%E8%B7%9F%E8%B8%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
+          "title": "近四成美国人不相信国家能延续 250 年，原因是什么？",
+          "url": "https://www.zhihu.com/question/2051787784281646934",
+          "source": "知乎",
           "ranks": [
-            8
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
         },
         {
           "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
@@ -213,8 +238,155 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "日本首次公布跟踪中国航母视频",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%85%AC%E5%B8%83%E8%B7%9F%E8%B8%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "明查｜柬埔寨电诈园区发现关押2100名中国大学生？无证据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33504773",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
+          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "现场｜易碎品中国男篮，需要一次破而后立",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33517134",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "佛得角再次感谢中国：帮我们圆梦",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%86%8D%E6%AC%A1%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%EF%BC%9A%E5%B8%AE%E6%88%91%E4%BB%AC%E5%9C%86%E6%A2%A6",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "如何看待中国 80 后集体扎堆染黄毛？他们在「叛逆」什么？",
+          "url": "https://www.zhihu.com/question/2055282982999385425",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "董路：中国足球小将现在就能超越日本",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E8%B7%AF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E7%8E%B0%E5%9C%A8%E5%B0%B1%E8%83%BD%E8%B6%85%E8%B6%8A%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "针对云南大理州宾川县地震 中国地震局启动四级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3128942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "南非副总统：欢迎更多中国企业来南非投资兴业",
+          "url": "https://wallstreetcn.com/livenews/3128921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "伊朗情报部门称已消灭四个与美国和以色列有关联的武装组织",
+          "url": "https://flash.jin10.com/detail/20260705011249100800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
         },
         {
           "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
@@ -228,26 +400,26 @@
           "time_info": "00时11分"
         },
         {
-          "title": "明查｜柬埔寨电诈园区发现关押2100名中国大学生？无证据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33504773",
-          "source": "澎湃新闻",
+          "title": "一名美国官员表示，特朗普身边多位核心幕僚都认为，内塔尼亚胡在所有问题上都判断失误。",
+          "url": "https://flash.jin10.com/detail/20260705011106298800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
         },
         {
-          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
-          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我对伊朗人在哈梅内伊的葬礼上哭泣感到很惊讶，因为我原以为人们是讨厌他的。也许这些都是假眼泪。",
+          "url": "https://flash.jin10.com/detail/20260705011006115800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
         },
         {
           "title": "据塔斯社：俄罗斯国防部表示，他们的部队正在清除利曼镇的乌克兰军队。",
@@ -261,15 +433,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "上千万伊朗人参与哈梅内伊告别仪式",
-          "url": "https://wallstreetcn.com/livenews/3128938",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗驻华大使：计划按国际通行标准对霍尔木兹海峡通航收服务费",
+          "url": "https://flash.jin10.com/detail/20260705010158919800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
         },
         {
           "title": "据塔斯社：俄罗斯国防部表示，俄军已在乌克兰东部攻下5个居民点。",
@@ -283,6 +455,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "特朗普：哈梅内伊葬礼结束前 美伊双方互不交火",
+          "url": "https://flash.jin10.com/detail/20260705010025696800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
           "url": "https://flash.jin10.com/detail/20260704214033656800",
           "source": "金十数据",
@@ -294,15 +477,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "现场｜易碎品中国男篮，需要一次破而后立",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33517134",
-          "source": "澎湃新闻",
+          "title": "伊朗方面表示，感谢各国代表团顶住外部的“施压与恫吓”、前来参加最高领袖哈梅内伊葬礼。",
+          "url": "https://flash.jin10.com/detail/20260705005803215800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
         },
         {
           "title": "据塔斯社：俄罗斯总统普京签署法律修订税法以支持国内燃料市场。",
@@ -316,6 +499,28 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美国总统特朗普：美国和伊朗决定暂停会谈一周。哈梅内伊葬礼相关事宜结束前，美伊双方互不交火。",
+          "url": "https://flash.jin10.com/detail/20260705005401003800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "内塔尼亚胡或将访白宫 特朗普称内塔尼亚胡“知道谁才是老大”",
+          "url": "https://flash.jin10.com/detail/20260705005125146800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
           "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
           "url": "https://flash.jin10.com/detail/20260704212154579800",
           "source": "金十数据",
@@ -327,15 +532,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "佛得角再次感谢中国：帮我们圆梦",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%86%8D%E6%AC%A1%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%EF%BC%9A%E5%B8%AE%E6%88%91%E4%BB%AC%E5%9C%86%E6%A2%A6",
-          "source": "百度热搜",
+          "title": "俄罗斯国防部表示，俄罗斯提议周一在康斯坦丁诺夫卡实施六小时停火，以便移交遗体。俄方预计乌克兰将在周日中午前对这一停火提议作出回应。",
+          "url": "https://flash.jin10.com/detail/20260705004856126800",
+          "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
@@ -349,6 +554,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "特朗普与内塔尼亚胡或最早于下周举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260705004719450800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
           "title": "乌克兰能源公司DTEK：俄罗斯在乌克兰东部袭击了一家煤矿企业，造成一名矿工死亡，五名矿工受伤。",
           "url": "https://flash.jin10.com/detail/20260704205331457800",
           "source": "金十数据",
@@ -360,15 +576,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "近四成美国人不相信国家能延续 250 年，原因是什么？",
-          "url": "https://www.zhihu.com/question/2051787784281646934",
-          "source": "知乎",
+          "title": "据俄罗斯卫星通讯社：俄罗斯准备开展人道主义行动，在康斯坦丁诺夫卡移交乌克兰武装部队阵亡军人的遗体。",
+          "url": "https://flash.jin10.com/detail/20260705004612044800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -382,26 +598,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "如何看待中国 80 后集体扎堆染黄毛？他们在「叛逆」什么？",
-          "url": "https://www.zhihu.com/question/2055282982999385425",
-          "source": "知乎",
+          "title": "据塔斯社：克里姆林宫发言人佩斯科夫表示，乌克兰总统泽连斯基只要准备好做出重要且负责任的决定，就可以随时来莫斯科与俄罗斯总统普京会晤。",
+          "url": "https://flash.jin10.com/detail/20260705003948104800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
-          "url": "https://wallstreetcn.com/livenews/3128926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
@@ -415,6 +620,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "俄罗斯无人机持续摧毁乌克兰军事燃油基础设施",
+          "url": "https://flash.jin10.com/detail/20260705001145696800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
           "title": "针对云南大理州宾川县地震 中国地震局启动四级应急响应",
           "url": "https://flash.jin10.com/detail/20260704195724948800",
           "source": "金十数据",
@@ -426,26 +642,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://wallstreetcn.com/livenews/3128923",
-          "source": "华尔街见闻-快讯",
+          "title": "美国财政部正式推出“特朗普账户”应用程序",
+          "url": "https://flash.jin10.com/detail/20260705001056251800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "南非副总统：欢迎更多中国企业来南非投资兴业",
-          "url": "https://wallstreetcn.com/livenews/3128921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时09分"
         },
         {
           "title": "日本首次公布跟踪中国航母视频",
@@ -453,17 +658,6 @@
           "source": "微博",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "董路：中国足球小将现在就能超越日本",
-          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E8%B7%AF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E7%8E%B0%E5%9C%A8%E5%B0%B1%E8%83%BD%E8%B6%85%E8%B6%8A%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -484,8 +678,32 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "ON豪言走黄金路,实力遭质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "黄金如今又看美联储的脸色了",
+          "url": "https://wallstreetcn.com/articles/3776189",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
           "url": "https://wallstreetcn.com/articles/3776174",
@@ -498,48 +716,16 @@
           "time_info": "00时11分"
         },
         {
-          "title": "ON豪言走黄金路,实力遭质疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "黄金如今又看美联储的脸色了",
-          "url": "https://wallstreetcn.com/articles/3776189",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "美伊和平协议使大量原油供应释放，全球供应过剩担忧重燃",
-          "url": "https://flash.jin10.com/detail/20260704221515573800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
         },
         {
           "title": "黄金结束四周连跌！但分析师认为，持续复苏仍需三个条件",
@@ -549,15 +735,38 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
         },
         {
           "title": "佛得角收获1100万美元赛事奖金",
           "url": "https://www.toutiao.com/trending/7658547175105777162/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时09分]"
+        },
+        {
+          "title": "霉霉夫妇婚礼捐赠2600万美元",
+          "url": "https://www.douyin.com/hot/2557935",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "美伊和平协议使大量原油供应释放，全球供应过剩担忧重燃",
+          "url": "https://flash.jin10.com/detail/20260704221515573800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
