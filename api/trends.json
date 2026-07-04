@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T15:53:57.715992+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-07-04T18:21:15.497972+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 104,
+      "match_count": 120,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -102,6 +102,17 @@
           "time_info": "[00时42分 ~ 04时21分]"
         },
         {
+          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
+          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 18时21分]"
+        },
+        {
           "title": "中国空调在欧洲卖爆 格力慢了一拍",
           "url": "https://www.toutiao.com/trending/7658252585362525732/",
           "source": "今日头条",
@@ -126,6 +137,28 @@
           "time_info": "[00时42分 ~ 12时42分]"
         },
         {
+          "title": "暑运热尽显流动中国活力",
+          "url": "https://www.douyin.com/hot/2558176",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
+          "title": "WTT 美国大满贯混双决赛，王楚钦孙颖莎 2 比 3 林仲勋申裕斌，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2056730447258677382",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
           "title": "记者：日本早用霍金森中国男篮或出局",
           "url": "https://www.toutiao.com/trending/7657543072257065010/",
           "source": "今日头条",
@@ -139,15 +172,16 @@
           "time_info": "[00时42分 ~ 06时12分]"
         },
         {
-          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
-          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
+          "title": "热浪搅乱独立日，美国多地取消相关庆祝活动",
+          "url": "https://news.ifeng.com/c/8uTptd6bGr6",
           "source": "凤凰网",
           "ranks": [
-            1
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 15时53分]"
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时21分]"
         },
         {
           "title": "欧洲热到爆,空调全靠中国造",
@@ -172,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 15时53分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "市场消息：俄罗斯对乌克兰北部城市苏梅发动大规模轰炸，击中一栋公寓楼和一家商店，造成三人死亡。",
@@ -305,17 +350,6 @@
           "time_info": "00时42分"
         },
         {
-          "title": "俄罗斯方面称，乌克兰无人机袭击圣彼得堡一处油库。",
-          "url": "https://flash.jin10.com/detail/20260704154701391800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "“十五五”时期美丽中国这样建设",
           "url": "https://www.toutiao.com/trending/7658224040206106675/",
           "source": "今日头条",
@@ -325,17 +359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
-        },
-        {
-          "title": "暑运热尽显流动中国活力",
-          "url": "https://www.douyin.com/hot/2558176",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -361,26 +384,15 @@
           "time_info": "06时12分"
         },
         {
-          "title": "WTT 美国大满贯混双决赛，王楚钦孙颖莎 2 比 3 林仲勋申裕斌，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2056730447258677382",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "热浪搅乱独立日，美国多地取消相关庆祝活动",
-          "url": "https://news.ifeng.com/c/8uTptd6bGr6",
-          "source": "凤凰网",
+          "title": "中国海军舰艇编队将访问越南",
+          "url": "https://flash.jin10.com/detail/20260704172528888800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "18时21分"
         },
         {
           "title": "媒体：中国篮球醒醒吧",
@@ -419,6 +431,18 @@
           "time_info": "[12时42分 ~ 15时53分]"
         },
         {
+          "title": "俄罗斯方面称，乌克兰无人机袭击圣彼得堡一处油库。",
+          "url": "https://flash.jin10.com/detail/20260704154701391800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
           "url": "https://wallstreetcn.com/livenews/3128790",
           "source": "华尔街见闻-快讯",
@@ -429,6 +453,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 02时19分]"
+        },
+        {
+          "title": "如何看待中国 80 后集体扎堆染黄毛？他们在「叛逆」什么？",
+          "url": "https://www.zhihu.com/question/2055282982999385425",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 18时21分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
@@ -467,6 +503,31 @@
           "time_info": "[00时42分 ~ 06时12分]"
         },
         {
+          "title": "中国男篮世预赛不敌日本引争议",
+          "url": "https://www.douyin.com/hot/2557860",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 18时21分]"
+        },
+        {
+          "title": "中国男篮73比92不敌日本男篮，世预赛出线存变数",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511637",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 18时21分]"
+        },
+        {
           "title": "本场比赛中国男篮徐昕庞峥麟未出场",
           "url": "https://www.toutiao.com/trending/7658254972950216740/",
           "source": "今日头条",
@@ -479,6 +540,28 @@
           "time_info": "[00时42分 ~ 02时19分]"
         },
         {
+          "title": "如何评价「耿同学」称卢雄斌、何晓明在美国已被认定为学术造假，先后回国入职浙大与清华？",
+          "url": "https://www.zhihu.com/question/2056689569861300625",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
+          "title": "250岁的美国将走向哪里",
+          "url": "https://search.bilibili.com/all?keyword=250%E5%B2%81%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%B5%B0%E5%90%91%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
           "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
           "url": "https://flash.jin10.com/detail/20260704034413740800",
           "source": "金十数据",
@@ -488,6 +571,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 06时12分]"
+        },
+        {
+          "title": "佛得角计划对阵中国男足",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E8%AE%A1%E5%88%92%E5%AF%B9%E9%98%B5%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "克里姆林宫发言人佩斯科夫：俄罗斯联邦已完全解放康斯坦丁诺夫卡（位于乌克兰东部顿涅茨克州中部）。",
@@ -525,16 +619,16 @@
           "time_info": "[12时42分 ~ 15时53分]"
         },
         {
-          "title": "如何看待中国 80 后集体扎堆染黄毛？他们在「叛逆」什么？",
-          "url": "https://www.zhihu.com/question/2055282982999385425",
-          "source": "知乎",
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://wallstreetcn.com/livenews/3128909",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            6,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时42分 ~ 15时53分]"
+          "time_info": "[15时53分 ~ 18时21分]"
         },
         {
           "title": "据俄罗斯媒体：俄罗斯总统普京周五视察了联合部队的一个辅助指挥点。普京听取了总参谋长格拉西莫夫的汇报，后者评估了特别军事行动区域内的当前局势。",
@@ -572,6 +666,65 @@
           "time_info": "[04时21分 ~ 06时12分]"
         },
         {
+          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3128908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
+          "title": "俄罗斯称圣彼得堡石油码头遭无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704145849278800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
+          "title": "乌克兰总参谋部否认俄罗斯军队占领东乌克兰的科斯季安丁夫卡。",
+          "url": "https://flash.jin10.com/detail/20260704145757835800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
+          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
+          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://flash.jin10.com/detail/20260704144842898800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
           "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
           "url": "https://wallstreetcn.com/livenews/3128822",
           "source": "华尔街见闻-快讯",
@@ -584,16 +737,15 @@
           "time_info": "[04时21分 ~ 06时12分]"
         },
         {
-          "title": "中国男篮世预赛不敌日本引争议",
-          "url": "https://www.douyin.com/hot/2557860",
-          "source": "抖音",
+          "title": "日媒关注：中国机车对日反向输出",
+          "url": "https://news.ifeng.com/c/8uUAOeqyjus",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时42分 ~ 15时53分]"
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
@@ -607,6 +759,18 @@
           "time_info": "[04时21分 ~ 06时12分]"
         },
         {
+          "title": "中国平安继续增持农业银行H股，所持股份占该行H股总数突破26%",
+          "url": "https://wallstreetcn.com/livenews/3128903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
           "title": "美国最大的电网运营商PJM：已无法满足预期的能源需求，因此将实施计划，削减服务区域内的用电量；该区域覆盖大西洋中部地区、南部地区及华盛顿特区，服务用户达6700万。",
           "url": "https://flash.jin10.com/detail/20260704031424117800",
           "source": "金十数据",
@@ -616,6 +780,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 06时12分]"
+        },
+        {
+          "title": "美国大满贯国乒男双会师决赛",
+          "url": "https://www.douyin.com/hot/2557635",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "卡利巴夫：美国应接受地区现实，呼吁推动解除制裁",
@@ -664,16 +839,15 @@
           "time_info": "[04时21分 ~ 06时12分]"
         },
         {
-          "title": "中国男篮73比92不敌日本男篮，世预赛出线存变数",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511637",
-          "source": "澎湃新闻",
+          "title": "佛得角再次感谢中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E5%86%8D%E6%AC%A1%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            18,
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时42分 ~ 15时53分]"
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "中国船员在被韩海警扣押期间死亡",
@@ -699,6 +873,17 @@
           "time_info": "[04时21分 ~ 06时12分]"
         },
         {
+          "title": "中国女球迷电梯偶遇C罗获3次拥抱",
+          "url": "https://www.toutiao.com/trending/7657895882733506067/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
           "title": "伊朗总统在哈梅内伊告别仪式抹泪",
           "url": "https://www.toutiao.com/trending/7658230002110119978/",
           "source": "今日头条",
@@ -710,15 +895,15 @@
           "time_info": "12时42分"
         },
         {
-          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
-          "url": "https://wallstreetcn.com/livenews/3128909",
-          "source": "华尔街见闻-快讯",
+          "title": "美国地质调查局：印尼阿贝普拉西侧264公里处发生5.1级地震。",
+          "url": "https://flash.jin10.com/detail/20260704171737727800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "18时21分"
         },
         {
           "title": "英国央行行长贝利：如果没有战争，英国通胀将达到目标。",
@@ -732,15 +917,15 @@
           "time_info": "00时42分"
         },
         {
-          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3128908",
-          "source": "华尔街见闻-快讯",
+          "title": "中国地震台网自动测定：07月04日17时00分在云南大理州宾川县附近（北纬25.95度，东经100.57度）发生3.4级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260704170302086800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "18时21分"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -754,17 +939,6 @@
           "time_info": "00时42分"
         },
         {
-          "title": "俄罗斯称圣彼得堡石油码头遭无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260704145849278800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "英国央行行长贝利：如果美国和以色列没有对伊朗发动战争，英国通胀将达到目标。",
           "url": "https://wallstreetcn.com/livenews/3128784",
           "source": "华尔街见闻-快讯",
@@ -774,6 +948,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "媒体人谈中国男篮输日本19分",
@@ -787,17 +972,6 @@
           "time_info": "12时42分"
         },
         {
-          "title": "乌克兰总参谋部否认俄罗斯军队占领东乌克兰的科斯季安丁夫卡。",
-          "url": "https://flash.jin10.com/detail/20260704145757835800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
           "url": "https://flash.jin10.com/detail/20260703234037205800",
           "source": "金十数据",
@@ -807,17 +981,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
-          "url": "https://flash.jin10.com/detail/20260704144842898800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "Consolidated Edison Inc.临时性地向美国纽约市皇后区西南部9800客户停止供电服务。",
@@ -842,15 +1005,15 @@
           "time_info": "12时42分"
         },
         {
-          "title": "中国平安继续增持农业银行H股，所持股份占该行H股总数突破26%",
-          "url": "https://wallstreetcn.com/livenews/3128903",
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "18时21分"
         },
         {
           "title": "美国最大电网周四因高温迎来破纪录用电需求",
@@ -886,6 +1049,28 @@
           "time_info": "12时42分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704161949297800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "南非副总统：欢迎更多中国企业来南非投资兴业",
+          "url": "https://wallstreetcn.com/livenews/3128921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "陪看WTT美国大满贯",
           "url": "https://www.toutiao.com/trending/7657454416303882259/",
           "source": "今日头条",
@@ -903,7 +1088,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -936,7 +1121,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -950,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "乌克兰国家天然气公司（Naftogaz）：乌克兰中央波尔塔瓦地区的天然气生产设施遭到俄罗斯无人机袭击，导致火灾。",
+          "url": "https://flash.jin10.com/detail/20260704155522961800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "为什么美国人不相信美国还能撑250年",
@@ -980,7 +1176,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1005,17 +1201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "如何评价「耿同学」称卢雄斌、何晓明在美国已被认定为学术造假，先后回国入职浙大与清华？",
-          "url": "https://www.zhihu.com/question/2056689569861300625",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "美国极端高温天气打破最大电网的电力需求纪录",
@@ -1145,7 +1330,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1167,7 +1352,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1197,7 +1382,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -1235,6 +1420,54 @@
           "time_info": "[00时42分 ~ 12时42分]"
         },
         {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 18时21分]"
+        },
+        {
+          "title": "佛得角收获1100万美元赛事奖金",
+          "url": "https://www.toutiao.com/trending/7658547175105777162/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
+          "title": "佛得角队收获1100万美元奖金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
+          "title": "佛得角收获1100万美元奖金",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
           "title": "美元料创4月以来最大单周跌幅 降息预期升温打压走势",
           "url": "https://flash.jin10.com/detail/20260704035726761800",
           "source": "金十数据",
@@ -1246,40 +1479,6 @@
           "time_info": "[04时21分 ~ 06时12分]"
         },
         {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 15时53分]"
-        },
-        {
-          "title": "佛得角收获1100万美元赛事奖金",
-          "url": "https://www.toutiao.com/trending/7658547175105777162/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "佛得角队收获1100万美元奖金",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "巴西政府：数据显示，6月原油出口量为848万吨，上年同期为795万吨。",
           "url": "https://flash.jin10.com/detail/20260704020311102800",
           "source": "金十数据",
@@ -1289,17 +1488,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "佛得角收获1100万美元奖金",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -1410,6 +1598,17 @@
           "time_info": "[04时21分 ~ 06时12分]"
         },
         {
+          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
+          "url": "https://wallstreetcn.com/articles/3776162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时21分]"
+        },
+        {
           "title": "分析师称黄金已跌至公允价值！加息预期太过激进 黄金牛市并未结束",
           "url": "https://www.cls.cn/detail/2416404",
           "source": "财联社热门",
@@ -1419,6 +1618,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 06时12分]"
+        },
+        {
+          "title": "霉霉夫妇婚礼捐赠2600万美元",
+          "url": "https://www.douyin.com/hot/2557935",
+          "source": "抖音",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时21分]"
         },
         {
           "title": "SQM合资企业寻求智利30亿美元锂项目获批",
@@ -1443,6 +1654,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 04时21分]"
+        },
+        {
+          "title": "黄金如今又看美联储的脸色了",
+          "url": "https://wallstreetcn.com/articles/3776189",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "布伦特9月原油期货收涨0.32美元，涨幅超过0.44%，报72.12美元/桶，本周累计下跌0.66%。 中东Abu Dhabi Murban原油期货涨1.47%，报66.18美元/桶，本周累跌1.61%。",
@@ -1479,6 +1701,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 06时12分]"
+        },
+        {
+          "title": "黄金结束四周连跌！但分析师认为，持续复苏仍需三个条件",
+          "url": "https://wallstreetcn.com/articles/3776180",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
@@ -1573,17 +1806,6 @@
           "time_info": "06时12分"
         },
         {
-          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
-          "url": "https://wallstreetcn.com/articles/3776162",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
           "url": "https://flash.jin10.com/detail/20260704012107426800",
           "source": "金十数据",
@@ -1656,7 +1878,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1670,17 +1892,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "霉霉夫妇婚礼捐赠2600万美元",
-          "url": "https://www.douyin.com/hot/2557935",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "据知情人士透露，俄罗斯Norsi炼油厂暂停处理原油，此前在7月2日遭到无人机袭击。（路透）",
@@ -1700,7 +1911,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
