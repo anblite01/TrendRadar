@@ -1,46 +1,23 @@
 {
-  "generated_at": "2026-07-07T05:43:56.848716+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-07-07T07:16:08.464628+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 64,
+      "match_count": 71,
       "titles": [
         {
           "title": "中国男篮力克中国台北",
           "url": "https://www.douyin.com/hot/2560291",
           "source": "抖音",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "中国海军成功组织潜射战略导弹试射，有哪些亮点？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/2057451748705448806",
-          "source": "知乎",
-          "ranks": [
             1,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "不到2年 中国再向太平洋发射战略导弹",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E5%88%B02%E5%B9%B4+%E4%B8%AD%E5%9B%BD%E5%86%8D%E5%90%91%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%8F%91%E5%B0%84%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
         },
         {
           "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
@@ -48,11 +25,100 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "中国海军成功组织潜射战略导弹试射，有哪些亮点？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2057451748705448806",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "不到2年 中国再向太平洋发射战略导弹",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E5%88%B02%E5%B9%B4+%E4%B8%AD%E5%9B%BD%E5%86%8D%E5%90%91%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%8F%91%E5%B0%84%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "如何看美国队红牌特赦",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BA%A2%E7%89%8C%E7%89%B9%E8%B5%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
+          "url": "https://news.ifeng.com/c/8uYByScLdvD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "time_info": "[03时03分 ~ 07时16分]"
+        },
+        {
+          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "LV胜诉敲响中国纹样版权保护警钟",
+          "url": "https://s.weibo.com/weibo?q=%23LV%E8%83%9C%E8%AF%89%E6%95%B2%E5%93%8D%E4%B8%AD%E5%9B%BD%E7%BA%B9%E6%A0%B7%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4%E8%AD%A6%E9%92%9F%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6,
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "FIFA 决定美国核心主力巴洛贡红牌停赛处罚暂缓一年执行，如何评价这一决定？",
+          "url": "https://www.zhihu.com/question/2057280677406577002",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时16分]"
         },
         {
           "title": "特朗普：就红牌与国际足联主席通话",
@@ -68,6 +134,32 @@
           "time_info": "[00时57分 ~ 05时43分]"
         },
         {
+          "title": "台湾大叔：大陆要“收拾”台湾太简单",
+          "url": "https://www.toutiao.com/trending/7659031388231172102/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "国际足联主席回应美国球员巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8uYELXPooFC",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 07时16分]"
+        },
+        {
           "title": "中国在境内培训俄军士兵？中方：纯属污蔑抹黑",
           "url": "https://news.ifeng.com/c/8uXXl1QYTZF",
           "source": "凤凰网",
@@ -79,15 +171,15 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
-          "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
-          "url": "https://news.ifeng.com/c/8uYByScLdvD",
+          "title": "特朗普再回应巴洛贡红牌事件，称若比利时赢了美国就是有黑幕",
+          "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时03分 ~ 05时43分]"
+          "time_info": "[07时15分 ~ 07时16分]"
         },
         {
           "title": "特朗普一通电话后，国际足联“破例”了",
@@ -101,27 +193,120 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
-          "title": "如何看美国队红牌特赦",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BA%A2%E7%89%8C%E7%89%B9%E8%B5%A6",
-          "source": "bilibili 热搜",
+          "title": "川普关税施压,美国红牌不禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
           "ranks": [
-            3,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "中国首次成功向太平洋发射潜射战略导弹，释放何种重要信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526577",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
         },
         {
-          "title": "美国财报季将启 投资者看好业绩但警惕油价冲击",
-          "url": "https://flash.jin10.com/detail/20260707053053700800",
-          "source": "金十数据",
+          "title": "逼走中企后接盘工厂，美国还吹上新能源“复兴”了",
+          "url": "https://news.ifeng.com/c/8uXeqtz3Tj5",
+          "source": "凤凰网",
           "ranks": [
-            1
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "中国海军成功组织潜射战略导弹试射",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33525042",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "中国男篮力克中国台北",
+          "url": "https://www.toutiao.com/trending/7658607770665451574/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            9,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普插手世界杯红牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            9,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "LV被指垄断中国古纹样",
+          "url": "https://s.weibo.com/weibo?q=LV%E8%A2%AB%E6%8C%87%E5%9E%84%E6%96%AD%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%BA%B9%E6%A0%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "美国国庆日为何异象四起",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%BA%86%E6%97%A5%E4%B8%BA%E4%BD%95%E5%BC%82%E8%B1%A1%E5%9B%9B%E8%B5%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "美国人：现在才知道我们是个坏国家",
+          "url": "https://www.toutiao.com/trending/7659278040756944947/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：袭击伊朗、杀害伊朗人民的责任人，尤其是针对伊斯兰革命最高领袖的人，终将被追究责任。",
@@ -135,39 +320,15 @@
           "time_info": "03时03分"
         },
         {
-          "title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题",
-          "url": "https://flash.jin10.com/detail/20260707052248546800",
+          "title": "特朗普亲自“指导”沃尔玛降价，多类商品下调，其他零售商被点名“跟进”",
+          "url": "https://flash.jin10.com/detail/20260707065618722800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题",
-          "url": "https://wallstreetcn.com/livenews/3129575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "LV胜诉敲响中国纹样版权保护警钟",
-          "url": "https://s.weibo.com/weibo?q=%23LV%E8%83%9C%E8%AF%89%E6%95%B2%E5%93%8D%E4%B8%AD%E5%9B%BD%E7%BA%B9%E6%A0%B7%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4%E8%AD%A6%E9%92%9F%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "time_info": "07时16分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：全世界见证了伊斯兰革命和伊斯兰共和国依然坚定屹立；在人民支持下，伊朗既不会失败，也不会陷入僵局。",
@@ -179,30 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "FIFA 决定美国核心主力巴洛贡红牌停赛处罚暂缓一年执行，如何评价这一决定？",
-          "url": "https://www.zhihu.com/question/2057280677406577002",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "台湾大叔：大陆要“收拾”台湾太简单",
-          "url": "https://www.toutiao.com/trending/7659031388231172102/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
         },
         {
           "title": "中国银行、平安银行重启 5 年期大额存单，利率 1.6%，如何解读？会有更多银行跟进上架吗？",
@@ -229,27 +366,53 @@
           "time_info": "00时58分"
         },
         {
-          "title": "川普关税施压,美国红牌不禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
+          "title": "中国安能驰援南宁水库险情",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AE%89%E8%83%BD%E9%A9%B0%E6%8F%B4%E5%8D%97%E5%AE%81%E6%B0%B4%E5%BA%93%E9%99%A9%E6%83%85",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            8
+            29,
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 07时16分]"
         },
         {
-          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
-          "source": "澎湃新闻",
+          "title": "美国财报季将启 投资者看好业绩但警惕油价冲击",
+          "url": "https://flash.jin10.com/detail/20260707053053700800",
+          "source": "金十数据",
           "ranks": [
-            8
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题",
+          "url": "https://flash.jin10.com/detail/20260707052248546800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题",
+          "url": "https://wallstreetcn.com/livenews/3129575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
         },
         {
           "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
@@ -264,114 +427,16 @@
           "time_info": "[00时58分 ~ 03时03分]"
         },
         {
-          "title": "逼走中企后接盘工厂，美国还吹上新能源“复兴”了",
-          "url": "https://news.ifeng.com/c/8uXeqtz3Tj5",
-          "source": "凤凰网",
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "中国男篮力克中国台北",
-          "url": "https://www.toutiao.com/trending/7658607770665451574/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "中国首次成功向太平洋发射潜射战略导弹，释放何种重要信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33526577",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "特朗普插手世界杯红牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "中国海军成功组织潜射战略导弹试射",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33525042",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "LV被指垄断中国古纹样",
-          "url": "https://s.weibo.com/weibo?q=LV%E8%A2%AB%E6%8C%87%E5%9E%84%E6%96%AD%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%BA%B9%E6%A0%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
+            13,
             12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "美国国庆日为何异象四起",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%BA%86%E6%97%A5%E4%B8%BA%E4%BD%95%E5%BC%82%E8%B1%A1%E5%9B%9B%E8%B5%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "美国人：现在才知道我们是个坏国家",
-          "url": "https://www.toutiao.com/trending/7659278040756944947/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "中国安能驰援南宁水库险情",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AE%89%E8%83%BD%E9%A9%B0%E6%8F%B4%E5%8D%97%E5%AE%81%E6%B0%B4%E5%BA%93%E9%99%A9%E6%83%85",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "time_info": "[03时03分 ~ 07时16分]"
         },
         {
           "title": "古巴前领导人孙子：愿同特朗普谈判",
@@ -398,17 +463,6 @@
           "time_info": "[00时57分 ~ 03时03分]"
         },
         {
-          "title": "国际足联主席回应美国球员巴洛贡红牌事件",
-          "url": "https://news.ifeng.com/c/8uYELXPooFC",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 05时43分]"
-        },
-        {
           "title": "伊朗最高领袖发布任免令",
           "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
           "source": "凤凰网",
@@ -420,16 +474,40 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
-          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
-          "url": "https://www.cls.cn/detail/2417917",
-          "source": "财联社热门",
+          "title": "市场消息：Rivian向美国证券交易委员会（SEC）提交文件，拟发行7500万股A类普通股。",
+          "url": "https://flash.jin10.com/detail/20260707051128139800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            12
+            10,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时03分 ~ 05时43分]"
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
+          "url": "https://wallstreetcn.com/livenews/3129565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。",
+          "url": "https://flash.jin10.com/detail/20260707045256832800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
         },
         {
           "title": "美国博主一口闷茅台走红TikTok",
@@ -441,6 +519,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 00时58分]"
+        },
+        {
+          "title": "美国vs比利时",
+          "url": "https://www.douyin.com/hot/2561113",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
         },
         {
           "title": "美国前锋红牌被特赦 比利时上诉",
@@ -487,28 +576,6 @@
           "time_info": "00时58分"
         },
         {
-          "title": "市场消息：Rivian向美国证券交易委员会（SEC）提交文件，拟发行7500万股A类普通股。",
-          "url": "https://flash.jin10.com/detail/20260707051128139800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
-          "url": "https://wallstreetcn.com/livenews/3129565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
           "url": "https://flash.jin10.com/detail/20260707022859049800",
           "source": "金十数据",
@@ -518,17 +585,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。",
-          "url": "https://flash.jin10.com/detail/20260707045256832800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         },
         {
           "title": "美国总统特朗普赞赏股市上涨。",
@@ -559,7 +615,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -614,9 +670,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美国专利局撤销“和平委员会”商标申请",
+          "url": "https://wallstreetcn.com/livenews/3129581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国总统特朗普：做空者正遭受重创。",
@@ -628,6 +695,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "俄副外长：俄方将与美国在乌克兰问题上保持接触",
+          "url": "https://flash.jin10.com/detail/20260707054057544800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "美国两年期国债收益率跌约3个基点",
+          "url": "https://wallstreetcn.com/livenews/3129579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "国际足联主席：已接到美国总统特朗普关于巴洛贡世界杯停赛事宜的电话。",
@@ -647,9 +736,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "市场消息：美国民主党籍州总检察长反对特朗普拟对60个国家进口商品征收最高12.5%关税的计划。",
+          "url": "https://flash.jin10.com/detail/20260707053241420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国总统特朗普：将在白宫建设无人机港口。",
@@ -680,7 +780,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -743,7 +843,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "SK海力士ADR发行规模缩减至280亿美元，获大幅超额认购",
@@ -753,19 +853,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
         },
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7924元，较上周五夜盘收盘跌144点。成交量432.03亿美元。",
@@ -777,6 +901,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2418371",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时16分]"
+        },
+        {
+          "title": "三星电子公布业绩预告后，闪迪(SNDK.O)和美光科技(MU.O)美股盘后走低，现分别跌1.2%和0.7%。",
+          "url": "https://flash.jin10.com/detail/20260707065433008800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "WTI 8月原油期货收跌0.14美元，跌幅0.20报68.55美元/桶。 NYMEX 8月天然气期货收报3.2450美元/百万英热单位。 NYMEX 8月汽油期货收报3.0033美元/加仑，NYMEX 8月取暖油期货收报3.2984美元/加仑。",
@@ -823,17 +970,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
-          "url": "https://wallstreetcn.com/livenews/3129570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
@@ -847,28 +983,39 @@
           "time_info": "[00时57分 ~ 05时43分]"
         },
         {
-          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
-          "url": "https://wallstreetcn.com/articles/3776235",
-          "source": "华尔街见闻",
+          "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3129570",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            8
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
         },
         {
-          "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2418371",
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
+          "title": "市场消息：Rivian预计第二季度营收将在15.5亿至16.5亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260707051929797800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
         },
         {
           "title": "报道：Millennium Management两个交易团队在6月份盈利约37亿美元",
@@ -883,26 +1030,99 @@
           "time_info": "[00时58分 ~ 03时03分]"
         },
         {
-          "title": "市场消息：Rivian预计第二季度营收将在15.5亿至16.5亿美元之间。",
-          "url": "https://flash.jin10.com/detail/20260707051929797800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "周一（7月6日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7942元，较上周五纽约尾盘跌89点，日内整体交投于6.7819-6.7998元区间。",
           "url": "https://wallstreetcn.com/livenews/3129569",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "新兴市场资产在美元跌势中震荡：新兴市场内部观察",
+          "url": "https://wallstreetcn.com/livenews/3129568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "沃尔玛：下调碎牛肉价格，将每磅售价从6.74美元降至5.94美元。",
+          "url": "https://flash.jin10.com/detail/20260707051918529800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "周一（7月6日）纽约尾盘，现货黄金跌0.32%，报4163.55美元/盎司。 COMEX黄金期货涨1.19%，报4175美元/盎司。 现货白银跌0.62%，报62.0263美元/盎司。 COMEX白银期货涨2.31%，报62.475美元/盎司。 COMEX铜期货涨1.41%，报6.2560美元/磅。 现货铂金跌0.62%，现货钯金跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3129567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "沃尔玛美股盘后跌超0.3%，（美国中期选举之前，）总统特朗普要求该公司大幅降价。",
+          "url": "https://wallstreetcn.com/livenews/3129566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "美元指数6日微涨",
+          "url": "https://flash.jin10.com/detail/20260707045644750800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "丰田宣布将在美国得克萨斯州建设价值36亿美元的新工厂，并将部分卡车生产从墨西哥转移至美国。",
+          "url": "https://wallstreetcn.com/livenews/3129563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时16分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.427吨，当前持仓量为1002.793吨。",
+          "url": "https://flash.jin10.com/detail/20260707063148132800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时16分"
         },
         {
           "title": "周一（7月6日），韩元兑美元最终跌0.02%，报1529.98韩元，最近三个交易日累计涨幅收窄至1.30%。",
@@ -916,37 +1136,15 @@
           "time_info": "03时03分"
         },
         {
-          "title": "新兴市场资产在美元跌势中震荡：新兴市场内部观察",
-          "url": "https://wallstreetcn.com/livenews/3129568",
+          "title": "高盛：AI投资重心迈向实体产业，未来6年资本开支或达7.6万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3129433",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "沃尔玛：下调碎牛肉价格，将每磅售价从6.74美元降至5.94美元。",
-          "url": "https://flash.jin10.com/detail/20260707051918529800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "周一（7月6日）纽约尾盘，现货黄金跌0.32%，报4163.55美元/盎司。 COMEX黄金期货涨1.19%，报4175美元/盎司。 现货白银跌0.62%，报62.0263美元/盎司。 COMEX白银期货涨2.31%，报62.475美元/盎司。 COMEX铜期货涨1.41%，报6.2560美元/磅。 现货铂金跌0.62%，现货钯金跌0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3129567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时16分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月6日（周一）晚盘收盘下跌0.06%报909.0元/克；<br/>上海黄金交易所白银T+D 7月6日（周一）晚盘收盘上涨0.03%报15125.0元/千克。",
@@ -960,28 +1158,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "沃尔玛美股盘后跌超0.3%，（美国中期选举之前，）总统特朗普要求该公司大幅降价。",
-          "url": "https://wallstreetcn.com/livenews/3129566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美元指数6日微涨",
-          "url": "https://flash.jin10.com/detail/20260707045644750800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "周一（7月6日），美联储隔夜逆回购协议（RRP）使用规模为27.19亿美元（交易对手13家），上个交易日报21.75亿美元。",
           "url": "https://wallstreetcn.com/livenews/3129514",
           "source": "华尔街见闻-快讯",
@@ -993,24 +1169,13 @@
           "time_info": "03时03分"
         },
         {
-          "title": "丰田宣布将在美国得克萨斯州建设价值36亿美元的新工厂，并将部分卡车生产从墨西哥转移至美国。",
-          "url": "https://wallstreetcn.com/livenews/3129563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "周一（7月6日），彭博电动汽车价格回报指数涨0.01%，报3584.02点。 指数全天呈现出U形反转，北京时间10:00之前呈现出V形反转、10:04刷新日高至3590.43点，21:30美股开盘后快速地显著收复失地。",
           "url": "https://wallstreetcn.com/livenews/3129561",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1021,7 +1186,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1043,7 +1208,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1065,7 +1230,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1076,7 +1241,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1098,7 +1263,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1120,7 +1285,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1131,7 +1296,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1142,7 +1307,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1164,7 +1329,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1175,7 +1340,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -1186,7 +1351,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
