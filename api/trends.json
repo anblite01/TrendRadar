@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:48:37.926387+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-09T03:47:05.954169+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 48,
+      "match_count": 63,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "伊朗披露美军袭击造成的伤亡情况",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "俄罗斯女模特因长相酷似哈兰德走红",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -59,19 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "英国高级别防务官员力促伯纳姆考虑放松财政规则，包括发行战争债券",
-          "url": "https://wallstreetcn.com/livenews/3130841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -81,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -92,8 +81,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
@@ -103,8 +92,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "伊朗军方：若美国真的发动大规模战争，将会得到“惊喜”",
@@ -114,8 +103,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "俄罗斯女模特长相酷似哈兰德走红",
@@ -125,19 +126,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
@@ -147,8 +137,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
@@ -158,8 +148,31 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "万斯警告伊朗：若封锁霍尔木兹海峡将面临军事回应",
+          "url": "https://flash.jin10.com/detail/20260709033201821800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时47分"
+        },
+        {
+          "title": "英国高级别防务官员力促伯纳姆考虑放松财政规则，包括发行战争债券",
+          "url": "https://wallstreetcn.com/livenews/3130841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "特朗普先威胁“今夜”再打伊朗、恢复海上封锁，后“降温”：美伊局势升级会很快平息",
@@ -169,19 +182,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "顶着美国压力，携光刻机、芯片巨头，荷兰大臣此时访华有何意味？",
-          "url": "https://news.ifeng.com/c/8ubAla6m8JG",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
@@ -191,68 +193,269 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
-          "title": "中国U17男足不敌坦桑尼亚",
-          "url": "https://www.douyin.com/hot/2563867",
-          "source": "抖音",
+          "title": "顶着美国压力，携光刻机、芯片巨头，荷兰大臣此时访华有何意味？",
+          "url": "https://news.ifeng.com/c/8ubAla6m8JG",
+          "source": "凤凰网",
           "ranks": [
+            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "立陶宛新总理被质问：你为什么这么爱中国？",
           "url": "https://news.ifeng.com/c/8ubHp9j6kM0",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
-          "title": "【特朗普：美伊之间的局势升级会很快平息】美国总统特朗普8日在土耳其首都安卡拉表示，当前美国与伊朗之间的局势升级会很快平息，他不认为会再度爆发与伊朗的战争。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3130833",
-          "source": "华尔街见闻-快讯",
+          "title": "中国U17男足不敌坦桑尼亚",
+          "url": "https://www.douyin.com/hot/2563867",
+          "source": "抖音",
           "ranks": [
-            9
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "美军时隔10天再袭伊朗",
           "url": "https://www.douyin.com/hot/2562712",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
-          "title": "C罗和美国队淘汰 世界杯门票暴跌60%",
-          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E5%92%8C%E7%BE%8E%E5%9B%BD%E9%98%9F%E6%B7%98%E6%B1%B0+%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C60%25",
+          "title": "“中国房地产调整或接近尾声”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B0%83%E6%95%B4%E6%88%96%E6%8E%A5%E8%BF%91%E5%B0%BE%E5%A3%B0%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            10
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "美国队红牌复活了还能输球",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BA%A2%E7%89%8C%E5%A4%8D%E6%B4%BB%E4%BA%86%E8%BF%98%E8%83%BD%E8%BE%93%E7%90%83",
           "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "如何看待比利时官方嘲讽美国，称「这叫 Football 不叫 Soccer」？这两个词到底有什么区别？",
+          "url": "https://www.zhihu.com/question/2057808872559965817",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "味真足!中国麻辣烫拿捏日本胃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356008&amp;topic_name=%E5%91%B3%E7%9C%9F%E8%B6%B3%21%E4%B8%AD%E5%9B%BD%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%8B%BF%E6%8D%8F%E6%97%A5%E6%9C%AC%E8%83%83",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "这场震惊世人的中国在德留学生性侵案，受害者首次发声",
+          "url": "https://news.ifeng.com/c/8ubHj1Cy5V5",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33543824",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "邢自强：中国房地产调整或接近尾声",
+          "url": "https://www.toutiao.com/trending/7659924608824868910/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "特朗普要求切断美国与西班牙贸易往来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "比利时官方贴脸嘲讽美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355976&amp;topic_name=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AE%98%E6%96%B9%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "【特朗普：美伊之间的局势升级会很快平息】美国总统特朗普8日在土耳其首都安卡拉表示，当前美国与伊朗之间的局势升级会很快平息，他不认为会再度爆发与伊朗的战争。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3130833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
+        },
+        {
+          "title": "中国和巴拿马将会谈？中方回应",
+          "url": "https://www.toutiao.com/trending/7659697105909547027/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 03时47分]"
+        },
+        {
+          "title": "据NewsNation：白宫官员称，特朗普与内塔尼亚胡目前尚未安排会面，但特朗普此前透露内塔尼亚胡可能最早下周访问白宫。",
+          "url": "https://flash.jin10.com/detail/20260709032703537800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "市场消息：英国首相斯塔默称，即便卸任英国首相，他仍会继续与特朗普保持沟通。",
+          "url": "https://flash.jin10.com/detail/20260709032458311800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "伊朗外长与卡塔尔首相通话，强调外交渠道解决地区问题",
+          "url": "https://wallstreetcn.com/livenews/3130856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国副总统万斯声称：伊朗核计划被摧毁了。 如果他们（伊朗）射击我们的船只，美国将采取行动。 如果伊朗试图关闭霍尔木兹海峡，美方将做出反应。",
+          "url": "https://wallstreetcn.com/livenews/3130859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "C罗和美国队淘汰 世界杯门票暴跌60%",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E5%92%8C%E7%BE%8E%E5%9B%BD%E9%98%9F%E6%B7%98%E6%B1%B0+%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C60%25",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
@@ -272,15 +475,15 @@
           "time_info": "01时48分"
         },
         {
-          "title": "味真足!中国麻辣烫拿捏日本胃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356008&amp;topic_name=%E5%91%B3%E7%9C%9F%E8%B6%B3%21%E4%B8%AD%E5%9B%BD%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%8B%BF%E6%8D%8F%E6%97%A5%E6%9C%AC%E8%83%83",
-          "source": "贴吧",
+          "title": "国际货币基金组织：全球经济在中东战争冲击下总体表现出韧性。",
+          "url": "https://flash.jin10.com/detail/20260709032123080800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时47分"
         },
         {
           "title": "美国队惨败，比利时首相：我不会刺激特朗普",
@@ -288,28 +491,6 @@
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "这场震惊世人的中国在德留学生性侵案，受害者首次发声",
-          "url": "https://news.ifeng.com/c/8ubHj1Cy5V5",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -327,15 +508,37 @@
           "time_info": "01时48分"
         },
         {
-          "title": "“中国房地产调整或接近尾声”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B0%83%E6%95%B4%E6%88%96%E6%8E%A5%E8%BF%91%E5%B0%BE%E5%A3%B0%E2%80%9D",
-          "source": "百度热搜",
+          "title": "国际货币基金组织：当前不确定性依然高企，战争影响或将持续一段时间。",
+          "url": "https://flash.jin10.com/detail/20260709032000839800",
+          "source": "金十数据",
           "ranks": [
-            14
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国副总统万斯：DOL今天已经启动（至少）数十份H1-B签证的传唤。 那些大公司利用签证谋利。",
+          "url": "https://wallstreetcn.com/livenews/3130855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "伊朗外长：将以行动对特朗普言论作出回应",
+          "url": "https://wallstreetcn.com/livenews/3130854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "土耳其总统埃尔多安：特朗普强调我们之间的友谊，这对我们来说很有价值，我们感谢他。",
@@ -349,6 +552,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：两名伊朗渔民在周三美国对伊朗发动的袭击中丧生。",
+          "url": "https://flash.jin10.com/detail/20260709031819672800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "美国总统特朗普：我们现在石油过剩，油价将下跌。 石油（供应）将变得非常充裕，获取非常容易，且见效极快。",
           "url": "https://wallstreetcn.com/livenews/3130828",
           "source": "华尔街见闻-快讯",
@@ -360,26 +574,15 @@
           "time_info": "01时48分"
         },
         {
-          "title": "如何看待比利时官方嘲讽美国，称「这叫 Football 不叫 Soccer」？这两个词到底有什么区别？",
-          "url": "https://www.zhihu.com/question/2057808872559965817",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33543824",
-          "source": "澎湃新闻",
+          "title": "伊朗外长与卡塔尔首相通话 强调外交渠道解决地区问题",
+          "url": "https://flash.jin10.com/detail/20260709031444285800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时47分"
         },
         {
           "title": "伊朗外交部长：我们不会以粗俗回应粗俗，而是以行动作出回应。",
@@ -393,6 +596,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "创纪录的美国燃料出口正令国内库存承压",
+          "url": "https://wallstreetcn.com/livenews/3130849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "苏宁彻底清仓家乐福中国，52 亿入场 200 万离场，为何会走到这样的境地？老牌商超未来出路在哪？",
           "url": "https://www.zhihu.com/question/2057419047587919541",
           "source": "知乎",
@@ -404,44 +618,11 @@
           "time_info": "01时48分"
         },
         {
-          "title": "邢自强：中国房地产调整或接近尾声",
-          "url": "https://www.toutiao.com/trending/7659924608824868910/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "特朗普要求切断美国与西班牙贸易往来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
           "title": "特朗普：不认为会再次爆发伊朗战争",
           "url": "https://wallstreetcn.com/livenews/3130824",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -481,6 +662,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "消息人士：巴基斯坦陆军司令阿西姆·穆尼尔正与伊朗方面展开接触，试图缓和伊朗与美国之间不断升级的紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260709025533023800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "美国总统特朗普：将关注能否维持油价下跌。",
           "url": "https://wallstreetcn.com/livenews/3130816",
           "source": "华尔街见闻-快讯",
@@ -495,17 +687,6 @@
           "title": "美国总统特朗普赞赏北约秘书长吕特。",
           "url": "https://wallstreetcn.com/livenews/3130815",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "比利时官方贴脸嘲讽美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355976&amp;topic_name=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AE%98%E6%96%B9%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
           "ranks": [
             26
           ],
@@ -539,7 +720,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 12,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -549,8 +730,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
@@ -560,41 +741,65 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)：宣布将在加拿大阿尔伯塔省建设一座价值130亿加元（约91.7亿美元）的数据中心。该数据中心位于阿尔伯塔省斯特金县，装机容量达1吉瓦，将是公司在加拿大建设的首个数据中心。",
+          "url": "https://flash.jin10.com/detail/20260709033057056800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时47分"
+        },
+        {
+          "title": "伊拉克同意，停止向支持伊朗的那些武装人员提供美元资金。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3130864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8052元，较周二夜盘收盘跌110点。成交量486.95亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3130862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "周三（7月8日），美联储隔夜逆回购协议（RRP）使用规模为33.47亿美元（交易对手8家），上个交易日报44.84亿美元。",
           "url": "https://wallstreetcn.com/livenews/3130840",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国财政部拍卖390亿美元10年期国债，得标利率4.580%（6月10日为4.538%），投标倍数2.59（前次为2.57）。",
-          "url": "https://wallstreetcn.com/livenews/3130835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
           "url": "https://wallstreetcn.com/articles/3776446",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
@@ -604,8 +809,76 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "FBI追查阿根廷足协3亿美元大案",
+          "url": "https://www.baidu.com/s?wd=FBI%E8%BF%BD%E6%9F%A5%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E5%8D%8F3%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "美国财政部拍卖390亿美元10年期国债，得标利率4.580%（6月10日为4.538%），投标倍数2.59（前次为2.57）。",
+          "url": "https://wallstreetcn.com/livenews/3130835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时47分]"
+        },
+        {
+          "title": "美元指数8日下跌",
+          "url": "https://flash.jin10.com/detail/20260709032717085800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国5月消费信贷变动 -1.82亿美元，预期 172亿美元，前值 207.33亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3130860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国原油期货收涨约4.4%，中东穆尔班油价涨约8.1%",
+          "url": "https://wallstreetcn.com/livenews/3130858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "上期所原油期货2608合约夜盘收涨4.30%，报475.20元人民币/桶。 沪金夜盘收跌1.47%，沪银收跌3.88%。",
+          "url": "https://wallstreetcn.com/livenews/3130857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "LME期铜收跌200美元，报13166美元/吨。 LME期铝收跌6美元，报3132美元/吨。 LME期锌收跌53美元，报3519美元/吨。 LME期铅收涨7美元，报1892美元/吨。 LME期镍收跌10美元，报16338美元/吨。 LME期锡收跌1255美元，报52095美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -619,15 +892,15 @@
           "time_info": "01时48分"
         },
         {
-          "title": "FBI追查阿根廷足协3亿美元大案",
-          "url": "https://www.baidu.com/s?wd=FBI%E8%BF%BD%E6%9F%A5%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E5%8D%8F3%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E6%A1%88",
-          "source": "百度热搜",
+          "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至2.6%，报145.65美元。",
+          "url": "https://wallstreetcn.com/livenews/3130852",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时47分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的33.47亿美元。",
@@ -639,6 +912,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "据华尔街日报：伊拉克同意美方要求，将停止向伊朗支持的民兵组织提供美元流动。",
+          "url": "https://flash.jin10.com/detail/20260709030403030800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国财政部：在最新双周报告期内，投资基金购买2033年6月30日到期的7年期美国国债金额为315.59亿美元，低于上月的329.25亿美元。外国投资者购买2033年6月30日到期的7年期美国国债金额为58.64亿美元，高于上月的56.51亿美元。",
+          "url": "https://flash.jin10.com/detail/20260709030323832800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国财政部：在最新双周报告期内，投资基金购买2031年6月30日到期的5年期美国国债金额为506.26亿美元，略低于上月的508.47亿美元。外国投资者购买2031年6月30日到期的5年期美国国债金额为88.65亿美元，略低于上月的89.46亿美元。",
+          "url": "https://flash.jin10.com/detail/20260709030323201800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国财政部：在最新双周报告期内，投资基金购买2038年6月30日到期的2年期美国国债金额为534.59亿美元，高于上月的482.03亿美元。外国投资者购买2038年6月30日到期的2年期美国国债金额为69.42亿美元，低于上月的99.23亿美元。",
+          "url": "https://flash.jin10.com/detail/20260709030251837800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "特朗普讲话后，美股三大股指跌幅持续收窄，道指跌幅收窄至约1%，标普500跌0.41%，纳指跌0.15%。",
@@ -661,6 +978,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美国5月消费信贷 -1.8亿美元，预期171亿美元，前值由207.33亿美元修正为208.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260709030019394800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶78.02美元，上涨3.86美元，涨幅5.2%。",
+          "url": "https://flash.jin10.com/detail/20260709025432972800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
