@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T13:02:02.767287+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-07-10T16:33:42.979848+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 103,
+      "match_count": 115,
       "titles": [
         {
           "title": "中国潜射战略导弹让日本“破防”？评论员陈浩洋：日本还不配！",
@@ -67,6 +67,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时07分 ~ 08时13分]"
+        },
+        {
+          "title": "台风巴威减弱为强台风级，可能不会擦过台湾岛，11 日将正面袭击浙江福建，当地情况如何？可做哪些准备？",
+          "url": "https://www.zhihu.com/question/2058543803955241209",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时33分]"
+        },
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时33分]"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -182,28 +204,6 @@
           "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "台风巴威减弱为强台风级，可能不会擦过台湾岛，11 日将正面袭击浙江福建，当地情况如何？可做哪些准备？",
-          "url": "https://www.zhihu.com/question/2058543803955241209",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
           "title": "评论员：日本要习惯中国不再惯着",
           "url": "https://www.toutiao.com/trending/7659568449047445513/",
           "source": "今日头条",
@@ -226,6 +226,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "中国试射潜射战略导弹，日本防相倒打一耙",
+          "url": "https://news.ifeng.com/c/8ue45EHXf7M",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "据一份文件显示，苏丹军方已对美国提出的要求快速支援部队（RSF）撤出所有被占领城市的最新和平提案，设定了广泛的可接受条件。",
           "url": "https://flash.jin10.com/detail/20260710061109174800",
           "source": "金十数据",
@@ -235,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "长征十号乙运载火箭首飞，所用液态甲烷来自中国石化",
+          "url": "https://wallstreetcn.com/livenews/3131884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国“砍”自己一刀",
@@ -317,6 +339,19 @@
           "time_info": "08时13分"
         },
         {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 16时33分]"
+        },
+        {
           "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
           "url": "https://wallstreetcn.com/livenews/3131587",
           "source": "华尔街见闻-快讯",
@@ -339,18 +374,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 04时54分]"
-        },
-        {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时02分]"
         },
         {
           "title": "“二鬼子”章家敦，被特朗普点名批评了",
@@ -457,8 +480,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时33分]"
+        },
+        {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时33分]"
+        },
+        {
+          "title": "台风巴威逼近台湾东部现7.2米巨浪",
+          "url": "https://www.toutiao.com/trending/7660743945596440118/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时33分]"
+        },
+        {
+          "title": "日本遗孤吃中国饭长大为何“当鬼”",
+          "url": "https://www.toutiao.com/trending/7660701529334205998/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时33分]"
         },
         {
           "title": "美国白宫：调整商用飞机、喷气发动机以及飞机和发动机零部件进口政策。",
@@ -521,17 +579,6 @@
           "time_info": "[04时54分 ~ 06时39分]"
         },
         {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
           "title": "据伊朗官方媒体报道：伊朗位于Konarak的海军基地遭到“敌人”袭击。",
           "url": "https://wallstreetcn.com/livenews/3131538",
           "source": "华尔街见闻-快讯",
@@ -542,28 +589,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 06时39分]"
-        },
-        {
-          "title": "台风巴威逼近台湾东部现7.2米巨浪",
-          "url": "https://www.toutiao.com/trending/7660743945596440118/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "日本遗孤吃中国饭长大为何“当鬼”",
-          "url": "https://www.toutiao.com/trending/7660701529334205998/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "美主持人称日本被核爆两次却最爱美国",
@@ -597,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国至7月9日8周国债竞拍-得标利率配置百分比 68.8%，前值53.99%。",
@@ -687,6 +723,17 @@
           "time_info": "06时39分"
         },
         {
+          "title": "消息称以色列愿参与对伊打击 正等特朗普表态",
+          "url": "https://flash.jin10.com/detail/20260710161713901800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国至7月9日8周国债竞拍-投标倍数 2.95，前值2.7。",
           "url": "https://flash.jin10.com/detail/20260709233227797800",
           "source": "金十数据",
@@ -709,6 +756,17 @@
           "time_info": "04时54分"
         },
         {
+          "title": "美国亮出军事算盘，欲将霍尔木兹争端转化为对伊全面安全压力",
+          "url": "https://flash.jin10.com/detail/20260710161428914800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国至7月9日4周国债竞拍-投标倍数 2.64，前值2.72。",
           "url": "https://flash.jin10.com/detail/20260709233209014800",
           "source": "金十数据",
@@ -726,7 +784,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -797,6 +855,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "俄罗斯宣布实施柴油出口禁令，并在 7 月开始进口石油产品，俄能源供应出了什么问题？对俄乌局势有何影响？",
+          "url": "https://www.zhihu.com/question/2058336652251100581",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗恰巴哈尔省科纳拉克传出三声爆炸声。目前尚无关于爆炸原因以及可能造成损失程度的详细信息。",
           "url": "https://flash.jin10.com/detail/20260710022142127800",
           "source": "金十数据",
@@ -841,6 +910,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "以色列媒体：以愿参与对伊打击 正等特朗普表态",
+          "url": "https://wallstreetcn.com/livenews/3131864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "俄外长：俄罗斯不再相信西方有意愿进行谈判",
           "url": "https://flash.jin10.com/detail/20260710050910373800",
           "source": "金十数据",
@@ -874,6 +954,17 @@
           "time_info": "08时13分"
         },
         {
+          "title": "乌克兰袭击持续施压，IEA下调俄罗斯石油产量预测",
+          "url": "https://flash.jin10.com/detail/20260710161000621800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.56%，报6134.98点。 热门中概股里，日月光半导体涨8.6%，阿里巴巴涨2%，拼多多涨1.2%，网易涨0.2%，腾讯跌1.8%，小鹏、比亚迪、蔚来跌超2%。 ETF中，中国科技指数ETF（CQQQ）收涨4.38%，中概互联网指数ETF（KWEB）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨4.26%，德银嘉实沪深300指数ETF（ASHR）收涨2.99%，MSCI新兴市场ex中国ETF（EMXC）收涨0.77%。",
           "url": "https://wallstreetcn.com/livenews/3131532",
           "source": "华尔街见闻-快讯",
@@ -894,6 +985,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "中国不接受不承认所谓南海仲裁案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%8E%A5%E5%8F%97%E4%B8%8D%E6%89%BF%E8%AE%A4%E6%89%80%E8%B0%93%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国纽约联储佩尔利：充裕准备金框架足以应对市场转变",
@@ -924,7 +1026,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -982,6 +1084,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "美国与伊朗之间敌对行动升级，使前景蒙上阴影，并可能打乱国际能源署（IEA）对2027年石油市场供应过剩的预测。",
+          "url": "https://flash.jin10.com/detail/20260710160723112800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "据美国纽约联储数据，上个交易日（7月8日）担保隔夜融资利率（SOFR）报3.58%，之前一天报3.62%。 上个交易日有效的联邦基金利率报3.62%，之前一天报3.63%。",
@@ -1061,6 +1174,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "台风“巴威”逼近台湾",
+          "url": "https://www.douyin.com/hot/2565677",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国7月3日当周EIA天然气库存变动 610亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3131436",
           "source": "华尔街见闻-快讯",
@@ -1127,6 +1251,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "以总理称杀死伊朗20名核专家，粉碎伊朗弹道导弹生产计划",
+          "url": "https://wallstreetcn.com/livenews/3131846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "以总理：“不允许”伊朗拥核 拟大幅追加国防预算",
           "url": "https://flash.jin10.com/detail/20260710070756335800",
           "source": "金十数据",
@@ -1185,7 +1320,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -1207,8 +1342,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 16时33分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -1219,8 +1354,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 16时33分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -1245,6 +1380,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时07分 ~ 08时13分]"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 16时33分]"
         },
         {
           "title": "纽元兑美元NZD/USD日内涨幅达1%，现报0.5755。",
@@ -1313,16 +1460,17 @@
           "time_info": "06时39分"
         },
         {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
+          "title": "报道：SK海力士ADR指导价149美元，较韩股收盘价溢价3.1%",
+          "url": "https://wallstreetcn.com/articles/3776593",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5
+            10,
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[06时39分 ~ 16时33分]"
         },
         {
           "title": "美国至7月3日当周外国央行持有美国国债 -286.05亿美元，前值-110.64亿美元。",
@@ -1347,19 +1495,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 08时13分]"
-        },
-        {
-          "title": "报道：SK海力士ADR指导价149美元，较韩股收盘价溢价3.1%",
-          "url": "https://wallstreetcn.com/articles/3776593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时39分 ~ 13时02分]"
         },
         {
           "title": "据知情人士透露，SK海力士美国IPO定价为每份ADS 149美元。（彭博）",
@@ -1515,7 +1650,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -1564,13 +1699,24 @@
           "time_info": "04时54分"
         },
         {
+          "title": "IEA月报：预计2026年全球石油需求将下降100万桶/日（此前预测为下降110万桶/日）。 2026年全球石油供应量将减少370万桶/日（此前预测为减少390万桶/日）。 随着霍尔木兹海峡通航恢复，6月全球石油供应量增加410万桶/日，但仍较战前水平低940万桶/日。 如果霍尔木兹海峡通航状况改善，预计供应增长为750万桶/日，需求增长为200万桶/日。 美伊敌对局势升级给前景带来不确定性，可能颠覆2027年供应过剩的预测。 6月炼油活动和成品油供应对霍尔木兹海峡重新开放的反应慢于原油，导致夏季需求高峰期间燃料市场收紧。",
+          "url": "https://wallstreetcn.com/livenews/3131866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "哈萨克斯坦央行：哈萨克斯坦6月份的净黄金和外汇储备为601.61亿美元（环比下降7.8%）。",
           "url": "https://flash.jin10.com/detail/20260710121256602800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -1757,7 +1903,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -1784,6 +1930,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "IEA月报：与原油市场相比，炼油厂的运营和产品供应对6月霍尔木兹海峡重新开放的反应较为迟缓，导致夏季需求高峰期间燃料市场趋紧。",
+          "url": "https://flash.jin10.com/detail/20260710160514111800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "巴西维持12%原油出口税，将于30天内重新评估该措施",
           "url": "https://wallstreetcn.com/livenews/3131483",
           "source": "华尔街见闻-快讯",
@@ -1804,6 +1961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "土耳其央行通过传统方式开启为期一周的黄金换里拉卖方掉期拍卖，规模为10吨。",
+          "url": "https://flash.jin10.com/detail/20260710160454659800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "LME期铜收涨324美元，报13490美元/吨。 LME期铝收涨68美元，报3200美元/吨。 LME期锌收涨108美元，报3626美元/吨。 LME期铅收平，报1892美元/吨。 LME期镍收涨249美元，报16587美元/吨。 LME期锡收涨1552美元，报53647美元/吨。 LME期钴收平，报56290美元/吨。",
