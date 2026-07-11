@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T14:22:34.608610+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-07-11T16:54:44.227802+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 140,
+      "match_count": 155,
       "titles": [
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 16时54分]"
         },
         {
           "title": "新加坡前外长：多亏中国，我们小国也能从中受益",
@@ -41,6 +41,21 @@
           "time_info": "[01时54分 ~ 07时06分]"
         },
         {
+          "title": "如何看待周星驰电影《功夫女足》首日排片超 22.6 万场，刷新中国内地影史暑期档首日场次纪录？",
+          "url": "https://www.zhihu.com/question/2059024185498808451",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时44分 ~ 16时54分]"
+        },
+        {
           "title": "巴威减弱由强台风级改为台风级，可能不会擦过台湾岛，预计 12 日登陆浙江福建，当地情况如何？可做哪些准备？",
           "url": "https://www.zhihu.com/question/2058543803955241209",
           "source": "知乎",
@@ -52,6 +67,22 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 07时06分]"
+        },
+        {
+          "title": "UP主实拍中国首枚火箭回收",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            6,
+            7,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 16时54分]"
         },
         {
           "title": "中国可回收火箭里程碑时刻！长征十号乙首飞成功，实现全球首创海上网系回收",
@@ -91,33 +122,26 @@
           "time_info": "[01时54分 ~ 07时06分]"
         },
         {
-          "title": "UP主实拍中国首枚火箭回收",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6",
-          "source": "bilibili 热搜",
+          "title": "一组数据看中国经济蓬勃发展",
+          "url": "https://www.toutiao.com/trending/7660329513477439531/",
+          "source": "今日头条",
           "ranks": [
-            3,
-            5,
-            6,
-            7,
-            20
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 16时54分]"
         },
         {
-          "title": "如何看待周星驰电影《功夫女足》首日排片超 22.6 万场，刷新中国内地影史暑期档首日场次纪录？",
-          "url": "https://www.zhihu.com/question/2059024185498808451",
-          "source": "知乎",
+          "title": "中国救援的底气",
+          "url": "https://www.douyin.com/hot/2566781",
+          "source": "抖音",
           "ranks": [
-            18,
-            12,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时44分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 16时54分]"
         },
         {
           "title": "为了美国，土耳其竟转卖俄顶尖武器，克宫：这个问题极其敏感",
@@ -129,28 +153,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时54分 ~ 11时29分]"
-        },
-        {
-          "title": "一组数据看中国经济蓬勃发展",
-          "url": "https://www.toutiao.com/trending/7660329513477439531/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时22分]"
-        },
-        {
-          "title": "中国救援的底气",
-          "url": "https://www.douyin.com/hot/2566781",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时22分]"
         },
         {
           "title": "多个弹坑正被修复，美媒称卫星图像显示伊朗或正重建核设施",
@@ -201,15 +203,15 @@
           "time_info": "07时06分"
         },
         {
-          "title": "据沙特媒体哈达斯：有未证实消息称，在伊朗巴克达什特和巴尔希因附近听到强烈爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260711141035412800",
+          "title": "特朗普改口：美加跨国大桥将于27日通车",
+          "url": "https://flash.jin10.com/detail/20260711162225573800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "16时54分"
         },
         {
           "title": "特朗普警告称，若伊朗企图对其实施暗杀，美方导弹将对准伊朗。",
@@ -274,26 +276,15 @@
           "time_info": "07时06分"
         },
         {
-          "title": "伊朗国家媒体：伊朗外长阿拉格齐抵达阿曼首都马斯喀特。",
-          "url": "https://flash.jin10.com/detail/20260711140137269800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "白宫证实特朗普已“清空”美选举援助委员会",
-          "url": "https://wallstreetcn.com/livenews/3132310",
+          "title": "特朗普改口：美加跨国大桥将于27日通车",
+          "url": "https://wallstreetcn.com/livenews/3132331",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "16时54分"
         },
         {
           "title": "以媒：以色列应美国要求限制在黎巴嫩军事行动",
@@ -307,15 +298,15 @@
           "time_info": "07时06分"
         },
         {
-          "title": "中国人民银行举办专题讲座",
-          "url": "https://wallstreetcn.com/livenews/3132309",
+          "title": "伊朗德黑兰省东部爆炸系销毁未爆炸弹和弹药造成",
+          "url": "https://wallstreetcn.com/livenews/3132330",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "16时54分"
         },
         {
           "title": "巴基斯坦总理：与伊朗总统通话，强调克制、对话与外交维护地区和平。",
@@ -368,7 +359,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -420,6 +411,18 @@
           "time_info": "[11时29分 ~ 14时22分]"
         },
         {
+          "title": "据沙特媒体哈达斯：有未证实消息称，在伊朗巴克达什特和巴尔希因附近听到强烈爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260711141035412800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 16时54分]"
+        },
+        {
           "title": "伊朗议会议长：若美背弃协议，伊将坚决对抗",
           "url": "https://wallstreetcn.com/livenews/3132208",
           "source": "华尔街见闻-快讯",
@@ -456,6 +459,18 @@
           "time_info": "[05时14分 ~ 07时06分]"
         },
         {
+          "title": "伊朗国家媒体：伊朗外长阿拉格齐抵达阿曼首都马斯喀特。",
+          "url": "https://flash.jin10.com/detail/20260711140137269800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 16时54分]"
+        },
+        {
           "title": "巴基斯坦Sharif：与伊朗总统通话。 我们讨论了地区局势。 同意推进双边合作。",
           "url": "https://wallstreetcn.com/livenews/3132207",
           "source": "华尔街见闻-快讯",
@@ -466,6 +481,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 03时45分]"
+        },
+        {
+          "title": "白宫证实特朗普已“清空”美选举援助委员会",
+          "url": "https://wallstreetcn.com/livenews/3132310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 16时54分]"
+        },
+        {
+          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
+          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 16时54分]"
         },
         {
           "title": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
@@ -490,6 +529,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 07时06分]"
+        },
+        {
+          "title": "中国人民银行举办专题讲座",
+          "url": "https://wallstreetcn.com/livenews/3132309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 16时54分]"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 16时54分]"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：伊朗不会允许对遭美国和以色列袭击受损的设施进行核查，《联合国安理会第2231号决议》实际上已失去法律效力。",
@@ -564,6 +627,43 @@
           "time_info": "[01时54分 ~ 05时14分]"
         },
         {
+          "title": "“法国客户需求紧急”，中国工厂开足马力",
+          "url": "https://news.ifeng.com/c/8ufJxqFg3TY",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 16时54分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 16时54分]"
+        },
+        {
+          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
+          "url": "https://www.cls.cn/detail/2423447",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 16时54分]"
+        },
+        {
           "title": "中国不接受不承认所谓南海仲裁案",
           "url": "https://www.toutiao.com/trending/7660146656280772617/",
           "source": "今日头条",
@@ -587,18 +687,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 07时06分]"
-        },
-        {
-          "title": "“法国客户需求紧急”，中国工厂开足马力",
-          "url": "https://news.ifeng.com/c/8ufJxqFg3TY",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时22分]"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：基于负责任立场，未拒绝地区调解方访伊并就最新事态举行会谈的请求。",
@@ -649,18 +737,6 @@
           "time_info": "[03时45分 ~ 05时14分]"
         },
         {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时22分]"
-        },
-        {
           "title": "伊朗外交部发言人巴盖伊：卡塔尔代表团访问伊朗马什哈德，伊方已向其传达观点和立场。",
           "url": "https://flash.jin10.com/detail/20260711042211223800",
           "source": "金十数据",
@@ -702,18 +778,6 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时22分]"
-        },
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            11,
             10
           ],
           "is_new": false,
@@ -769,6 +833,18 @@
           "time_info": "[11时29分 ~ 14时22分]"
         },
         {
+          "title": "食贫道带美国演员逛重庆",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E5%B8%A6%E7%BE%8E%E5%9B%BD%E6%BC%94%E5%91%98%E9%80%9B%E9%87%8D%E5%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 16时54分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：以色列对南黎巴嫩的袭击造成1人死亡，3人受伤。",
           "url": "https://flash.jin10.com/detail/20260711102821152800",
           "source": "金十数据",
@@ -789,17 +865,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
-        },
-        {
-          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
-          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
         },
         {
           "title": "据Axios：美方要求伊朗最迟于周六前公开表示不再袭击霍尔木兹海峡。",
@@ -857,6 +922,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "俄罗斯当局表示，塔甘罗格湾的船只遭到无人机袭击，造成一人死亡。",
+          "url": "https://flash.jin10.com/detail/20260711154700339800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗外长阿拉格齐将于周六率团访问阿曼，就霍尔木兹海峡问题及双边关系举行会谈。",
           "url": "https://flash.jin10.com/detail/20260711025239161800",
           "source": "金十数据",
@@ -901,6 +977,17 @@
           "time_info": "11时29分"
         },
         {
+          "title": "俄罗斯罗斯托夫当局表示，该地区两处油库火灾已扑灭。",
+          "url": "https://flash.jin10.com/detail/20260711153816251800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "SK海力士ADR美国上市首日初步收涨12.9%。",
           "url": "https://wallstreetcn.com/livenews/3132241",
           "source": "华尔街见闻-快讯",
@@ -934,15 +1021,15 @@
           "time_info": "11时29分"
         },
         {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
+          "title": "“以打促谈”还是“战略转变”？美国给出“周六开通霍尔木兹海峡”的“最后通牒”",
+          "url": "https://wallstreetcn.com/articles/3776691",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "16时54分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰将在武装部队内设立“远程打击”指挥部，瞄准俄罗斯。",
@@ -967,13 +1054,24 @@
           "time_info": "05时14分"
         },
         {
+          "title": "据俄新社：乌军一天之内对俄罗斯别尔哥罗德州发动41次袭击，47架无人机被拦截。",
+          "url": "https://flash.jin10.com/detail/20260711153515000800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "伊朗外长谴责美国财长违反谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3132302",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1006,7 +1104,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1017,7 +1115,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1066,13 +1164,24 @@
           "time_info": "07时06分"
         },
         {
+          "title": "伊朗德黑兰省东部爆炸系销毁未爆炸弹和弹药造成",
+          "url": "https://flash.jin10.com/detail/20260711153356018800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "伊朗称美国违反谅解备忘录后果自负",
           "url": "https://wallstreetcn.com/livenews/3132300",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1097,6 +1206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "中国航协：下半年要深化通航与低空经济业务开展",
+          "url": "https://flash.jin10.com/detail/20260711152756572800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "伊拉克下调8月份对亚洲、美国、欧洲买家的石油价格。",
@@ -1152,6 +1272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "据以色列媒体“Kan”报道，以色列政界已指示军方暂停所有被视为在南黎巴嫩“敏感”的行动，这一决定是基于美国的请求。该指令将持续有效，直到发布新指令。",
+          "url": "https://flash.jin10.com/detail/20260711152152877800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "伊朗西部一座炼油厂发生大火",
@@ -1226,7 +1357,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1248,7 +1379,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1264,13 +1395,24 @@
           "time_info": "01时54分"
         },
         {
+          "title": "伊朗德黑兰东部传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3132316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "“人民英雄”陈薇任中国工程院副院长",
           "url": "https://www.toutiao.com/trending/7661085054773755914/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1319,6 +1461,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "伊朗外交部长阿拉格齐抵达阿曼",
+          "url": "https://wallstreetcn.com/livenews/3132315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "伊朗议长放话：不会投降，若美方“背信”将全面防御",
           "url": "https://flash.jin10.com/detail/20260711010206010800",
           "source": "金十数据",
@@ -1339,6 +1492,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "伊朗媒体Fars News援引官方消息称，德黑兰省东部听到的爆炸声与销毁爆炸物的控制行动有关。",
+          "url": "https://flash.jin10.com/detail/20260711143303492800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "台风巴威致台湾超13万户停电",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E8%87%B4%E5%8F%B0%E6%B9%BE%E8%B6%8513%E4%B8%87%E6%88%B7%E5%81%9C%E7%94%B5%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：若美方背弃谅解备忘录，德黑兰已准备好进行“全面防御”。",
@@ -1391,9 +1566,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "据伊朗媒体FarsNews：几分钟前，帕克达什特和基亚姆达什特的居民从德黑兰省东部方向听到了爆炸声。目前爆炸的来源和确切地点尚不清楚。",
+          "url": "https://flash.jin10.com/detail/20260711142056792800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "俄罗斯6月CPI环比上升0.87%，预期上升0.83%。 6月CPI同比上升6.02%，预期上升6%。 6月核心CPI环比上升0.48%，同比上升5.02%。",
@@ -1424,7 +1610,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1457,7 +1643,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1501,7 +1687,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1526,17 +1712,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        },
-        {
-          "title": "食贫道带美国演员逛重庆",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E5%B8%A6%E7%BE%8E%E5%9B%BD%E6%BC%94%E5%91%98%E9%80%9B%E9%87%8D%E5%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
         },
         {
           "title": "据AXIOS：美国总统特朗普与沙特王储于周五就地区问题进行会谈，包括美伊谈判。",
@@ -1589,7 +1764,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1608,7 +1783,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -1617,11 +1792,29 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 16时54分]"
+        },
+        {
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 16时54分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -1647,22 +1840,6 @@
           "time_info": "[01时54分 ~ 05时14分]"
         },
         {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时22分]"
-        },
-        {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
@@ -1672,8 +1849,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 16时54分]"
         },
         {
           "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -1683,8 +1860,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 16时54分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -1694,8 +1871,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 16时54分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -1707,8 +1884,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 16时54分]"
         },
         {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -1815,6 +1992,32 @@
           "time_info": "[05时14分 ~ 07时06分]"
         },
         {
+          "title": "头条世界杯｜西班牙绝杀送走黄金一代，36场不败静候法国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33564226",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 16时54分]"
+        },
+        {
+          "title": "一人一句致敬比利时黄金一代",
+          "url": "https://www.douyin.com/hot/2566621",
+          "source": "抖音",
+          "ranks": [
+            13,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 16时54分]"
+        },
+        {
           "title": "周五（7月10日），美联储隔夜逆回购协议（RRP）使用规模为5.45亿美元（交易对手3家），上个交易日报57.72亿美元。",
           "url": "https://wallstreetcn.com/livenews/3132202",
           "source": "华尔街见闻-快讯",
@@ -1825,18 +2028,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 03时45分]"
-        },
-        {
-          "title": "头条世界杯｜西班牙绝杀送走黄金一代，36场不败静候法国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33564226",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时22分]"
         },
         {
           "title": "WTI 8月原油期货收跌0.67美元，跌幅0.93%，报71.41美元/桶，本周累计上涨将近3.96%。 布伦特9月原油期货收跌0.29美元，跌幅0.38%，报76.01美元/桶，本周累涨超5.39%。 中东Abu Dhabi Murban原油期货跌0.99%，报70.66美元/桶，本周累涨6.29%。 NYMEX 8月天然气期货收报2.94美元/百万英热单位。 NYMEX 8月汽油期货收报2.9846美元/加仑，NYMEX 8月取暖油期货收报3.5533美元/加仑。",
@@ -1899,18 +2090,6 @@
           "time_info": "[03时45分 ~ 05时14分]"
         },
         {
-          "title": "一人一句致敬比利时黄金一代",
-          "url": "https://www.douyin.com/hot/2566621",
-          "source": "抖音",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时22分]"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：7月7日当周，投机者所持WTI原油净多头头寸减少19,507手合约，至65,681手合约。",
           "url": "https://wallstreetcn.com/livenews/3132232",
           "source": "华尔街见闻-快讯",
@@ -1935,15 +2114,38 @@
           "time_info": "[05时14分 ~ 07时06分]"
         },
         {
+          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2059159511039055807",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 16时54分]"
+        },
+        {
           "title": "据半岛电视台：伊朗官员表示，该国研究基础设施在战争中遭受了3亿美元损失。",
           "url": "https://flash.jin10.com/detail/20260711133101594800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "布伦特原油期货结算价为每桶76.01美元，下跌29美分，跌幅0.38%。",
@@ -2067,17 +2269,6 @@
           "time_info": "07时06分"
         },
         {
-          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
-          "url": "https://www.zhihu.com/question/2059159511039055807",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 7月10日（周五）晚盘收盘下跌0.34%报895.57元/克；<br/>上海黄金交易所白银T+D 7月10日（周五）晚盘收盘下跌0.69%报14535.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260711023017258800",
           "source": "金十数据",
@@ -2106,7 +2297,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -2117,7 +2308,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
