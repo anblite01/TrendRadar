@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T00:22:08.581547+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-15T02:11:30.145855+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 41,
+      "match_count": 58,
       "titles": [
         {
           "title": "外交部：奉劝有关国家不要沦为美国帮凶",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "通胀全面降温！美国6月CPI同比上涨3.5%远低于预期，环比六年来首次下降，核心CPI涨幅收窄至2.6%",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "美国CPI六年来首现负增长！市场随即“开香槟” 但油价风险已经重燃",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "菲尔兹奖泄露,中国数学家封神",
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "美国6月CPI低于预期 纳指期货涨超1% IBM盘前暴跌逾22% | 今夜看点",
@@ -92,8 +92,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "伊朗向科威特目标、巴林目标发射导弹和无人机。（伊朗媒体MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3133823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "美联储主席沃什：今天的（美国CPI通胀）数据出炉后，我可不认为“任务完成”、也不认为“一切都很好”。 我来这里是为了再次强调美联储2%的通胀目标。",
@@ -102,9 +113,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美国疾控中心（CDC）：已确认全美34个州共有1645例环孢子虫感染病例。 CDC正在调查另外报告的5100例环孢子虫疑似病例。",
+          "url": "https://wallstreetcn.com/livenews/3133818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗表示，今日美国对基什岛港口的袭击导致数艘船只受损。",
@@ -113,9 +135,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：美国6月CPI通胀数据不错。",
+          "url": "https://wallstreetcn.com/livenews/3133817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -125,8 +158,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
@@ -136,8 +169,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -147,8 +192,158 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "“战争贩子”格雷厄姆妹妹接班，“对华鹰派”还能左右白宫吗？",
+          "url": "https://news.ifeng.com/c/8ukzcl9b57p",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "“看到高市这样，我真的觉得他们是在为战争做准备”",
+          "url": "https://news.ifeng.com/c/8ukg6bwDjn7",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
+          "url": "https://wallstreetcn.com/articles/3776884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "美媒这次服了中国电网",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E8%BF%99%E6%AC%A1%E6%9C%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "如何看特朗普在霍尔木兹收费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "美国媒体，这次服了中国电网",
+          "url": "https://news.ifeng.com/c/8ulCTzV3bNC",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "中国驻孟加拉国大使馆：提醒中国公民谨慎来孟娶妻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33585138",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "挑战在美国E人coser前跳舞",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8%E7%BE%8E%E5%9B%BDE%E4%BA%BAcoser%E5%89%8D%E8%B7%B3%E8%88%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "经纬度：中国人工智能发展的战略定力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574020",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "感动中国2025年度人物揭晓",
+          "url": "https://www.baidu.com/s?wd=%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD2025%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E6%8F%AD%E6%99%93",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "美国外卖小哥戴项圈抢银行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356137&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%88%B4%E9%A1%B9%E5%9C%88%E6%8A%A2%E9%93%B6%E8%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
+        },
+        {
+          "title": "中国U17女篮不敌西班牙",
+          "url": "https://www.toutiao.com/trending/7661962253742784539/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "感动中国2025年度人物颁奖盛典",
@@ -162,165 +357,11 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "“战争贩子”格雷厄姆妹妹接班，“对华鹰派”还能左右白宫吗？",
-          "url": "https://news.ifeng.com/c/8ukzcl9b57p",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "如何看特朗普在霍尔木兹收费",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "“看到高市这样，我真的觉得他们是在为战争做准备”",
-          "url": "https://news.ifeng.com/c/8ukg6bwDjn7",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
-          "url": "https://wallstreetcn.com/articles/3776884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "美国媒体，这次服了中国电网",
-          "url": "https://news.ifeng.com/c/8ulCTzV3bNC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "中国驻孟加拉国大使馆：提醒中国公民谨慎来孟娶妻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33585138",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "经纬度：中国人工智能发展的战略定力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33574020",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "感动中国2025年度人物揭晓",
-          "url": "https://www.baidu.com/s?wd=%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD2025%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E6%8F%AD%E6%99%93",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
           "title": "中国燃油车只剩最后一根续命稻草",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%AA%E5%89%A9%E6%9C%80%E5%90%8E%E4%B8%80%E6%A0%B9%E7%BB%AD%E5%91%BD%E7%A8%BB%E8%8D%89%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "美媒这次服了中国电网",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E8%BF%99%E6%AC%A1%E6%9C%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "美国外卖小哥戴项圈抢银行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356137&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%88%B4%E9%A1%B9%E5%9C%88%E6%8A%A2%E9%93%B6%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "挑战在美国E人coser前跳舞",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8%E7%BE%8E%E5%9B%BDE%E4%BA%BAcoser%E5%89%8D%E8%B7%B3%E8%88%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "中国U17女篮不敌西班牙",
-          "url": "https://www.toutiao.com/trending/7661962253742784539/",
-          "source": "今日头条",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -349,15 +390,48 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
+          "title": "俄罗斯亿万富翁赢得诉讼，成功罢免风投基金管理人",
+          "url": "https://wallstreetcn.com/livenews/3133815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
           "title": "美国6月CPI涨幅回落但通胀压力仍存",
           "url": "https://flash.jin10.com/detail/20260714234354358800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://wallstreetcn.com/articles/3776923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "英债价格于美国CPI通胀数据发布日呈现出V形走势",
+          "url": "https://wallstreetcn.com/livenews/3133810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "美国与英国围绕稳定币发布联合声明。",
@@ -366,7 +440,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -377,9 +451,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们将以实际行动回应特朗普的叫嚣，并将捍卫祖国的每一寸土地。特朗普的无礼言论，只配留给美国人自己。",
+          "url": "https://flash.jin10.com/detail/20260715011502137800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "美国总统特朗普告诉以色列总理内塔尼亚胡：将（以色列）军队撤出叙利亚和黎巴嫩。 两人上周四通电话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3133807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "据国际文传电讯社：俄罗斯表示国际空间站的运营预计将在2030年结束。",
@@ -388,9 +484,64 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "提醒：美联储主席沃什在美国众议院金融服务委员会的听证会结束，周三还将出席参议院银行委员会的听证会。",
+          "url": "https://wallstreetcn.com/livenews/3133820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
+          "url": "https://flash.jin10.com/detail/20260715010957773800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "中国数学家或斩获菲尔兹奖",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%88%96%E6%96%A9%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "据AXIOS：美国总统特朗普要求以色列总理内塔尼亚胡将军队撤出叙利亚和黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260715010408240800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "据伊朗官方媒体：安迪梅什克爆炸声源于受控爆破，并非敌方发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260715010348604800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗格什姆岛传出爆炸声，原因不明。",
@@ -399,7 +550,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -410,7 +561,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -421,7 +572,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -432,7 +583,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -443,9 +594,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "德国两年期国债收益率于美国CPI通胀数据发布日涨超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3133799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "特朗普转变态度力挺乌克兰有何意图",
+          "url": "https://www.toutiao.com/trending/7662341237323599366/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "美国至7月14日6周国债竞拍-投标倍数 2.84，前值2.74。",
@@ -454,15 +627,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗逾180名议员发表声明，要求“惩罚”袭击肇事者",
+          "url": "https://wallstreetcn.com/livenews/3133796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "杀害中国医生的柬嫌犯曾杀害亲妹",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%80%E5%AE%B3%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%9A%84%E6%9F%AC%E5%AB%8C%E7%8A%AF%E6%9B%BE%E6%9D%80%E5%AE%B3%E4%BA%B2%E5%A6%B9",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -472,8 +667,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
@@ -483,8 +678,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -494,8 +689,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "彭博美元指数跌幅收窄，美联储主席沃什正在讲话。 美国国债价格回吐涨幅，沃什淡化美国6月CPI通胀数据的意义。",
@@ -504,7 +699,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -515,9 +710,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "乌克兰国家石油公司：正在重组12亿美元的欧洲债券。",
+          "url": "https://flash.jin10.com/detail/20260715013407507800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时11分]"
         },
         {
           "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
@@ -531,26 +749,26 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
           "title": "美联储主席沃什：美元流动性互换额度是货币政策的一部分。",
           "url": "https://flash.jin10.com/detail/20260714234449145800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "周二（7月14日），美联储隔夜逆回购协议（RRP）使用规模为2.78亿美元（交易对手4家），上个交易日报7.95亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3133813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "SK海力士ADR涨幅扩大至19.37%，刷新日高至181.97美元。",
@@ -559,9 +777,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的2.78亿美元。",
+          "url": "https://flash.jin10.com/detail/20260715011634557800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "韩国向乌克兰提供一亿美元援助，这对俄罗斯有何影响？",
+          "url": "https://www.zhihu.com/question/2059387546061349903",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "Prosus于7月6-10日按均价39.5574欧元回购股票252.7143万股，合计将近0.9997亿欧元（折合超1.141亿美元）。 Naspers同期按均价861.1487南非兰特回购112.1078万股，合计9.654亿兰特（折合超0.591亿美元）。",
@@ -570,9 +810,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "数字货币市场普涨，美国CPI数据发布后比特币一度涨向6.5万美元",
+          "url": "https://wallstreetcn.com/livenews/3133802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "LME期铜收涨102美元，报13643美元/吨。 LME期铝收涨8美元，报3177美元/吨。 LME期锌收涨32美元，报3598美元/吨。 LME期铅收跌2美元，报1866美元/吨。 LME期镍收跌1美元，报16765美元/吨。 LME期锡收涨1215美元，报53813美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3133800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "美股开盘：AI硬件股上涨 IBM跌22%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9AAI%E7%A1%AC%E4%BB%B6%E8%82%A1%E4%B8%8A%E6%B6%A8+IBM%E8%B7%8C22%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         }
       ]
     }
