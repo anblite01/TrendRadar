@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-14T14:20:14.867352+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-07-14T17:11:51.878767+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 150,
+      "match_count": 163,
       "titles": [
         {
           "title": "中国人民大学：根据新线索认定蒋方舟学术不端，撤销其硕士学位",
           "url": "https://m.thepaper.cn/newsDetail_forward_33576780",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 17时11分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 17时11分]"
         },
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -54,18 +55,6 @@
           "time_info": "[02时02分 ~ 07时59分]"
         },
         {
-          "title": "外媒称中国四支舰队出击太平洋“扫海”",
-          "url": "https://v.ifeng.com/c/8ugG4l7UYb9",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 11时25分]"
-        },
-        {
           "title": "“中国首个禁售燃油车省份”，为何是海南？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33575406",
           "source": "澎湃新闻",
@@ -76,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 17时11分]"
         },
         {
           "title": "美国外卖小哥戴项圈抢银行",
@@ -85,11 +74,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 17时11分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -101,8 +91,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 17时11分]"
+        },
+        {
+          "title": "外媒称中国四支舰队出击太平洋“扫海”",
+          "url": "https://v.ifeng.com/c/8ugG4l7UYb9",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 11时25分]"
         },
         {
           "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
@@ -141,6 +143,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时25分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时11分]"
         },
         {
           "title": "中国数学家或斩获菲尔兹奖",
@@ -242,17 +256,6 @@
           "time_info": "[02时02分 ~ 07时59分]"
         },
         {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
-        },
-        {
           "title": "中国试射导弹后的国际现状",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%AF%95%E5%B0%84%E5%AF%BC%E5%BC%B9%E5%90%8E%E7%9A%84%E5%9B%BD%E9%99%85%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
@@ -350,7 +353,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -437,6 +440,28 @@
           "time_info": "04时21分"
         },
         {
+          "title": "三星电子：目前未考虑发行美国存托凭证的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3133495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "美国军舰起火",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E8%B5%B7%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "据伊朗国家电视台：截至目前，伊朗南部地区包括班达尔阿巴斯在内的多地暂无爆炸报告。",
           "url": "https://flash.jin10.com/detail/20260714033243959800",
           "source": "金十数据",
@@ -454,7 +479,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -481,6 +506,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "美国或六年来首现环比“负CPI”？但今晚的重点不在这……",
+          "url": "https://www.cls.cn/detail/2425749",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "伊朗发起行动，回应“敌方最新侵略行径”",
           "url": "https://news.ifeng.com/c/8ukUFVFXxOi",
           "source": "凤凰网",
@@ -490,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "美国国防部启动为期60天的网络安全成熟度模型认证审查，期间将继续执行NIST网络安全标准和《国防联邦采购条例补充条款》相关义务。",
@@ -525,6 +572,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "美国国防部暂停实施网络安全成熟度模型认证第二阶段网络安全规则，理由是担忧该规定导致小企业退出相关国防供应链。",
           "url": "https://flash.jin10.com/detail/20260714033053514800",
           "source": "金十数据",
@@ -534,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "基辅海军发言人：俄罗斯在乌克兰黑海港口敖德萨附近袭击了一艘民用船只。",
+          "url": "https://flash.jin10.com/detail/20260714163732857800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "受二叠纪盆地增产及LNG出口流量下降影响，美国天然气跌至7周低点",
@@ -564,7 +633,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -652,18 +721,6 @@
           "time_info": "[02时02分 ~ 06时03分]"
         },
         {
-          "title": "伊朗袭击美国海军第五舰队司令部",
-          "url": "https://www.toutiao.com/trending/7661886519921573894/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 14时20分]"
-        },
-        {
           "title": "要赢中国，“还得再裁员5万”",
           "url": "https://news.ifeng.com/c/8ukMQsVJAxY",
           "source": "凤凰网",
@@ -672,8 +729,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 17时11分]"
         },
         {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
@@ -681,6 +738,41 @@
           "source": "财联社热门",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 17时11分]"
+        },
+        {
+          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
+          "url": "https://www.zhihu.com/question/2060208521594017084",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时11分]"
+        },
+        {
+          "title": "“看到高市这样，我真的觉得他们是在为战争做准备”",
+          "url": "https://news.ifeng.com/c/8ukg6bwDjn7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时11分]"
+        },
+        {
+          "title": "伊朗袭击美国海军第五舰队司令部",
+          "url": "https://www.toutiao.com/trending/7661886519921573894/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -699,26 +791,16 @@
           "time_info": "[06时02分 ~ 07时59分]"
         },
         {
-          "title": "“看到高市这样，我真的觉得他们是在为战争做准备”",
-          "url": "https://news.ifeng.com/c/8ukg6bwDjn7",
-          "source": "凤凰网",
+          "title": "挑战在美国E人coser前跳舞",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8%E7%BE%8E%E5%9B%BDE%E4%BA%BAcoser%E5%89%8D%E8%B7%B3%E8%88%9E",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
-        },
-        {
-          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
-          "url": "https://www.zhihu.com/question/2060208521594017084",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时11分]"
         },
         {
           "title": "美国25岁女子涉嫌性侵男童并录像",
@@ -726,17 +808,6 @@
           "source": "今日头条",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
-        },
-        {
-          "title": "挑战在美国E人coser前跳舞",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8%E7%BE%8E%E5%9B%BDE%E4%BA%BAcoser%E5%89%8D%E8%B7%B3%E8%88%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -763,6 +834,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "美军称首次使用海上无人艇打击伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E7%A7%B0%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%B5%B7%E4%B8%8A%E6%97%A0%E4%BA%BA%E8%89%87%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "伊朗科纳拉克周边地区遭袭",
@@ -829,6 +911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "伊朗国防部：最近的战争经验表明，伊朗国防工业不仅没有停滞，反而依靠本土知识，强劲地沿着技术飞跃的道路继续前进。",
+          "url": "https://flash.jin10.com/detail/20260714163633206800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社（Tasnim）称，伊朗阿巴斯港（Bandar Abbas）的防空系统已启动。 截至目前，阿巴斯港及伊朗南部其他地区未报告发生爆炸。",
@@ -925,7 +1018,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -991,7 +1084,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1013,7 +1106,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1161,6 +1254,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "伊朗军方发言人称在霍尔木兹海峡问题上绝不让步",
+          "url": "https://wallstreetcn.com/livenews/3133471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "伊朗媒体：阿巴斯港东部传出4声爆炸",
           "url": "https://flash.jin10.com/detail/20260714030103568800",
           "source": "金十数据",
@@ -1189,7 +1293,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1216,6 +1320,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗军方消息称，伊军已出动无人机打击位于科威特的美军军事设施和装备。伊朗用巡航导弹瞄准了一艘“敌对”的美国舰艇。",
           "url": "https://flash.jin10.com/detail/20260714044516590800",
           "source": "金十数据",
@@ -1233,7 +1348,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1258,6 +1373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "据伊朗国家电视台：伊朗军方消息称，伊军已出动无人机打击位于科威特的美军军事设施和装备。 伊朗用巡航导弹瞄准了一艘“敌对”的美国舰艇。",
@@ -1403,6 +1529,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "韩国称特朗普提出霍尔木兹海峡收费计划后 双方正在进行沟通",
+          "url": "https://wallstreetcn.com/livenews/3133459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "张雪机车车手德比斯：想尽快去中国",
           "url": "https://www.toutiao.com/trending/7660792249541836838/",
           "source": "今日头条",
@@ -1442,7 +1579,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1456,6 +1593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "“中国正成为全球鹅肝新霸主”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%AD%A3%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E9%B9%85%E8%82%9D%E6%96%B0%E9%9C%B8%E4%B8%BB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "白宫官员：特朗普将支持格雷厄姆主导的对俄制裁法案",
@@ -1552,7 +1700,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1703,7 +1851,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 72,
+      "match_count": 82,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -1713,20 +1861,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 14时20分]"
-        },
-        {
-          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
-          "url": "https://www.cls.cn/detail/2425210",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 17时11分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -1736,6 +1872,18 @@
             4,
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 17时11分]"
+        },
+        {
+          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
+          "url": "https://www.cls.cn/detail/2425210",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1794,7 +1942,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1819,6 +1967,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "布油两天涨超12%，20%护航费震动油市｜原油头条",
+          "url": "https://flash.jin10.com/detail/20260714164039065800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "欧盟在苏丹内战肆虐之际制裁其黄金贸易",
@@ -1904,7 +2063,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1920,13 +2079,26 @@
           "time_info": "04时21分"
         },
         {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 17时11分]"
+        },
+        {
           "title": "德银维持看空美债久期 预计10年期收益率年底升至4.8%",
           "url": "https://flash.jin10.com/detail/20260714141128745800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1965,19 +2137,6 @@
           "time_info": "[02时02分 ~ 06时03分]"
         },
         {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 14时20分]"
-        },
-        {
           "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
           "url": "https://wallstreetcn.com/articles/3776834",
           "source": "华尔街见闻",
@@ -1985,8 +2144,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时11分]"
         },
         {
           "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
@@ -1996,8 +2155,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时11分]"
+        },
+        {
+          "title": "赤峰黄金：预计2026年上半年净利润同比增长54%到61%",
+          "url": "https://wallstreetcn.com/livenews/3133485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "周一（7月13日），美联储隔夜逆回购协议（RRP）使用规模为7.95亿美元（交易对手2家），上个交易日报5.45亿美元。",
@@ -2009,6 +2179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "国际油价继续走高，WTI原油日内暴涨7.00%，现报76.43美元/桶。",
@@ -2028,9 +2209,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "在岸人民币兑美元7月14日16:30收盘报6.7779，较上一交易日上涨38点。",
+          "url": "https://flash.jin10.com/detail/20260714163521370800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "澳元/美元日内跌幅达0.5%，报0.6915。",
@@ -2116,9 +2308,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7779，较上一交易日官方收盘价涨38点，较上日夜盘收盘涨31点。",
+          "url": "https://wallstreetcn.com/livenews/3133474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD站上1.14，日内涨0.19%。",
+          "url": "https://flash.jin10.com/detail/20260714163000210800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "WTI原油期货涨幅一度扩大至将近6%，报75.79美元。 据伊朗塔斯尼姆通讯社，沙特阿拉伯艾卜哈国际机场遭袭。",
@@ -2163,6 +2377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗紧张局势升级 亚洲石油买家再次将目光投向美国原油",
+          "url": "https://wallstreetcn.com/livenews/3133470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "布伦特原油期货结算价为每桶83.30美元，上涨7.29美元，涨幅9.59%。",
@@ -2218,6 +2443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "航运公司赫伯罗特：征收霍尔木兹海峡货运费“从根本上说是错误的”",
+          "url": "https://flash.jin10.com/detail/20260714162711960800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7810元，较上周五夜盘收盘跌40点。成交量508.72亿美元。",
@@ -2385,6 +2621,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "布伦特原油期货日内涨幅达4%，报86.64美元/桶；WTI原油期货涨3.6%，报80.94美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3133456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 7月13日（周一）晚盘收盘下跌1.82%报872.01元/克；<br/>上海黄金交易所白银T+D 7月13日（周一）晚盘收盘下跌1.64%报13983.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260714023042346800",
           "source": "金十数据",
@@ -2418,6 +2665,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "霍尔木兹海峡运输近乎停滞，亚洲炼油厂转向采购美国原油",
+          "url": "https://flash.jin10.com/detail/20260714162231271800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "SK海力士ADR跌幅一度扩大至将近9.95%，刷新日低至151.30美元。",
           "url": "https://wallstreetcn.com/livenews/3133003",
           "source": "华尔街见闻-快讯",
@@ -2435,7 +2693,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
