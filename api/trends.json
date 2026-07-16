@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T14:27:24.249419+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-07-16T17:21:57.016182+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 146,
+      "match_count": 155,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 17时21分]"
         },
         {
           "title": "美国6月PPI超预期降温 油价“救场”难掩上游涨价压力",
@@ -145,8 +145,36 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 17时21分]"
+        },
+        {
+          "title": "伊朗议长发声：这是与美国的生存之战",
+          "url": "https://news.ifeng.com/c/8unecXHHhfz",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时21分]"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16,
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 17时21分]"
         },
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -160,31 +188,15 @@
           "time_info": "[01时25分 ~ 01时26分]"
         },
         {
-          "title": "伊朗议长发声：这是与美国的生存之战",
-          "url": "https://news.ifeng.com/c/8unecXHHhfz",
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时27分]"
-        },
-        {
-          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 14时27分]"
+          "time_info": "[14时27分 ~ 17时21分]"
         },
         {
           "title": "初见定终身,老外求婚中国球迷",
@@ -215,6 +227,19 @@
           "time_info": "[01时25分 ~ 14时27分]"
         },
         {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时05分 ~ 17时21分]"
+        },
+        {
           "title": "这4个关键字概括上半年中国经济",
           "url": "https://www.toutiao.com/trending/7662941452045127219/",
           "source": "今日头条",
@@ -224,6 +249,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 14时27分]"
+        },
+        {
+          "title": "美国宣布对部分巴西进口商品加征25%关税",
+          "url": "https://news.ifeng.com/c/8unxtekvlRl",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 17时21分]"
+        },
+        {
+          "title": "通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期",
+          "url": "https://wallstreetcn.com/articles/3777031",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时25分 ~ 17时21分]"
         },
         {
           "title": "日媒：日系车“拥抱”中国技术",
@@ -238,17 +288,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时25分 ~ 11时25分]"
-        },
-        {
-          "title": "特朗普感谢伊朗",
-          "url": "https://news.ifeng.com/c/8undGPmAvXz",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         },
         {
           "title": "美国总统特朗普：希望我能更快地使用关税手段。",
@@ -285,17 +324,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时25分 ~ 11时25分]"
-        },
-        {
-          "title": "美国指了指中国 然后狠狠抽自己耳光",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8C%87%E4%BA%86%E6%8C%87%E4%B8%AD%E5%9B%BD+%E7%84%B6%E5%90%8E%E7%8B%A0%E7%8B%A0%E6%8A%BD%E8%87%AA%E5%B7%B1%E8%80%B3%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         },
         {
           "title": "美国总统特朗普：希望利率下降。",
@@ -337,7 +365,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -362,6 +390,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "电表里藏着中国经济的黑马",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A1%A8%E9%87%8C%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%BB%91%E9%A9%AC%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "从半年报看中国经济三重底色",
+          "url": "https://www.douyin.com/hot/2573426",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "美国总统特朗普：暂停加息总比加息更好。",
@@ -408,6 +458,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "中国夫妇在印尼浮潜时溺亡",
+          "url": "https://www.toutiao.com/trending/7662913597463396388/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "美情报总监提名人：仍要与中国广泛合作",
           "url": "https://news.ifeng.com/c/8unaWOfIY37",
           "source": "凤凰网",
@@ -417,17 +478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
-        },
-        {
-          "title": "美国宣布对部分巴西进口商品加征25%关税",
-          "url": "https://news.ifeng.com/c/8unxtekvlRl",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         },
         {
           "title": "美国总统特朗普：我认为年末的通胀会低于现在的水平。",
@@ -458,7 +508,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -472,19 +522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期",
-          "url": "https://wallstreetcn.com/articles/3777031",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时25分 ~ 14时27分]"
         },
         {
           "title": "中国代表在安理会连续驳斥美方",
@@ -518,18 +555,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时05分 ~ 14时27分]"
         },
         {
           "title": "富士康打工妹逆袭成中国女首富",
@@ -602,6 +627,18 @@
           "time_info": "[01时25分 ~ 07时05分]"
         },
         {
+          "title": "美国指了指中国 然后狠狠抽自己耳光",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8C%87%E4%BA%86%E6%8C%87%E4%B8%AD%E5%9B%BD+%E7%84%B6%E5%90%8E%E7%8B%A0%E7%8B%A0%E6%8A%BD%E8%87%AA%E5%B7%B1%E8%80%B3%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 17时21分]"
+        },
+        {
           "title": "美国中央司令部：美军7月15日在阿拉伯湾执行针对伊朗的海上封锁措施，击停了一艘试图驶往伊朗港口、且未装载货物的油轮。",
           "url": "https://wallstreetcn.com/livenews/3134611",
           "source": "华尔街见闻-快讯",
@@ -640,6 +677,40 @@
           "time_info": "[01时25分 ~ 05时09分]"
         },
         {
+          "title": "美国议员警告：这么干，让中国赢了",
+          "url": "https://news.ifeng.com/c/8unbx2SRRPH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时21分]"
+        },
+        {
+          "title": "中国“预制变电站”，全球爆单",
+          "url": "https://www.cls.cn/detail/2427865",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时21分]"
+        },
+        {
+          "title": "为什么建设人民大会堂的时候，没有采用中国本土的建筑风格？",
+          "url": "https://www.zhihu.com/question/2052009717355090086",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时21分]"
+        },
+        {
           "title": "阿根廷队主教练：不要混淆足球和战争",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%B7%B7%E6%B7%86%E8%B6%B3%E7%90%83%E5%92%8C%E6%88%98%E4%BA%89",
           "source": "百度热搜",
@@ -675,15 +746,16 @@
           "time_info": "[01时25分 ~ 01时26分]"
         },
         {
-          "title": "美国议员警告：这么干，让中国赢了",
-          "url": "https://news.ifeng.com/c/8unbx2SRRPH",
-          "source": "凤凰网",
+          "title": "张小斐成中国首位票房破百亿85花",
+          "url": "https://www.toutiao.com/trending/7662517559984177193/",
+          "source": "今日头条",
           "ranks": [
+            17,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时27分]"
+          "time_info": "[14时27分 ~ 17时21分]"
         },
         {
           "title": "读中国当代作家作品时，你最常遇到的困惑是什么？",
@@ -698,26 +770,16 @@
           "time_info": "[11时25分 ~ 14时27分]"
         },
         {
-          "title": "为什么建设人民大会堂的时候，没有采用中国本土的建筑风格？",
-          "url": "https://www.zhihu.com/question/2052009717355090086",
-          "source": "知乎",
+          "title": "俄科学家：中国现在是世界第一",
+          "url": "https://www.toutiao.com/trending/7662724523556339731/",
+          "source": "今日头条",
           "ranks": [
-            10
+            16,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时27分]"
-        },
-        {
-          "title": "中国“预制变电站”，全球爆单",
-          "url": "https://www.cls.cn/detail/2427865",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时27分]"
+          "time_info": "[14时27分 ~ 17时21分]"
         },
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -737,9 +799,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "俄科学家：中国现在是世界第一",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "美国对三星等7家公司启动337调查",
+          "url": "https://www.douyin.com/hot/2573272",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "美国中央司令部：美军于美东时间下午3时（北京时间7月16日凌晨3时）对伊朗发动当天第二轮打击行动。此次行动目标是伊朗用于威胁通过霍尔木兹海峡船只的军事能力。",
@@ -847,7 +931,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -905,6 +989,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！",
+          "url": "https://www.cls.cn/detail/2427879",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "据Politico：美国众议院最快下周就限制议员股票交易法案进行投票，共和党正推动该法案重启。",
@@ -1028,6 +1123,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "乌称主要目标是没有俄罗斯的乌克兰",
+          "url": "https://www.toutiao.com/trending/7662750075659567110/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "白宫顾问哈塞特：美国财长贝森特与我今天开会，讨论未来的税收议程。",
           "url": "https://wallstreetcn.com/livenews/3134600",
           "source": "华尔街见闻-快讯",
@@ -1067,7 +1173,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1094,15 +1200,15 @@
           "time_info": "11时25分"
         },
         {
-          "title": "俄科学家：中国现在是世界第一",
-          "url": "https://www.toutiao.com/trending/7662724523556339731/",
-          "source": "今日头条",
+          "title": "美国 NSF 新规，「几乎要全面禁止与中国科学家合作」，将可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060040310399263380",
+          "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "17时21分"
         },
         {
           "title": "三名美国官员称，近期美国对伊朗的打击行动正在增强美方进一步升级行动的选项。",
@@ -1147,17 +1253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "张小斐成中国首位票房破百亿85花",
-          "url": "https://www.toutiao.com/trending/7662517559984177193/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         },
         {
           "title": "美国驻伊拉克埃尔比勒领馆附近传出爆炸声",
@@ -1298,7 +1393,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1309,7 +1404,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1507,7 +1602,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1529,7 +1624,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1628,9 +1723,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "全球芯中国造",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%8A%AF%E4%B8%AD%E5%9B%BD%E9%80%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "美联储主席沃什：（特朗普政府的）移民决定影响到美国潜在的GDP。",
@@ -1658,7 +1764,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 67,
+      "match_count": 77,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -1684,6 +1790,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时25分 ~ 11时25分]"
+        },
+        {
+          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
+          "url": "https://www.cls.cn/detail/2427842",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时21分]"
+        },
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时21分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -1721,28 +1850,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 07时05分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时27分]"
-        },
-        {
-          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
-          "url": "https://www.cls.cn/detail/2427842",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时27分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -1808,7 +1915,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1919,6 +2026,30 @@
           "time_info": "[05时09分 ~ 07时05分]"
         },
         {
+          "title": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
+          "url": "https://wallstreetcn.com/articles/3777047",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时21分]"
+        },
+        {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时21分]"
+        },
+        {
           "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
           "url": "https://wallstreetcn.com/livenews/3134608",
           "source": "华尔街见闻-快讯",
@@ -1941,29 +2072,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 07时05分]"
-        },
-        {
-          "title": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
-          "url": "https://wallstreetcn.com/articles/3777047",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时27分]"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时27分]"
         },
         {
           "title": "WTI 8月原油期货收涨0.26美元，涨幅0.33%，报79.60美元/桶。 布伦特9月原油期货收涨0.22美元，涨幅0.26%，报84.95美元/桶。 中东Abu Dhabi Murban原油期货跌4.43%，报78.30美元/桶，北京时间16:27出现瞬间跳水行情，从81.48美元跌至76.45美元。 NYMEX 8月天然气期货收报2.9240美元/百万英热单位。 NYMEX 8月汽油期货收报3.3009美元/加仑，NYMEX 8月取暖油期货收报3.9483美元/加仑。",
@@ -2016,7 +2124,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2065,6 +2173,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "三菱日联：油价能否推升通胀成黄金短期走势关键",
+          "url": "https://flash.jin10.com/detail/20260716165548173800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "报道：Stripe与Advent拟按逾500亿美元收购贝宝，后者与顾问评估战略选项",
           "url": "https://wallstreetcn.com/livenews/3134629",
           "source": "华尔街见闻-快讯",
@@ -2082,9 +2201,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "美国商务部：台积电将在美国追加投资1000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3134965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "美对伊战事真实花费被曝高达千亿美元 Anthropic据悉推进IPO筹备 | 环球市场",
+          "url": "https://www.cls.cn/detail/2427831",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "布伦特原油期货结算价为84.95美元/桶，上涨22美分，涨幅0.26%。",
@@ -2109,6 +2250,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "荷兰国际：欧元兑美元进一步上涨空间有限",
+          "url": "https://flash.jin10.com/detail/20260716165246865800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "纽约银日内涨幅达1.0%，报58.17美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3134628",
           "source": "华尔街见闻-快讯",
@@ -2126,7 +2278,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2181,7 +2333,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2274,6 +2426,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "百度美股盘前涨超4%，公司寻求于港交所主板自愿转换为双重主要上市",
+          "url": "https://wallstreetcn.com/livenews/3134955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "白宫发言人Anna Kelly：美国总统特朗普今天将宣布合计超过100亿美元的若干协议。",
           "url": "https://wallstreetcn.com/livenews/3134544",
           "source": "华尔街见闻-快讯",
@@ -2302,7 +2465,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2316,6 +2479,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7678，较上一交易日官方收盘价涨33点，较上日夜盘收盘涨19点。",
+          "url": "https://wallstreetcn.com/livenews/3134953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "印度拟推动510亿美元进口商品的本土制造",
+          "url": "https://flash.jin10.com/detail/20260716164224016800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "特朗普政府再获1000亿美元美国芯片投资承诺。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3134952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 海力士跌9%",
@@ -2338,6 +2534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "台积电美股盘前一度跌近5%，公司此前公布了二季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3134951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "周三（7月15日），美联储隔夜逆回购协议（RRP）使用规模为1.51亿美元（交易对手2家），上个交易日报2.78亿美元。",
@@ -2379,7 +2586,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -2415,6 +2622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "美国商务部：台积电的投资将创造大量建筑和高科技就业岗位，同时带动数十亿美元的间接经济产出。",
+          "url": "https://flash.jin10.com/detail/20260716163546433800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     }
