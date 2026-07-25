@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-07-25T12:18:22.659176+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-07-25T15:24:54.639674+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 144,
+      "match_count": 155,
       "titles": [
         {
           "title": "中国证监会原党委委员、副主席方星海接受审查调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33653301",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 15时24分]"
+        },
+        {
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 15时24分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -25,23 +39,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 12时18分]"
-        },
-        {
-          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
-          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 15时24分]"
         },
         {
           "title": "重大转向！俄罗斯宣布不再支持朝鲜半岛无核化呼声",
@@ -132,11 +135,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 15时24分]"
         },
         {
           "title": "加总理表态：若谈判破裂，会对美国采取反制措施",
@@ -161,6 +165,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时48分 ~ 12时18分]"
+        },
+        {
+          "title": "王小洪会见美国联邦调查局局长",
+          "url": "https://www.toutiao.com/trending/7666079821497630771/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            26,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 15时24分]"
         },
         {
           "title": "中国海警水炮驱离菲侵权船只",
@@ -252,19 +269,6 @@
           "time_info": "[00时48分 ~ 08时12分]"
         },
         {
-          "title": "王小洪会见美国联邦调查局局长",
-          "url": "https://www.toutiao.com/trending/7666079821497630771/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            26,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 12时18分]"
-        },
-        {
           "title": "刚签核协议不到24小时，美国突然变卦",
           "url": "https://news.ifeng.com/c/8v1t98jbB4H",
           "source": "凤凰网",
@@ -341,6 +345,29 @@
           "time_info": "[00时48分 ~ 08时12分]"
         },
         {
+          "title": "伊朗外长：无需更多调解者，美应改变态度",
+          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
+        },
+        {
           "title": "英媒：俄罗斯极有可能最早于今晚或未来几天内发动新一轮大规模空袭",
           "url": "https://flash.jin10.com/detail/20260725021323693800",
           "source": "金十数据",
@@ -363,26 +390,15 @@
           "time_info": "02时25分"
         },
         {
-          "title": "伊朗外长：无需更多调解者，美应改变态度",
-          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
-          "source": "凤凰网",
+          "title": "市场消息：俄罗斯电商巨头Wildberries位于叶卡捷琳堡（距俄乌边境约1750公里）的仓库遭到乌克兰无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260725145015622800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "15时24分"
         },
         {
           "title": "SpaceX星舰在美国IPO后首次试飞中成功升空",
@@ -396,24 +412,13 @@
           "time_info": "08时12分"
         },
         {
-          "title": "伊朗外长说不惧威胁不屈服于美国",
-          "url": "https://wallstreetcn.com/livenews/3139714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
           "title": "中国基础教育 自信从何而来？",
           "url": "https://www.toutiao.com/trending/7665393637421776939/",
           "source": "今日头条",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -424,7 +429,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -435,7 +440,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -446,7 +451,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -468,9 +473,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "紧急服务部门表示，俄罗斯对乌克兰苏梅的攻击造成三人死亡。",
+          "url": "https://flash.jin10.com/detail/20260725144545668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "美国总统特朗普声称：加拿大没有邀请美方参加大桥开通仪式。 美方修改了关于跨境大桥的协议，美国获得（通行）收入的50%。",
@@ -506,13 +522,25 @@
           "time_info": "08时12分"
         },
         {
+          "title": "视频丨中国海警水炮喷射驱离菲侵权船只，现场画面公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652886",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 15时24分]"
+        },
+        {
           "title": "伊朗外长说不惧威胁不屈服于美国",
           "url": "https://flash.jin10.com/detail/20260725113145513800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -585,6 +613,30 @@
           "time_info": "[06时13分 ~ 08时12分]"
         },
         {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://wallstreetcn.com/livenews/3139714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
+        },
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
+        },
+        {
           "title": "特朗普称美国与伊朗仍在对话",
           "url": "https://wallstreetcn.com/livenews/3139662",
           "source": "华尔街见闻-快讯",
@@ -635,6 +687,19 @@
           "time_info": "[04时27分 ~ 08时12分]"
         },
         {
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 15时24分]"
+        },
+        {
           "title": "王小洪会见美国联邦调查局局长",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E6%B4%AA%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E8%B0%83%E6%9F%A5%E5%B1%80%E5%B1%80%E9%95%BF",
           "source": "百度热搜",
@@ -647,15 +712,15 @@
           "time_info": "[04时26分 ~ 06时13分]"
         },
         {
-          "title": "视频丨中国海警水炮喷射驱离菲侵权船只，现场画面公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652886",
-          "source": "澎湃新闻",
+          "title": "14对14，中国反击欧盟，干净利落",
+          "url": "https://news.ifeng.com/c/8v2YKgZrSyj",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时12分 ~ 12时18分]"
+          "time_info": "[12时18分 ~ 15时24分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -670,16 +735,16 @@
           "time_info": "[06时13分 ~ 08时12分]"
         },
         {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
+          "title": "斯里兰卡前高官之子，涉嫌抢劫中国公民被羁押",
+          "url": "https://news.ifeng.com/c/8v1JiU8l1E0",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            10
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时12分 ~ 12时18分]"
+          "time_info": "[12时18分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普：新的关税非常标准。另一种征收关税的方式更简单，我们有多种形式。",
@@ -694,6 +759,42 @@
           "time_info": "[04时27分 ~ 06时13分]"
         },
         {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
+          "url": "https://wallstreetcn.com/livenews/3139705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
+        },
+        {
+          "title": "一位中国青年学者的菲尔兹奖现场感悟：要学王虹敢挑战大问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654786",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
+        },
+        {
+          "title": "为什么中国父母会沉迷于让孩子吃苦？",
+          "url": "https://www.zhihu.com/question/620293603",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
+        },
+        {
           "title": "明晟MSCI新兴市场外汇指数周五跌0.1%，整体上连涨四周，创1月初以来最长连涨周数。 MSCI发展中国家股票指数跌2.6%，创最近一个月最大单日跌幅。",
           "url": "https://wallstreetcn.com/livenews/3139652",
           "source": "华尔街见闻-快讯",
@@ -706,6 +807,18 @@
           "time_info": "[06时13分 ~ 08时12分]"
         },
         {
+          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3139702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
+        },
+        {
           "title": "美国公布新关税措施24日生效",
           "url": "https://www.douyin.com/hot/2582854",
           "source": "抖音",
@@ -715,6 +828,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 00时49分]"
+        },
+        {
+          "title": "北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3139698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
+        },
+        {
+          "title": "伊朗军方称将对美军实施对等报复",
+          "url": "https://wallstreetcn.com/livenews/3139696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
         },
         {
           "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
@@ -729,15 +866,16 @@
           "time_info": "[06时13分 ~ 08时12分]"
         },
         {
-          "title": "14对14，中国反击欧盟，干净利落",
-          "url": "https://news.ifeng.com/c/8v2YKgZrSyj",
-          "source": "凤凰网",
+          "title": "解读中国数学家获菲尔兹奖",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            24,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时24分]"
         },
         {
           "title": "美国对伊朗金融家Zanjani的网络实施新制裁",
@@ -749,17 +887,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        },
-        {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
         },
         {
           "title": "声明：伊朗和阿曼两位部长还强调了维护海洋安全的重要性，并就防止紧张局势升级及建立地区和平与稳定的区域解决方案进行了讨论。",
@@ -856,7 +983,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -900,18 +1027,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "斯里兰卡前高官之子，涉嫌抢劫中国公民被羁押",
-          "url": "https://news.ifeng.com/c/8v1JiU8l1E0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -925,6 +1041,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "俄罗斯国防部：俄防空系统夜间击落328架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260725140146284800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "美国驻约旦和伊拉克大使馆提醒美国公民保持警惕，并为中东局势紧张可能导致的航班取消做好准备。",
@@ -947,17 +1074,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        },
-        {
-          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
-          "url": "https://wallstreetcn.com/livenews/3139705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：针对周五的袭击，欧盟将召见俄罗斯驻欧盟大使；将提出更多针对俄罗斯军事工业综合体的制裁名单。",
@@ -1004,15 +1120,15 @@
           "time_info": "04时27分"
         },
         {
-          "title": "为什么中国父母会沉迷于让孩子吃苦？",
-          "url": "https://www.zhihu.com/question/620293603",
-          "source": "知乎",
+          "title": "玉渊谭天丨中国海警依法驱离，菲律宾侵权船只边逃窜边喊糟糕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33655417",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "15时24分"
         },
         {
           "title": "据AXIOS网站：美国和英国计划召开关于霍尔木兹海峡的国际会议。",
@@ -1048,15 +1164,15 @@
           "time_info": "04时27分"
         },
         {
-          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
-          "url": "https://wallstreetcn.com/livenews/3139702",
-          "source": "华尔街见闻-快讯",
+          "title": "中国世界遗产+1",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%2B1",
+          "source": "百度热搜",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "15时24分"
         },
         {
           "title": "据伊朗媒体：伊朗最高联合军事指挥机构负责人誓言，每有一名伊朗人被杀，伊朗将杀死一名美军人员。",
@@ -1114,6 +1230,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "中国大使问菲方闹什么闹能承担后果吗",
+          "url": "https://www.toutiao.com/trending/7665543921963044371/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "巴西预计美国新关税将影响其23.1%的出口。",
           "url": "https://flash.jin10.com/detail/20260725035144556800",
           "source": "金十数据",
@@ -1131,29 +1258,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展",
-          "url": "https://wallstreetcn.com/livenews/3139698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "一位中国青年学者的菲尔兹奖现场感悟：要学王虹敢挑战大问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654786",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -1180,6 +1285,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "连续13晚打击伊朗后，美军未再宣布对伊朗发动空袭",
+          "url": "https://flash.jin10.com/detail/20260725132754175800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
           "url": "https://wallstreetcn.com/livenews/3139589",
           "source": "华尔街见闻-快讯",
@@ -1197,9 +1313,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "佛得角门将称收到多份来自中国的邀请",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E7%A7%B0%E6%94%B6%E5%88%B0%E5%A4%9A%E4%BB%BD%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%82%80%E8%AF%B7",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -1246,24 +1373,13 @@
           "time_info": "08时12分"
         },
         {
-          "title": "伊朗军方称将对美军实施对等报复",
-          "url": "https://wallstreetcn.com/livenews/3139696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
           "title": "特朗普称詹姆斯是种族主义者",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -1274,7 +1390,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -1307,7 +1423,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -1373,7 +1489,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -1406,7 +1522,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -1431,17 +1547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
-        },
-        {
-          "title": "解读中国数学家获菲尔兹奖",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
         },
         {
           "title": "据国际文传电讯社：俄罗斯表示已打击乌克兰敖德萨和皮夫登尼港的设施。",
@@ -1472,7 +1577,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -1521,6 +1626,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "特朗普称詹姆斯是种族主义者",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "美国总统特朗普：因为（山火产生的）烟雾问题，将对加拿大征收高额关税。",
           "url": "https://flash.jin10.com/detail/20260725034022999800",
           "source": "金十数据",
@@ -1538,7 +1654,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -1582,9 +1698,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "欧洲央行首席经济学家：美国并非国际贸易主导力量",
+          "url": "https://flash.jin10.com/detail/20260725125828916800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京说，他不会向伊朗出售武器。",
@@ -1604,7 +1731,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -1615,7 +1742,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -1637,15 +1764,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "特朗普宣布新一轮加征关税",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%96%B0%E4%B8%80%E8%BD%AE%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -1678,11 +1816,12 @@
             15,
             2,
             1,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时25分 ~ 15时24分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -1692,8 +1831,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 15时24分]"
         },
         {
           "title": "美元指数24日上涨",
@@ -1729,6 +1868,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 15时24分]"
         },
         {
           "title": "俄罗斯新罗西斯克的舍斯哈里斯石油码头自7月21日周二早间以来，一直未进行原油装载作业。",
@@ -1775,6 +1926,17 @@
           "time_info": "08时12分"
         },
         {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260725041124494800",
           "source": "金十数据",
@@ -1786,18 +1948,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 08时12分]"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 12时18分]"
         },
         {
           "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
@@ -1829,11 +1979,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 15时24分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
@@ -1956,6 +2107,17 @@
           "time_info": "[08时12分 ~ 12时18分]"
         },
         {
+          "title": "科威特与黑石、布鲁克菲尔德和KKR签署160亿美元管道协议。",
+          "url": "https://wallstreetcn.com/livenews/3139720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "据AXIOS：欧洲外交官称，美国和英国正在讨论于下周在伦敦召开一场高级别会议，会议重点将围绕建立一个保护霍尔木兹海峡海上航运的国际联盟这一潜在方案展开。",
           "url": "https://flash.jin10.com/detail/20260725002221676800",
           "source": "金十数据",
@@ -1998,6 +2160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
+          "url": "https://wallstreetcn.com/livenews/3139717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
@@ -2088,6 +2261,28 @@
           "time_info": "04时27分"
         },
         {
+          "title": "英伟达与SK集团推出5000亿美元AI计划",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8ESK%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BA5000%E4%BA%BF%E7%BE%8E%E5%85%83AI%E8%AE%A1%E5%88%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "三星电子与博通签署谅解备忘录，涵盖至2030年在存储芯片、代工服务和先进封装领域的合作，金额可达2000亿美元。三星电子将与博通合作开发基于三星HBM技术的博通下一代人工智能加速器。三星电子将提供亚2纳米代工工艺和先进封装解决方案。",
+          "url": "https://flash.jin10.com/detail/20260725131150393800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "巴克莱：现货油价可能会引领走势，并在持续3个月的情景下测试150美元/桶。",
           "url": "https://flash.jin10.com/detail/20260725034336733800",
           "source": "金十数据",
@@ -2116,7 +2311,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
