@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T20:10:57.934616+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-08-02T22:41:59.312246+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 144,
+      "match_count": 157,
       "titles": [
         {
           "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
@@ -83,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 20时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 22时41分]"
         },
         {
           "title": "以媒：特朗普接近批准袭击伊朗能源设施",
@@ -99,6 +99,18 @@
           "time_info": "[04时13分 ~ 12时31分]"
         },
         {
+          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
+          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 22时41分]"
+        },
+        {
           "title": "中国新型战机超视距猎杀",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%9E%8B%E6%88%98%E6%9C%BA%E8%B6%85%E8%A7%86%E8%B7%9D%E7%8C%8E%E6%9D%80%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -108,6 +120,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时05分 ~ 08时04分]"
+        },
+        {
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 22时41分]"
+        },
+        {
+          "title": "特朗普：已同意取消对伊朗的打击",
+          "url": "https://v.ifeng.com/c/8vG3old8I3A",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 22时41分]"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -123,16 +157,15 @@
           "time_info": "[00时07分 ~ 15时37分]"
         },
         {
-          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
-          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
+          "title": "伊朗军方：特朗普撒谎",
+          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时31分 ~ 20时10分]"
+          "time_info": "[15时37分 ~ 22时41分]"
         },
         {
           "title": "联合国会议美国离席抗议",
@@ -201,26 +234,15 @@
           "time_info": "[00时07分 ~ 06时03分]"
         },
         {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时10分]"
-        },
-        {
-          "title": "特朗普：已同意取消对伊朗的打击",
-          "url": "https://v.ifeng.com/c/8vG3old8I3A",
+          "title": "“近30年来首次”？美国、日本联手干预",
+          "url": "https://news.ifeng.com/c/8vG98xfYbUN",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时10分]"
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 22时41分]"
         },
         {
           "title": "8000米高峰雪崩 中国登山家仍失联",
@@ -236,17 +258,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时07分 ~ 08时04分]"
-        },
-        {
-          "title": "伊朗军方：特朗普撒谎",
-          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时10分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -274,15 +285,18 @@
           "time_info": "[00时07分 ~ 06时03分]"
         },
         {
-          "title": "“近30年来首次”？美国、日本联手干预",
-          "url": "https://news.ifeng.com/c/8vG98xfYbUN",
-          "source": "凤凰网",
+          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
+          "url": "https://wallstreetcn.com/articles/3778501",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            5,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 22时41分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -390,15 +404,26 @@
           "time_info": "08时04分"
         },
         {
-          "title": "伊朗代理防长：敌方任何威胁都值得重视",
-          "url": "https://wallstreetcn.com/livenews/3143680",
-          "source": "华尔街见闻-快讯",
+          "title": "多重优势支撑中国经济向新向优",
+          "url": "https://www.toutiao.com/trending/7668842811780845062/",
+          "source": "今日头条",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时10分"
+          "time_info": "22时41分"
+        },
+        {
+          "title": "中国预警机独立指挥空中战场",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A2%84%E8%AD%A6%E6%9C%BA%E7%8B%AC%E7%AB%8B%E6%8C%87%E6%8C%A5%E7%A9%BA%E4%B8%AD%E6%88%98%E5%9C%BA%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。",
@@ -423,28 +448,32 @@
           "time_info": "08时04分"
         },
         {
-          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
-          "url": "https://wallstreetcn.com/articles/3778501",
-          "source": "华尔街见闻",
+          "title": "中国人民银行召开2026年下半年工作会议",
+          "url": "https://wallstreetcn.com/livenews/3143662",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            5,
-            6
+            1,
+            6,
+            12,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时31分 ~ 20时10分]"
+          "time_info": "[15时37分 ~ 22时41分]"
         },
         {
-          "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
-          "url": "https://wallstreetcn.com/livenews/3143678",
-          "source": "华尔街见闻-快讯",
+          "title": "被“忽略”的市场大事：美日韩联合干预，美国财政部“罕见”下场！贝森特悄悄“救市”？",
+          "url": "https://wallstreetcn.com/articles/3778503",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            8,
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 22时41分]"
         },
         {
           "title": "越来越多中国人不去日本旅游",
@@ -469,6 +498,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "美国政府在伊朗问题上似乎无法找到更好的出路，挫败感正日益加深",
+          "url": "https://flash.jin10.com/detail/20260802215913060800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
           "url": "https://wallstreetcn.com/livenews/3143651",
           "source": "华尔街见闻-快讯",
@@ -481,6 +521,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时31分 ~ 20时10分]"
+        },
+        {
+          "title": "特朗普：同意取消对伊朗的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 22时41分]"
         },
         {
           "title": "特朗普称同意取消军事打击伊朗",
@@ -543,19 +598,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时08分 ~ 08时04分]"
-        },
-        {
-          "title": "中国人民银行召开2026年下半年工作会议",
-          "url": "https://wallstreetcn.com/livenews/3143662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时10分]"
         },
         {
           "title": "土耳其外长：今天，我与伊朗外长阿拉格齐进行了通话，双方探讨了当前（美伊）谈判进程的最新情况。土耳其将继续为结束本地区冲突并建立持久和平而努力。",
@@ -671,6 +713,30 @@
           "time_info": "[02时05分 ~ 04时14分]"
         },
         {
+          "title": "伊朗代理防长：敌方任何威胁都值得重视",
+          "url": "https://wallstreetcn.com/livenews/3143680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
+        },
+        {
+          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
+          "url": "https://www.zhihu.com/question/2067198062456463879",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 22时41分]"
+        },
+        {
           "title": "据国际文传电讯社：俄罗斯军队在乌克兰敖德萨港损坏了一艘原本供乌克兰军队使用的油轮，并在尼古拉耶夫港击中了一艘海洋拖船。",
           "url": "https://flash.jin10.com/detail/20260801225247416800",
           "source": "金十数据",
@@ -705,6 +771,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时05分 ~ 20时10分]"
+        },
+        {
+          "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
+          "url": "https://wallstreetcn.com/livenews/3143678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
         },
         {
           "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
@@ -755,20 +833,6 @@
           "time_info": "[08时04分 ~ 12时31分]"
         },
         {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 20时10分]"
-        },
-        {
           "title": "俄罗斯被曝首次打击美国防企业",
           "url": "https://www.toutiao.com/trending/7668520620052729350/",
           "source": "今日头条",
@@ -806,16 +870,29 @@
           "time_info": "[00时08分 ~ 06时03分]"
         },
         {
-          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
-          "url": "https://www.zhihu.com/question/2067198062456463879",
-          "source": "知乎",
+          "title": "中国人能飞,揽佬新歌魔性洗脑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
+          "source": "贴吧",
           "ranks": [
             6,
-            16
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时10分]"
+          "time_info": "[18时05分 ~ 22时41分]"
+        },
+        {
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时05分 ~ 22时41分]"
         },
         {
           "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
@@ -829,19 +906,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时04分 ~ 15时37分]"
-        },
-        {
-          "title": "被“忽略”的市场大事：美日韩联合干预，美国财政部“罕见”下场！贝森特悄悄“救市”？",
-          "url": "https://wallstreetcn.com/articles/3778503",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时10分]"
         },
         {
           "title": "中国棉花协会：反对美方制裁打压中国棉纺织企业",
@@ -935,17 +999,6 @@
           "time_info": "[12时31分 ~ 18时05分]"
         },
         {
-          "title": "中国人能飞,揽佬新歌魔性洗脑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 20时10分]"
-        },
-        {
           "title": "据以色列第13频道：白宫表示，伊朗将付出巨大的代价，直到它回到谈判桌上。",
           "url": "https://flash.jin10.com/detail/20260802010749771800",
           "source": "金十数据",
@@ -956,6 +1009,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时05分 ~ 04时14分]"
+        },
+        {
+          "title": "欧佩克+：沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼同意调整产量，并重申对市场稳定的承诺。",
+          "url": "https://flash.jin10.com/detail/20260802192744359800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
+        },
+        {
+          "title": "下周重磅日程：美国非农与中国CPI、SpaceX首份财报+解禁、AMD闪迪财报",
+          "url": "https://wallstreetcn.com/articles/3778433",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
         },
         {
           "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
@@ -992,18 +1069,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 15时37分]"
-        },
-        {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 20时10分]"
         },
         {
           "title": "据以色列第13频道：以色列高级官员称，预计特朗普将很快下令恢复战斗。以色列已进入最高警戒状态。",
@@ -1077,6 +1142,30 @@
           "time_info": "[04时14分 ~ 06时03分]"
         },
         {
+          "title": "美国为何总上演“临门收手”戏码",
+          "url": "https://www.toutiao.com/trending/7669275015686160447/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
+        },
+        {
+          "title": "日本被曝大规模干预汇市，美国也同日出手，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2066898462831031735",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
+        },
+        {
           "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
           "url": "https://flash.jin10.com/detail/20260802021650818800",
           "source": "金十数据",
@@ -1111,6 +1200,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 15时37分]"
+        },
+        {
+          "title": "美国为何总上演“临门收手”戏码",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E6%80%BB%E4%B8%8A%E6%BC%94%E2%80%9C%E4%B8%B4%E9%97%A8%E6%94%B6%E6%89%8B%E2%80%9D%E6%88%8F%E7%A0%81",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
         },
         {
           "title": "美国财长买入日元笔记被拍",
@@ -1170,17 +1271,6 @@
           "time_info": "12时31分"
         },
         {
-          "title": "欧佩克+：沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼同意调整产量，并重申对市场稳定的承诺。",
-          "url": "https://flash.jin10.com/detail/20260802192744359800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
           "title": "美国为何下场救日元",
           "url": "https://www.toutiao.com/trending/7669349430067203634/",
           "source": "今日头条",
@@ -1192,15 +1282,70 @@
           "time_info": "18时05分"
         },
         {
-          "title": "下周重磅日程：美国非农与中国CPI、SpaceX首份财报+解禁、AMD闪迪财报",
-          "url": "https://wallstreetcn.com/articles/3778433",
-          "source": "华尔街见闻",
+          "title": "美国一养老社区将推出面向老人的大麻自助售卖机",
+          "url": "https://news.ifeng.com/c/8vGdTvGzliV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美国非农周来袭，中国7月外汇储备、CPI及贸易帐将公布，SpaceX将公布Q2业绩",
+          "url": "https://flash.jin10.com/detail/20260802212924338800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "遇难中国登山者王钟遗体已找到",
+          "url": "https://www.toutiao.com/trending/7668891178091921450/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "中国人民银行召开2026年下半年工作会议",
+          "url": "https://www.cls.cn/detail/2443498",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "中国人能飞真人版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%9C%9F%E4%BA%BA%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
+          "url": "https://wallstreetcn.com/livenews/3143688",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时10分"
+          "time_info": "22时41分"
         },
         {
           "title": "伊朗称打击巴林亚马逊数据中心是对美国行动回应",
@@ -1209,7 +1354,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -1234,6 +1379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "伊朗代理国防部长：伊朗不会被敌人“打得措手不及”，也不会对这坐视不管。",
+          "url": "https://flash.jin10.com/detail/20260802201957818800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
@@ -1275,7 +1431,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -1291,24 +1447,13 @@
           "time_info": "15时37分"
         },
         {
-          "title": "美国为何总上演“临门收手”戏码",
-          "url": "https://www.toutiao.com/trending/7669275015686160447/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
           "title": "库里签约李宁 轮不到美国政客来反对",
           "url": "https://www.baidu.com/s?wd=%E5%BA%93%E9%87%8C%E7%AD%BE%E7%BA%A6%E6%9D%8E%E5%AE%81+%E8%BD%AE%E4%B8%8D%E5%88%B0%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%AE%A2%E6%9D%A5%E5%8F%8D%E5%AF%B9",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -1352,7 +1497,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -1374,9 +1519,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
+        },
+        {
+          "title": "人民日报再谈王虹邓煜获菲尔兹奖：中国青年要闯“无人区”，做深耕者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696557",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "特朗普称同意取消打击伊朗行动",
@@ -1418,9 +1574,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
+        },
+        {
+          "title": "活力中国调研行｜嘉兴桐乡走出的锂电材料巨头，要用五年再造一个自己",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33695378",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "分析师：特朗普取消对伊打击，沙特外交斡旋与伊朗承压或是关键因素",
@@ -1432,17 +1599,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
-        },
-        {
-          "title": "日本被曝大规模干预汇市，美国也同日出手，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2066898462831031735",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
         },
         {
           "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
@@ -1572,7 +1728,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -1616,7 +1772,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -1676,15 +1832,15 @@
           "time_info": "12时31分"
         },
         {
-          "title": "美国为何总上演“临门收手”戏码",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E6%80%BB%E4%B8%8A%E6%BC%94%E2%80%9C%E4%B8%B4%E9%97%A8%E6%94%B6%E6%89%8B%E2%80%9D%E6%88%8F%E7%A0%81",
+          "title": "美国华盛顿州全州进入紧急状态",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E5%85%A8%E5%B7%9E%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
           "ranks": [
-            30
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时10分"
+          "time_info": "22时41分"
         },
         {
           "title": "泰国假警察劫杀俄罗斯姐弟",
@@ -1738,8 +1894,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 20时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 22时41分]"
         },
         {
           "title": "美财长笔记本写着“买50-100亿美元的日元”，被拍到后日元升值",
@@ -1922,6 +2078,18 @@
           "time_info": "[02时05分 ~ 04时14分]"
         },
         {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260802125111941800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 22时41分]"
+        },
+        {
           "title": "人形机器人做家政：每小时30美元",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E5%AE%B6%E6%94%BF%EF%BC%9A%E6%AF%8F%E5%B0%8F%E6%97%B630%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -1950,7 +2118,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -1975,17 +2143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260802125111941800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
         },
         {
           "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
