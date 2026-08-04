@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T03:49:18.634086+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-08-05T05:21:02.097752+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 55,
+      "match_count": 64,
       "titles": [
         {
           "title": "菲律宾一纸海图换来中国“四箭齐发”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "美国被曝拟禁止进口中国新型号光模块",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "泰航拒绝20多名中国乘客登机",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "美国拟禁止进口中国新型数据中心设备，我使馆：敦促美停止抹黑中企并威胁制裁",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
@@ -71,8 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "“餐饮业一夜间再无大师”，中国烹饪协会回应",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "伊朗总统回应辞职传闻",
@@ -94,8 +94,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "摩洛哥移民扬言入侵中国",
@@ -105,8 +105,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”",
@@ -137,7 +149,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -148,7 +160,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -164,16 +176,27 @@
           "time_info": "01时57分"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
+          "title": "挑衅中国同天示好日本右翼，“菲政府反华绝非少数政客作为”",
+          "url": "https://news.ifeng.com/c/8vJTuJ7fHSL",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
+        },
+        {
+          "title": "Palantir大涨！美国商业收入超预期飙升149%，上调全年营收指引｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778613",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”，重点是确保航行安全",
@@ -200,38 +223,17 @@
           "time_info": "[01时57分 ~ 03时49分]"
         },
         {
-          "title": "挑衅中国同天示好日本右翼，“菲政府反华绝非少数政客作为”",
-          "url": "https://news.ifeng.com/c/8vJTuJ7fHSL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
-        },
-        {
-          "title": "Palantir大涨！美国商业收入超预期飙升149%，上调全年营收指引｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778613",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
-        },
-        {
           "title": "中国版“生物DeepSeek”诞生",
           "url": "https://www.toutiao.com/trending/7670182284162502194/",
           "source": "今日头条",
           "ranks": [
             8,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "20多名中国乘客被泰航无理由拒载",
@@ -242,20 +244,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
-        },
-        {
-          "title": "泰航尚未说明具体拒载中国乘客原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E8%88%AA%E5%B0%9A%E6%9C%AA%E8%AF%B4%E6%98%8E%E5%85%B7%E4%BD%93%E6%8B%92%E8%BD%BD%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "中国买美国大豆释放何信号",
@@ -263,11 +253,25 @@
           "source": "今日头条",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
+        },
+        {
+          "title": "泰航尚未说明具体拒载中国乘客原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E8%88%AA%E5%B0%9A%E6%9C%AA%E8%AF%B4%E6%98%8E%E5%85%B7%E4%BD%93%E6%8B%92%E8%BD%BD%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
@@ -278,8 +282,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "日本多次交涉，美国不删",
@@ -289,8 +293,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "王楚钦男单世界排名断层第一，前五仅剩一位中国选手，国乒面临哪些挑战？",
@@ -300,8 +304,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "打卡中国｜原来茂名，藏着这样的山海生活",
@@ -311,8 +315,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "全球销量前十首次出现三家中国车企",
@@ -320,11 +324,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
@@ -334,8 +339,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -343,11 +348,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "奥运凉透,中国三城拒接盘",
@@ -357,8 +363,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -368,8 +374,54 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
+        },
+        {
+          "title": "外媒称美国拟禁止进口中国新型数据中心设备，此举将对中美科技竞争及全球数据产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2068088684528791862",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 05时21分]"
+        },
+        {
+          "title": "媒体：中国不会任由谁在家门口撒野",
+          "url": "https://www.toutiao.com/trending/7669359819253612563/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 05时21分]"
+        },
+        {
+          "title": "国防部回应日本新版《防卫白皮书》：炒作所谓“中国威胁”，完全是贼喊捉贼",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33715601",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 05时21分]"
+        },
+        {
+          "title": "印度泄密如何影响美国",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E6%B3%84%E5%AF%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "time_info": "[05时20分 ~ 05时21分]"
         },
         {
           "title": "美国白宫：杰伊·克莱顿已在椭圆形办公室正式宣誓就任美国国家情报总监，美国财长贝森特主持宣誓仪式。",
@@ -378,7 +430,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -389,18 +441,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "外媒称美国拟禁止进口中国新型数据中心设备，此举将对中美科技竞争及全球数据产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2068088684528791862",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -416,15 +457,48 @@
           "time_info": "01时57分"
         },
         {
+          "title": "美国至7月31日当周API精炼油库存 -123.2万桶，预期-6.7万桶，前值35.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044614019800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国至7月31日当周API成品油进口 -20.6万桶/日，前值29.7万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260805044557243800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "分析：伊朗-阿曼协议只是良好开始，不会解决所有问题",
           "url": "https://flash.jin10.com/detail/20260805031121994800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "美国至7月31日当周API取暖油库存 -11.8万桶，前值-12.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044547707800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
@@ -433,7 +507,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -444,7 +518,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -458,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "美国至7月31日当周API汽油库存 15.6万桶，预期-122.5万桶，前值91.8万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044528928800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "淡水河谷CEO：伊朗战争造成诸多项目的速度放缓。",
@@ -477,7 +562,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -488,9 +573,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "美国能源部长Wright：未来几周燃料价格应会下降。 《琼斯法案》豁免延期可能性较大，该举措已使加州及美国东海岸能源价格有所下降。",
+          "url": "https://wallstreetcn.com/livenews/3144946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "USA Rare Earth涨幅扩大至8.9%，据路透报道，洛克希德·马丁洽购美国矿山出产的关键矿产。",
@@ -510,7 +606,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -524,17 +620,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "国防部回应日本新版《防卫白皮书》：炒作所谓“中国威胁”，完全是贼喊捉贼",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33715601",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
         },
         {
           "title": "柴油供应危机加剧，高盛称俄罗斯“让我们非常担忧”",
@@ -554,7 +639,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -565,20 +650,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
         {
-          "title": "媒体：中国不会任由谁在家门口撒野",
-          "url": "https://www.toutiao.com/trending/7669359819253612563/",
-          "source": "今日头条",
+          "title": "美国国务院：撤销巴西大使的签证。",
+          "url": "https://wallstreetcn.com/livenews/3144939",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "05时21分"
         },
         {
           "title": "据半岛电视台：美国官员表示，霍尔木兹海峡是国际水道，任何一方都无法控制其航线或通行能力。",
@@ -587,7 +672,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -603,13 +688,24 @@
           "time_info": "01时57分"
         },
         {
+          "title": "纳斯达克金龙中国指数初步收跌0.2%。 热门中概股里，金山云初步收涨10.4%，日月光半导体涨5.2%，阿特斯太阳能涨5.3%，万国数据涨2.1%，再鼎医药、晶科能源、阿里巴巴至少涨超1.1%，世纪互联涨0.8%，小鹏跌2.4%，新东方跌4.8%。 ETF中，CQQQ初步收涨2.9%，KWEB涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3144933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "阿根廷中国行对手可能是国足",
           "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%AF%B9%E6%89%8B%E5%8F%AF%E8%83%BD%E6%98%AF%E5%9B%BD%E8%B6%B3&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -623,12 +719,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "标普500指数收涨136.02点，涨幅1.79%，报7736.52点，突破6月2日所创收盘历史最高位7609.78点。 道琼斯工业平均指数收涨907.47点，涨幅1.71%，报54085.88点，连续两个交易日创收盘历史新高。 纳斯达克综合指数（纳指）收涨671.097点，涨幅2.59%，报26584.993点。 纳斯达克100指数收涨956.357点，涨幅3.32%，报29733.161点点。 纳斯达克科技市值加权指数收涨3.71%，报2993.5398点。 费城半导体指数收涨748.911点，涨幅6.55%，报12179.263点。 费城证交所KBW银行指数收涨1.33%，报191.39点。 道琼斯KBW地区银行指数收涨0.84%，报150.30点。 罗素2000指数收涨1.85%，报3036.975点，突破6月30日所创收盘历史最高位3024.367点。 纳斯达克生物科技指数收涨2.29%，报6578.45点。 标普中盘股400指数收涨1.79%，报3868.41点，创收盘历史新高。 纳斯达克美国中等市值指数涨2.08%，报3886.6575点。 恐慌指数VIX收涨4.04%，报16.50。",
+          "url": "https://wallstreetcn.com/livenews/3144931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 30,
+      "match_count": 46,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -638,8 +745,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
@@ -649,8 +756,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
@@ -660,8 +767,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
+        },
+        {
+          "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷？",
+          "url": "https://www.zhihu.com/question/2067883838911377616",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "土耳其警告俄乌冲突外溢威胁黑海民用航运",
@@ -675,15 +794,37 @@
           "time_info": "01时57分"
         },
         {
+          "title": "周二（8月4日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7480元——逼平7月30日最终报价6.7480元，较周一纽约尾盘涨101点，日内整体交投于6.7599-6.7458元区间，逼近7月31日顶部6.7423元。",
+          "url": "https://wallstreetcn.com/livenews/3144963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "周二（8月4日）纽约尾盘，ICE原糖期货涨0.33%，ICE白糖期货涨0.68%。 ICE阿拉比卡咖啡期货涨1.11%，咖啡“C”期货涨0.70%。罗布斯塔咖啡期货涨2.06%。 纽约可可期货涨2.53%，报6089美元/吨。伦敦可可期货跌0.66%。 芝加哥WCE双低油菜籽期货涨0.16%。 ICE棉花期货跌0.30%。",
           "url": "https://wallstreetcn.com/livenews/3144919",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "韩国7月外汇储备 4279.5亿美元，前值4273.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260805050002196800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "现货白银突破60美元/盎司，为7月27日以来首次，日内涨3.14%。",
@@ -695,6 +836,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260805045508425800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "现货黄金涨约0.6%，白银涨超2.3%，铂族贵金属涨超6%",
+          "url": "https://wallstreetcn.com/livenews/3144958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "土耳其警告俄乌冲突外溢威胁黑海民用航运",
@@ -721,27 +896,39 @@
           "time_info": "[01时57分 ~ 03时49分]"
         },
         {
-          "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷？",
-          "url": "https://www.zhihu.com/question/2067883838911377616",
+          "title": "《蜘蛛侠：崭新之日》全球开画票房 9.27 亿美元，仅次于《复仇者联盟 4》居影史第二，如何评价这一成绩？",
+          "url": "https://www.zhihu.com/question/2067561924846248123",
           "source": "知乎",
           "ranks": [
-            6
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
-          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2445568",
+          "title": "黄金筑底信号显现？专家：美联储加息前景存限制，现在是建仓好时机！",
+          "url": "https://www.cls.cn/detail/2445091",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 05时21分]"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 05时21分]"
         },
         {
           "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
@@ -755,24 +942,23 @@
           "time_info": "[01时57分 ~ 03时49分]"
         },
         {
+          "title": "Anthropic再豪掷100亿美元锁定算力，英伟达支持的新贵接单",
+          "url": "https://wallstreetcn.com/articles/3778669",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时21分]"
+        },
+        {
           "title": "LME期铜收涨196美元，报14066美元/吨。 LME期铝收涨2美元，报3223美元/吨。 LME期锌收涨32美元，报3674美元/吨。 LME期铅收涨29美元，报1896美元/吨。 LME期镍收涨133美元，报17193美元/吨。 LME期锡收涨543美元，报55989美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3144885",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时49分]"
-        },
-        {
-          "title": "《蜘蛛侠：崭新之日》全球开画票房 9.27 亿美元，仅次于《复仇者联盟 4》居影史第二，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/2067561924846248123",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -790,15 +976,48 @@
           "time_info": "01时57分"
         },
         {
+          "title": "SpaceX：星链扩张或令混合ARPU承压，但将推动营收增长。 计算协议在第二季度增加了16亿美元的收入。 云服务安排领域存在强劲的需求。",
+          "url": "https://wallstreetcn.com/livenews/3144957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3144913",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "SpaceX：7月Grok 4.5发布后，token消耗量增长两倍。 IPO和债券发行改善了财务状况。 第二季度赢得逾60亿美元美国政府合同。 美国政府任务需求不断增长。",
+          "url": "https://wallstreetcn.com/livenews/3144955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国至7月31日当周API投产原油量 -11.2万桶/日，前值9.3万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260805044604335800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7510元，较周一夜盘收盘涨50点。成交量423.73亿美元。",
@@ -807,9 +1026,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存增约270万桶",
+          "url": "https://wallstreetcn.com/livenews/3144954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "现货黄金向上触及4100美元/盎司，日内涨1.11%。",
@@ -823,13 +1053,24 @@
           "time_info": "01时57分"
         },
         {
+          "title": "美国至7月31日当周API原油进口 17.2万桶，前值-39.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044552720800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "美国原油期货收跌将近5.7%，卡塔尔与美国释放积极信号，聚焦霍尔木兹海峡的美伊协议逐渐显露曙光",
           "url": "https://wallstreetcn.com/livenews/3144909",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -840,20 +1081,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
         {
-          "title": "黄金筑底信号显现？专家：美联储加息前景存限制，现在是建仓好时机！",
-          "url": "https://www.cls.cn/detail/2445091",
-          "source": "财联社热门",
+          "title": "美国至7月31日当周API库欣原油库存 235.8万桶，前值-27.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044541027800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "05时21分"
         },
         {
           "title": "现货黄金日内涨幅达1.00%，现报4096.28美元/盎司。",
@@ -867,15 +1108,15 @@
           "time_info": "01时57分"
         },
         {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
+          "title": "美国至7月31日当周API原油库存 269万桶，预期-200万桶，前值-329.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044519139800",
+          "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "05时21分"
         },
         {
           "title": "巴西雷亚尔兑美元在即期交易中下跌1%。",
@@ -884,7 +1125,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -895,9 +1136,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3144941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "伊朗国家广播电视台（IRIB）: 伊朗外交部发言人宣布，伊朗与阿曼旨在保障霍尔木兹海峡航运安全通行的谈判仍在继续。",
@@ -911,6 +1174,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "布伦特原油日内跌幅达6.0%，报78.74美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3144944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "海运追踪机构克普勒（Kpler）：7月4日至8月4日期间，伊拉克经霍尔木兹海峡出口原油超3000万桶，较战前月均1.05亿桶的水平低约71%。",
           "url": "https://wallstreetcn.com/livenews/3144873",
           "source": "华尔街见闻-快讯",
@@ -920,6 +1194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "AMD二季度调整后每股收益（EPS）为1.66美元，分析师预期1.62美元。 二季度营收115.4亿美元，分析师预期113.1亿美元。 二季度调整后运营利润率27%，分析师预期26.9%。 二季度调整后运营利润30.9亿美元，分析师预期30.1亿美元。 二季度资本开支8.08亿美元，分析师预期2.986亿美元。 二季度研发开支25.3亿美元，分析师预期24.5亿美元。 数据中心销售料将在下半年加速。 预计三季度营收127亿-133亿美元，分析师预期125.1亿美元。 预计三季度调整后运营利润率大约56%，分析师预期56.2%。",
+          "url": "https://wallstreetcn.com/livenews/3144940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "印度航运部长：所有14名海员（包括13名印度籍人员）已被也门海岸警卫队安全救出，并被送往穆哈港。",
@@ -950,7 +1235,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
