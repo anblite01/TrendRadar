@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T05:41:26.397018+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-08-10T06:40:13.278989+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "中国制造硬核瞬间",
@@ -82,8 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "中国拒绝美鹰派副防长访华？弦外之音被热议",
@@ -93,8 +93,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
@@ -105,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "以军士兵把枪口对准中国记者",
@@ -119,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -130,8 +130,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
@@ -141,8 +141,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
@@ -153,8 +153,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
@@ -164,8 +164,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "台湾记者直面白海豚紧抓杆不敢松手",
@@ -178,8 +178,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "日媒关注：中国对日美稀土出口大幅下降，6月对日钇出口降至零",
@@ -189,8 +189,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -200,8 +200,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -209,81 +209,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时41分]"
-        },
-        {
-          "title": "叙利亚与俄罗斯就两处俄军事基地达成谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3147112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时41分]"
-        },
-        {
-          "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
-          "url": "https://flash.jin10.com/detail/20260810052934153800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
-          "url": "https://wallstreetcn.com/livenews/3147123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
-          "url": "https://wallstreetcn.com/livenews/3147111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时41分]"
-        },
-        {
-          "title": "中国创新药企迈入价值兑现期：创新药纳保打开确定性增长通道",
-          "url": "https://wallstreetcn.com/livenews/3147109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时41分]"
-        },
-        {
-          "title": "美财长贝森特多举措干预债市，华尔街担忧“卖出美国”情绪升温",
-          "url": "https://wallstreetcn.com/livenews/3147107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
@@ -292,11 +223,64 @@
           "ranks": [
             19,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时53分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[02时53分 ~ 06时40分]"
+        },
+        {
+          "title": "叙利亚与俄罗斯就两处俄军事基地达成谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3147112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时40分]"
+        },
+        {
+          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
+          "url": "https://wallstreetcn.com/livenews/3147111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时40分]"
+        },
+        {
+          "title": "中国创新药企迈入价值兑现期：创新药纳保打开确定性增长通道",
+          "url": "https://wallstreetcn.com/livenews/3147109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时40分]"
+        },
+        {
+          "title": "美财长贝森特多举措干预债市，华尔街担忧“卖出美国”情绪升温",
+          "url": "https://wallstreetcn.com/livenews/3147107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "白宫经济顾问哈塞特：我们看到的美国通胀数据正迅速下降。",
@@ -304,11 +288,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "10万台中国空调坐着火车去欧洲",
@@ -373,17 +358,6 @@
           "time_info": "[00时45分 ~ 05时41分]"
         },
         {
-          "title": "特朗普称正在“低调处理”伊朗问题",
-          "url": "https://wallstreetcn.com/livenews/3147122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
           "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
           "url": "https://flash.jin10.com/detail/20260810011547418800",
           "source": "金十数据",
@@ -424,17 +398,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时39分 ~ 04时43分]"
-        },
-        {
-          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
-          "url": "https://flash.jin10.com/detail/20260810045918536800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗总统府负责新闻与通信事务的副主任宣布，伊朗最高领袖穆杰塔巴任命穆赫辛·雷扎伊为其在国家安全委员会的代表。",
@@ -483,11 +446,49 @@
           "source": "金十数据",
           "ranks": [
             1,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时40分]"
+        },
+        {
+          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
+          "url": "https://wallstreetcn.com/livenews/3147123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时41分]"
+          "time_info": "[05时41分 ~ 06时40分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
+          "url": "https://flash.jin10.com/detail/20260810035604925800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时40分]"
+        },
+        {
+          "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
+          "url": "https://flash.jin10.com/detail/20260810052934153800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时40分]"
         },
         {
           "title": "俄罗斯国防部：俄罗斯防空系统拦截并摧毁285架乌克兰无人机。",
@@ -516,6 +517,31 @@
           "time_info": "[03时41分 ~ 05时41分]"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：当今世界已经意识到伊朗是不可屈服的。",
+          "url": "https://flash.jin10.com/detail/20260810035338138800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时40分]"
+        },
+        {
+          "title": "特朗普称正在“低调处理”伊朗问题",
+          "url": "https://wallstreetcn.com/livenews/3147122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时40分]"
+        },
+        {
           "title": "据俄新社：俄罗斯军队对敖德萨热电厂和七个乌克兰变电站进行了打击。",
           "url": "https://flash.jin10.com/detail/20260810025802999800",
           "source": "金十数据",
@@ -529,40 +555,29 @@
           "time_info": "[03时41分 ~ 05时41分]"
         },
         {
-          "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
-          "url": "https://flash.jin10.com/detail/20260810035604925800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时41分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：当今世界已经意识到伊朗是不可屈服的。",
-          "url": "https://flash.jin10.com/detail/20260810035338138800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时41分]"
-        },
-        {
           "title": "伊朗议会议长卡利巴夫：伊斯兰体制正处于历史上最关键的时刻之一，在地区和全球安全与稳定中发挥着无可替代的作用。",
           "url": "https://flash.jin10.com/detail/20260810035319895800",
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时40分]"
+        },
+        {
+          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
+          "url": "https://flash.jin10.com/detail/20260810045918536800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时41分]"
+          "time_info": "[05时41分 ~ 06时40分]"
         },
         {
           "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
@@ -626,6 +641,39 @@
           "time_info": "[00时45分 ~ 01时39分]"
         },
         {
+          "title": "美国芝加哥市发生多起枪击事件 致3死10伤",
+          "url": "https://wallstreetcn.com/livenews/3147127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "美国中央司令部：截至8月9日，中央司令部已调转55艘在霍尔木兹海峡的商船航线，使2艘船只失去行动能力，并登船检查了2艘船只，以确保其遵守封锁令。",
+          "url": "https://flash.jin10.com/detail/20260810054710218800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "美国芝加哥市发生多起枪击事件致三死10伤",
+          "url": "https://flash.jin10.com/detail/20260810053926167800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.douyin.com/hot/2603545",
           "source": "抖音",
@@ -665,7 +713,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -706,7 +754,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -716,8 +764,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -727,8 +775,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
@@ -739,8 +787,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
@@ -750,8 +798,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "伦纳德被曝隐匿收入超5000万美元",
@@ -764,19 +812,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -786,8 +835,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "利润大涨超100%，这一行业，黄金窗口期来了",
@@ -797,8 +846,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
@@ -806,11 +855,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -820,8 +870,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时40分 ~ 05时41分]"
+          "appearance_count": 7,
+          "time_info": "[03时40分 ~ 06时40分]"
+        },
+        {
+          "title": "WTI原油站上78美元/桶，日内涨2.16%，布伦特原油涨2.4%，报83.5美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810060209367800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
+          "url": "https://flash.jin10.com/detail/20260810060135599800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "也门政府谴责胡塞武装袭击摩卡港，称袭击危及红海航运安全",
@@ -835,6 +907,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时45分 ~ 02时53分]"
+        },
+        {
+          "title": "现货黄金周一开盘上涨0.2%，现报4349美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260810060105196800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "WTI原油周一开盘上涨1.5%，现报77.6美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810060035302800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。",
+          "url": "https://wallstreetcn.com/livenews/3147125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
+          "url": "https://flash.jin10.com/detail/20260810053536334800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         }
       ]
     }
