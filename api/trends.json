@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-09T07:37:51.366399+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-08-09T10:19:23.481210+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 78,
+      "match_count": 90,
       "titles": [
-        {
-          "title": "伊媒发布伊朗最高领袖视频",
-          "url": "https://www.toutiao.com/trending/7671613890689502783/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
-        },
         {
           "title": "多家A股公司：收到美国关税退税",
           "url": "https://www.cls.cn/detail/2449086",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -37,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -48,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
@@ -57,6 +46,28 @@
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "source": "今日头条",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -86,28 +97,18 @@
           "time_info": "[00时43分 ~ 07时37分]"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
-        },
-        {
           "title": "欣小萌俄罗斯坐坦克打枪",
           "url": "https://search.bilibili.com/all?keyword=%E6%AC%A3%E5%B0%8F%E8%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E5%9D%A6%E5%85%8B%E6%89%93%E6%9E%AA",
           "source": "bilibili 热搜",
           "ranks": [
             3,
             2,
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时38分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时38分 ~ 10时19分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -116,11 +117,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行",
@@ -134,37 +136,28 @@
           "time_info": "[00时43分 ~ 05时39分]"
         },
         {
-          "title": "美国防部将中企列“黑名单”，被美法院驳回",
-          "url": "https://news.ifeng.com/c/8vQWcxetEAc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
-        },
-        {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
           "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
           "url": "https://www.zhihu.com/question/2069421184177763676",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "20岁中国男子在泰国身亡",
@@ -177,11 +170,12 @@
             10,
             18,
             24,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -190,11 +184,12 @@
           "ranks": [
             14,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "亨特·拜登：我爸赦免我，对他和美国都不好",
@@ -204,15 +199,15 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
-          "title": "《龙餐馆》 战争版《药神》",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B+%E6%88%98%E4%BA%89%E7%89%88%E3%80%8A%E8%8D%AF%E7%A5%9E%E3%80%8B",
-          "source": "百度热搜",
+          "title": "美国防部将中企列“黑名单”，被美法院驳回",
+          "url": "https://news.ifeng.com/c/8vQWcxetEAc",
+          "source": "凤凰网",
           "ranks": [
-            20
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -225,10 +220,106 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "我国多家上市公司宣布收到美国关税退税",
+          "url": "https://wallstreetcn.com/livenews/3147014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3147013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            12,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
+          "url": "https://wallstreetcn.com/livenews/3147012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            13,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
+          "url": "https://wallstreetcn.com/livenews/3147010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            15,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
+          "url": "https://wallstreetcn.com/livenews/3147008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            17,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "《龙餐馆》 战争版《药神》",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B+%E6%88%98%E4%BA%89%E7%89%88%E3%80%8A%E8%8D%AF%E7%A5%9E%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时37分]"
         },
         {
@@ -246,17 +337,19 @@
           "time_info": "[02时50分 ~ 07时37分]"
         },
         {
-          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
-          "url": "https://wallstreetcn.com/livenews/3147021",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
+          "url": "https://wallstreetcn.com/articles/3778992",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
+            10,
+            9,
             8,
-            9
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 7,
+          "time_info": "[03时37分 ~ 10时19分]"
         },
         {
           "title": "外国游客的“中国游三件套”火了",
@@ -268,71 +361,6 @@
             8,
             26,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时37分]"
-        },
-        {
-          "title": "我国多家上市公司宣布收到美国关税退税",
-          "url": "https://wallstreetcn.com/livenews/3147014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时37分]"
-        },
-        {
-          "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3147013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时37分]"
-        },
-        {
-          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
-          "url": "https://wallstreetcn.com/livenews/3147012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时37分]"
-        },
-        {
-          "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
-          "url": "https://wallstreetcn.com/livenews/3147010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时37分]"
-        },
-        {
-          "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
-          "url": "https://wallstreetcn.com/livenews/3147008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            17,
-            18
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -406,18 +434,15 @@
           "time_info": "[00时43分 ~ 07时37分]"
         },
         {
-          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
-          "url": "https://wallstreetcn.com/articles/3778992",
-          "source": "华尔街见闻",
+          "title": "以军士兵把枪口对准中国记者",
+          "url": "https://www.toutiao.com/trending/7670816047708667940/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9,
-            8,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时37分 ~ 07时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
         },
         {
           "title": "中国卫星拍到猎鹰9号火箭残骸撞月",
@@ -445,6 +470,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时43分 ~ 05时39分]"
+        },
+        {
+          "title": "以军士兵把枪口对准中国记者",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E5%A3%AB%E5%85%B5%E6%8A%8A%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
         },
         {
           "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
@@ -683,6 +719,18 @@
           "time_info": "[04时39分 ~ 05时39分]"
         },
         {
+          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
+          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 10时19分]"
+        },
+        {
           "title": "美国副总统万斯：美国正在努力建立一条安全通行的航线，让船只能够安全通过霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260808225219786800",
           "source": "金十数据",
@@ -838,6 +886,18 @@
           "time_info": "[03时37分 ~ 04时39分]"
         },
         {
+          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746518",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 10时19分]"
+        },
+        {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
           "url": "https://flash.jin10.com/detail/20260809002354192800",
           "source": "金十数据",
@@ -874,15 +934,48 @@
           "time_info": "[03时37分 ~ 06时38分]"
         },
         {
-          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
-          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "中国7月PPI月率 -0.7%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093106576800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "10时19分"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "瑙鲁总统邀请中国大使骑自行车，环岛后还喝了中国产冷饮",
+          "url": "https://news.ifeng.com/c/8vRTHUsdqi0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
         },
         {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
@@ -896,6 +989,28 @@
           "time_info": "00时43分"
         },
         {
+          "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093023410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "中国7月PPI年率 3.5%，预期3.80%，前值4.10%。",
+          "url": "https://flash.jin10.com/detail/20260809093020087800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
           "title": "柬埔寨一园区围殴中国人致1死3伤",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%B8%80%E5%9B%AD%E5%8C%BA%E5%9B%B4%E6%AE%B4%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%B41%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -907,15 +1022,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746518",
-          "source": "澎湃新闻",
+          "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
+          "url": "https://flash.jin10.com/detail/20260809093020051800",
+          "source": "金十数据",
           "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "10时19分"
         },
         {
           "title": "据阿曼国家通讯社：阿曼方面谴责（伊朗）在霍尔木兹海峡过境时对船只的反复攻击。",
@@ -929,6 +1044,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "中国7月CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260809092000001800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
           "title": "中国最贵的泥什么样",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%80%E8%B4%B5%E7%9A%84%E6%B3%A5%E4%BB%80%E4%B9%88%E6%A0%B7",
           "source": "bilibili 热搜",
@@ -938,6 +1064,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "孙颖莎入选中国品牌青年榜",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A5%E9%80%89%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E9%9D%92%E5%B9%B4%E6%A6%9C&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "博主：俄罗斯主战派声音越来越大",
+          "url": "https://www.toutiao.com/trending/7671826635414310442/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
         },
         {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
@@ -965,7 +1113,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -975,8 +1123,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
@@ -985,11 +1133,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -999,8 +1148,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -1011,11 +1160,12 @@
             9,
             8,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -1026,8 +1176,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
+          "url": "https://www.cls.cn/detail/2449090",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -1042,29 +1204,18 @@
           "time_info": "[00时43分 ~ 07时37分]"
         },
         {
-          "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
-          "url": "https://www.cls.cn/detail/2449090",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时37分]"
-        },
-        {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147006",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
             19,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 10时19分]"
         },
         {
           "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
@@ -1119,6 +1270,28 @@
           "time_info": "[00时43分 ~ 07时37分]"
         },
         {
+          "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
+          "url": "https://flash.jin10.com/detail/20260809093957019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
           "title": "沙特方面呼吁国际社会对威胁航运和国际贸易安全采取坚定立场。",
           "url": "https://flash.jin10.com/detail/20260809030813233800",
           "source": "金十数据",
@@ -1142,6 +1315,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时37分]"
+        },
+        {
+          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
         }
       ]
     }
