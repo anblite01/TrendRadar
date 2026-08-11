@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T05:58:25.588596+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-08-12T06:55:33.720689+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 62,
+      "match_count": 67,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "激活中国经济增长潜力",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "美方竟鼓噪“谁被中国人抢了饭碗速来举报”",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 06时55分]"
         },
         {
           "title": "美国太空军盖特莱因上将：我们需要解决2027年“金穹顶”的资金问题。",
@@ -76,15 +76,15 @@
           "time_info": "03时13分"
         },
         {
-          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
-          "url": "https://flash.jin10.com/detail/20260812053053264800",
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://flash.jin10.com/detail/20260812063020231800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "06时55分"
         },
         {
           "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
@@ -120,6 +120,29 @@
           "time_info": "03时13分"
         },
         {
+          "title": "韩媒：SK海力士拟将中国工厂NAND产能提高50%",
+          "url": "https://wallstreetcn.com/articles/3779186",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
+        },
+        {
+          "title": "国少主帅浮嶋敏点破青训实情：中国球员天赋不差，差的是这个",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33756321",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
+        },
+        {
           "title": "美国军方：今天早些时候，中央司令部部队使悬挂巴拿马国旗的“维拉诺瓦”号货轮的转向装置失效。",
           "url": "https://flash.jin10.com/detail/20260812025954706800",
           "source": "金十数据",
@@ -142,15 +165,30 @@
           "time_info": "04时57分"
         },
         {
-          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
-          "url": "https://wallstreetcn.com/livenews/3148261",
-          "source": "华尔街见闻-快讯",
+          "title": "明天美国CPI有“鸽派惊喜”？高盛称通胀或低于普遍预期 ，汇丰则押注“温和” 数据",
+          "url": "https://wallstreetcn.com/articles/3779188",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
+        },
+        {
+          "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
+          "url": "https://www.zhihu.com/question/2070076711593406558",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "美国军方：截至当地时间8月11日，中央司令部已将55艘试图突破封锁的商船重新定向，使3艘不遵守规定的船只失去行动能力，并登船检查了2艘。",
@@ -164,63 +202,15 @@
           "time_info": "03时13分"
         },
         {
-          "title": "美国证券交易委员会（SEC）文件显示，截至2026年6月30日蓝猫资本持有SpaceX(SPCX.O)140万股A类普通股。",
-          "url": "https://flash.jin10.com/detail/20260812052528296800",
-          "source": "金十数据",
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://wallstreetcn.com/livenews/3148273",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "韩媒：SK海力士拟将中国工厂NAND产能提高50%",
-          "url": "https://wallstreetcn.com/articles/3779186",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
-        },
-        {
-          "title": "国少主帅浮嶋敏点破青训实情：中国球员天赋不差，差的是这个",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33756321",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
-        },
-        {
-          "title": "明天美国CPI有“鸽派惊喜”？高盛称通胀或低于普遍预期 ，汇丰则押注“温和” 数据",
-          "url": "https://wallstreetcn.com/articles/3779188",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
-        },
-        {
-          "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
-          "url": "https://www.zhihu.com/question/2070076711593406558",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "time_info": "06时55分"
         },
         {
           "title": "马斯克：强烈推荐大家去中国看看",
@@ -232,8 +222,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "美国等国无端指责中国7月进行的潜射洲际弹道导弹试射，中方驳斥",
@@ -243,8 +233,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
+        },
+        {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "中国裁军大使严正驳斥美方无端指责",
@@ -256,20 +259,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
-        },
-        {
-          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
-          "url": "https://www.zhihu.com/question/2070450417981469090",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "中国印尼将在台岛以东演练释放何信号",
@@ -277,11 +268,84 @@
           "source": "今日头条",
           "ranks": [
             17,
-            24
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
+        },
+        {
+          "title": "他们锁定了中国人！东南亚惊悚剧离我们并不远",
+          "url": "https://news.ifeng.com/c/8vW1JWpTLSY",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "time_info": "[04时56分 ~ 06时55分]"
+        },
+        {
+          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
+          "url": "https://flash.jin10.com/detail/20260812053053264800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3148261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，截至2026年6月30日蓝猫资本持有SpaceX(SPCX.O)140万股A类普通股。",
+          "url": "https://flash.jin10.com/detail/20260812052528296800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "20 岁中国富二代在泰国被杀，嫌犯称在女友浴室看到他，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2069733970867122230",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 06时55分]"
+        },
+        {
+          "title": "苹果的买方霸权 第一次在中国失效",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B9%B0%E6%96%B9%E9%9C%B8%E6%9D%83+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E6%95%88",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "伊朗警告乌克兰不赔偿就动手",
@@ -296,38 +360,53 @@
           "time_info": "[03时13分 ~ 05时58分]"
         },
         {
-          "title": "他们锁定了中国人！东南亚惊悚剧离我们并不远",
-          "url": "https://news.ifeng.com/c/8vW1JWpTLSY",
-          "source": "凤凰网",
+          "title": "毛宁向世界分享中国水陆两栖车",
+          "url": "https://www.toutiao.com/trending/7672412630371647529/",
+          "source": "今日头条",
           "ranks": [
-            7
+            29,
+            18,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时56分 ~ 05时58分]"
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
-          "title": "20 岁中国富二代在泰国被杀，嫌犯称在女友浴室看到他，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2069733970867122230",
-          "source": "知乎",
+          "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
+          "url": "https://flash.jin10.com/detail/20260812052220258800",
+          "source": "金十数据",
           "ranks": [
+            6,
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 05时58分]"
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
         },
         {
-          "title": "苹果的买方霸权 第一次在中国失效",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B9%B0%E6%96%B9%E9%9C%B8%E6%9D%83+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E6%95%88",
-          "source": "百度热搜",
+          "title": "美国“金穹”防御系统取得早期进展",
+          "url": "https://flash.jin10.com/detail/20260812051759129800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            29
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 04时57分]"
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
+          "url": "https://flash.jin10.com/detail/20260812050519717800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
         },
         {
           "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
@@ -342,16 +421,40 @@
           "time_info": "[04时57分 ~ 05时58分]"
         },
         {
-          "title": "毛宁向世界分享中国水陆两栖车",
-          "url": "https://www.toutiao.com/trending/7672412630371647529/",
-          "source": "今日头条",
+          "title": "据相关声明，美国商品期货交易委员会（CFTC）已要求预测平台Kalshi继续运营。",
+          "url": "https://flash.jin10.com/detail/20260812045727885800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            18
+            10,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "市场消息：普京已抵达俄罗斯南萨哈林斯克，参加太平洋舰队军演最后阶段。",
+          "url": "https://flash.jin10.com/detail/20260812045252838800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "美国至8月7日当周API成品油进口 19.6万桶/日，前值-20.6万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812043626131800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
         },
         {
           "title": "加拿大美加贸易事务部长勒布朗：当地时间周二在华盛顿特区会见了美国贸易代表格里尔，加拿大仍然致力于谈判，并将继续努力推进和捍卫加拿大的利益。",
@@ -365,15 +468,15 @@
           "time_info": "04时57分"
         },
         {
-          "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
-          "url": "https://flash.jin10.com/detail/20260812052220258800",
-          "source": "金十数据",
+          "title": "美国得州数据中心暂停后，电力需求预测被下调",
+          "url": "https://wallstreetcn.com/livenews/3148272",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "06时55分"
         },
         {
           "title": "美国联邦航空管理局（FAA）：斯波坎国际机场空中交通管制塔因建筑物火警警报而疏散，后经证实为误报。航班运行未受影响，机场继续开放运营。",
@@ -387,17 +490,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "美国“金穹”防御系统取得早期进展",
-          "url": "https://flash.jin10.com/detail/20260812051759129800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
           "title": "美国太空军盖特莱因上将：“金穹顶”计划已成功完成两次测试。",
           "url": "https://flash.jin10.com/detail/20260812025040942800",
           "source": "金十数据",
@@ -407,17 +499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        },
-        {
-          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
-          "url": "https://flash.jin10.com/detail/20260812050519717800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
@@ -453,28 +534,6 @@
           "time_info": "04时57分"
         },
         {
-          "title": "据相关声明，美国商品期货交易委员会（CFTC）已要求预测平台Kalshi继续运营。",
-          "url": "https://flash.jin10.com/detail/20260812045727885800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "市场消息：普京已抵达俄罗斯南萨哈林斯克，参加太平洋舰队军演最后阶段。",
-          "url": "https://flash.jin10.com/detail/20260812045252838800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
           "title": "伊朗议会国家安全和外交政策委员会主席阿齐兹：核问题是公众的关键诉求，将是谈判中的复杂部分。谈判将非常困难。",
           "url": "https://wallstreetcn.com/livenews/3148200",
           "source": "华尔街见闻-快讯",
@@ -495,17 +554,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        },
-        {
-          "title": "美国至8月7日当周API成品油进口 19.6万桶/日，前值-20.6万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260812043626131800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "标普500指数收跌24.91点，跌幅0.32%，美国非农就业报告发布后连续两个交易日回撤，报7728.20点。 道琼斯工业平均指数收跌184.13点，跌幅0.34%，报53791.85点。 纳斯达克综合指数（纳指）收跌159.911点，跌幅0.60%，报26445.446点。 纳斯达克100指数收跌96.325点，跌幅0.33%，报29525.479点。",
@@ -536,7 +584,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -580,7 +628,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -602,9 +650,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰已向美国谈判代表提交了结束与俄罗斯战争的提案。",
@@ -627,6 +686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "为何说雪佛兰败走中国不冤",
+          "url": "https://www.toutiao.com/trending/7672752716988288554/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
@@ -709,7 +779,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -719,8 +789,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -743,8 +813,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "日元对美元汇率再次大幅下跌",
@@ -755,8 +825,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "通用汽车(GM.N)设立45亿美元计划，确保关键零部件供应。",
@@ -792,17 +862,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "CoreWeave预计全年销售124亿-132亿美元，预计资本开支350亿-390亿美元。 预计三季度销售34.5亿-36亿美元，预计资本开支115亿-135亿美元，预计网络开支8.6亿-9.4亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3148263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
           "title": "知情人士：船东支付接近创纪录的400万美元插队过巴拿马运河",
           "url": "https://flash.jin10.com/detail/20260812043042860800",
           "source": "金十数据",
@@ -814,15 +873,15 @@
           "time_info": "04时57分"
         },
         {
-          "title": "超微电脑(SMCI.O)CFO：2026财年公司有9家客户的收入均超过10亿美元，而2025财年只有4家。",
-          "url": "https://flash.jin10.com/detail/20260812052937702800",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.712吨，当前持仓量为1022.672吨。",
+          "url": "https://flash.jin10.com/detail/20260812061846179800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "06时55分"
         },
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -836,6 +895,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
           "title": "美国至8月7日当周API原油库存将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260812042000000800",
           "source": "金十数据",
@@ -847,15 +917,15 @@
           "time_info": "04时57分"
         },
         {
-          "title": "Kalshi年化收入超过40亿美元。 该公司按400亿美元估值洽谈融资。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3148260",
-          "source": "华尔街见闻-快讯",
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
           "ranks": [
-            5
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时55分]"
         },
         {
           "title": "行业周报：美国上周API原油库存增超900万桶",
@@ -863,11 +933,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时55分]"
+        },
+        {
+          "title": "CoreWeave预计全年销售124亿-132亿美元，预计资本开支350亿-390亿美元。 预计三季度销售34.5亿-36亿美元，预计资本开支115亿-135亿美元，预计网络开支8.6亿-9.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3148263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时58分]"
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "超微电脑(SMCI.O)CFO：2026财年公司有9家客户的收入均超过10亿美元，而2025财年只有4家。",
+          "url": "https://flash.jin10.com/detail/20260812052937702800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
         },
         {
           "title": "纽交所（NYSE）母公司洲际交易所（ICE）发行投资级债券，为收购MarketAxess融资37.5亿美元。",
@@ -906,15 +1001,16 @@
           "time_info": "[04时57分 ~ 05时58分]"
         },
         {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
+          "title": "Kalshi年化收入超过40亿美元。 该公司按400亿美元估值洽谈融资。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3148260",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时58分]"
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
         },
         {
           "title": "英伟达5000亿美元“循环融资”？大摩回击：投资由第三方主导，英伟达仅提供“残值支持”还能坐享长期分成",
@@ -924,8 +1020,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 06时55分]"
         },
         {
           "title": "通用汽车将在贷款协议中锁定至多45亿美元供应商库存，以防供应紊乱。",
@@ -964,6 +1060,18 @@
           "time_info": "[04时57分 ~ 05时58分]"
         },
         {
+          "title": "Accel Partners LP.融资35亿美元，从而投资（那些）新兴的全球AI初创公司。",
+          "url": "https://wallstreetcn.com/livenews/3148254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
           "title": "超微电脑第四财季净销售111.2亿美元，分析师预期112.6亿美元。 第四财季调整后每股收益（EPS）为1.70美元，分析师预期1.59美元。 预计第一财季净销售145亿-155亿美元，分析师预期119.9亿美元。 预计第一财季调整后EPS为1.01-1.10美元，分析师预期0.74美元。 超微电脑美股盘后涨8%。",
           "url": "https://wallstreetcn.com/livenews/3148236",
           "source": "华尔街见闻-快讯",
@@ -974,6 +1082,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时58分]"
+        },
+        {
+          "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
+          "url": "https://wallstreetcn.com/livenews/3148253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
+          "url": "https://flash.jin10.com/detail/20260812043909627800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
         },
         {
           "title": "Lumentum第四财季净营收10.1亿美元，分析师预期9.90亿美元，上年同期4.807亿美元。 第四财季组件与零部件营收6.494亿美元，分析师预期6.369亿美元，上年同期3.204亿美元。 第四财季系统营收3.569亿美元，分析师预期3.504亿美元，上年同期1.603亿美元。 Lumentum美股盘后跌5%。",
@@ -988,6 +1120,42 @@
           "time_info": "[04时57分 ~ 05时58分]"
         },
         {
+          "title": "美国至8月7日当周API投产原油量 3.4万桶/日，前值-11.2万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812043636135800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7465元，较周一纽约尾盘跌5点，日内整体交投于6.7443-6.7490元区间。",
+          "url": "https://wallstreetcn.com/livenews/3148251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘，现货黄金跌0.50%，报4368.81美元/盎司。 现货白银跌1.63%，报6.46705美元/盎司。 COMEX铜期货涨0.19%，报6.6285美元/磅。 现货铂金跌0.82%，现货钯金跌1.20%。",
+          "url": "https://wallstreetcn.com/livenews/3148250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
           "title": "WTI 9月原油期货收涨1.07美元，涨幅1.30%，报83.20美元/桶。 布伦特10月原油期货收涨1.19美元，涨幅1.36%，报88.91美元/桶。 中东Abu Dhabi Murban原油期货涨3.83%，报88.15美元/桶。 NYMEX 9月天然气期货收报2.7670美元/百万英热单位。 NYMEX 9月汽油期货收报3.1366美元/加仑，NYMEX 9月取暖油期货收报4.2525美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3148205",
           "source": "华尔街见闻-快讯",
@@ -997,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "上期所原油期货2609合约夜盘收跌0.25%，报549.40元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌0.42%。",
@@ -1010,6 +1189,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "Coreweave(CRWV.O)CFO：预计第三季度营收34.5亿至36亿美元，资本支出115亿至135亿美元。",
+          "url": "https://flash.jin10.com/detail/20260812054334768800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶88.91美元，上涨1.19美元，涨幅1.36%。",
           "url": "https://flash.jin10.com/detail/20260812024522299800",
           "source": "金十数据",
@@ -1021,26 +1211,15 @@
           "time_info": "03时13分"
         },
         {
-          "title": "Accel Partners LP.融资35亿美元，从而投资（那些）新兴的全球AI初创公司。",
-          "url": "https://wallstreetcn.com/livenews/3148254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
-          "url": "https://wallstreetcn.com/livenews/3148253",
-          "source": "华尔街见闻-快讯",
+          "title": "Coreweave(CRWV.O)CFO：将2026年全年营收预期上调至124亿美元至132亿美元。",
+          "url": "https://flash.jin10.com/detail/20260812054000238800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "06时55分"
         },
         {
           "title": "上海黄金交易所黄金T+D 8月11日（周二）晚盘收盘下跌0.58%报947.2元/克；<br/>上海黄金交易所白银T+D 8月11日（周二）晚盘收盘下跌0.92%报15701.0元/千克。",
@@ -1065,37 +1244,26 @@
           "time_info": "04时57分"
         },
         {
-          "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
-          "url": "https://flash.jin10.com/detail/20260812043909627800",
+          "title": "Coreweave(CRWV.O)CFO：目前预计2026年资本支出将在350亿美元至390亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260812053914043800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "06时55分"
         },
         {
-          "title": "美国至8月7日当周API投产原油量 3.4万桶/日，前值-11.2万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260812043636135800",
+          "title": "据The Information：预测市场平台Kalshi年化营收突破40亿美元，寻求400亿美元估值。",
+          "url": "https://flash.jin10.com/detail/20260812053804634800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "周二（8月11日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7465元，较周一纽约尾盘跌5点，日内整体交投于6.7443-6.7490元区间。",
-          "url": "https://wallstreetcn.com/livenews/3148251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "06时55分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）热门中概股行情一览（美股收盘）",
@@ -1107,17 +1275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        },
-        {
-          "title": "周二（8月11日）纽约尾盘，现货黄金跌0.50%，报4368.81美元/盎司。 现货白银跌1.63%，报6.46705美元/盎司。 COMEX铜期货涨0.19%，报6.6285美元/磅。 现货铂金跌0.82%，现货钯金跌1.20%。",
-          "url": "https://wallstreetcn.com/livenews/3148250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "美国原油期货结算价为每桶83.20美元，上涨1.07美元，涨幅1.30%。",
@@ -1137,7 +1294,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -1159,7 +1316,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
