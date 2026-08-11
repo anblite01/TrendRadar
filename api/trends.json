@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T17:09:21.099706+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-08-11T18:58:28.023604+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 163,
+      "match_count": 177,
       "titles": [
         {
           "title": "《中国人民银行“十五五”改革发展规划》发布",
@@ -102,6 +102,17 @@
           "time_info": "[01时01分 ~ 10时16分]"
         },
         {
+          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
+          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时16分 ~ 18时58分]"
+        },
+        {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
           "url": "https://wallstreetcn.com/articles/3779081",
           "source": "华尔街见闻",
@@ -128,17 +139,6 @@
           "time_info": "[01时01分 ~ 06时48分]"
         },
         {
-          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
-          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时16分 ~ 17时09分]"
-        },
-        {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
           "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
           "source": "凤凰网",
@@ -146,8 +146,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时16分 ~ 17时09分]"
+          "appearance_count": 7,
+          "time_info": "[10时16分 ~ 18时58分]"
+        },
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时16分 ~ 18时58分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -159,17 +170,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时53分 ~ 07时43分]"
-        },
-        {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时16分 ~ 17时09分]"
         },
         {
           "title": "中国可控核聚变最新进展",
@@ -185,6 +185,44 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 15时23分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时16分 ~ 18时58分]"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时16分 ~ 18时58分]"
+        },
+        {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 18时58分]"
         },
         {
           "title": "那些搬到越南的工厂，正在重新回到中国",
@@ -263,41 +301,16 @@
           "time_info": "[01时01分 ~ 07时43分]"
         },
         {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "title": "美国又一个机构成为“反华急先锋”",
+          "url": "https://news.ifeng.com/c/8vV0CNr2Nw7",
           "source": "凤凰网",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时16分 ~ 17时09分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 17时09分]"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
             5,
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时16分 ~ 17时09分]"
+          "time_info": "[12时27分 ~ 18时58分]"
         },
         {
           "title": "美媒：特朗普上月秘密乘运输机回国",
@@ -334,16 +347,15 @@
           "time_info": "[01时01分 ~ 03时07分]"
         },
         {
-          "title": "美国又一个机构成为“反华急先锋”",
-          "url": "https://news.ifeng.com/c/8vV0CNr2Nw7",
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
           "source": "凤凰网",
           "ranks": [
-            5,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 17时09分]"
+          "appearance_count": 7,
+          "time_info": "[10时16分 ~ 18时58分]"
         },
         {
           "title": "伊朗总统称与最高领袖会谈了七八个小时",
@@ -384,6 +396,29 @@
           "time_info": "[10时16分 ~ 15时23分]"
         },
         {
+          "title": "遏制中国？美国仍在做“沿第一岛链拒止威慑”的美梦",
+          "url": "https://news.ifeng.com/c/8vV2wvtx3Do",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 18时58分]"
+        },
+        {
+          "title": "中国气象局：高度警惕河南暴雨极端性",
+          "url": "https://www.toutiao.com/trending/7672651000192175625/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 18时58分]"
+        },
+        {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -394,17 +429,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时16分 ~ 12时27分]"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时16分 ~ 17时09分]"
         },
         {
           "title": "高塔姆·阿达尼赢得美国证券欺诈指控的驳回",
@@ -431,6 +455,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811184126216800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "美国7月平均气温刷新1895年以来最高纪录",
           "url": "https://wallstreetcn.com/livenews/3147652",
           "source": "华尔街见闻-快讯",
@@ -440,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "卡塔尔称阿曼与伊朗的会谈已进入深入阶段。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3148024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "美国总统特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
@@ -473,18 +519,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "马斯克母子强推中国游",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E5%AD%90%E5%BC%BA%E6%8E%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -539,7 +574,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -555,27 +590,15 @@
           "time_info": "07时43分"
         },
         {
-          "title": "遏制中国？美国仍在做“沿第一岛链拒止威慑”的美梦",
-          "url": "https://news.ifeng.com/c/8vV2wvtx3Do",
-          "source": "凤凰网",
+          "title": "2026中国算力大会将于9月11日至13日在河北廊坊举行",
+          "url": "https://wallstreetcn.com/livenews/3148022",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 17时09分]"
-        },
-        {
-          "title": "中国气象局：高度警惕河南暴雨极端性",
-          "url": "https://www.toutiao.com/trending/7672651000192175625/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
@@ -622,6 +645,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "卡塔尔：阿曼与伊朗的谈判已进入“高级阶段”",
+          "url": "https://flash.jin10.com/detail/20260811183346473800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "以色列士兵把枪口对准中国记者",
           "url": "https://www.douyin.com/hot/2604471",
           "source": "抖音",
@@ -662,6 +696,18 @@
           "time_info": "[05时52分 ~ 07时43分]"
         },
         {
+          "title": "媒体曝中国网红「雅典娜」确认遇害，宁波警方称并未证实其已遇害，事件真相到底如何？",
+          "url": "https://www.zhihu.com/question/2070285462472582864",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时58分]"
+        },
+        {
           "title": "美国稀土公司盘后下跌5%，此前公布第二季度业绩并宣布收购计划。",
           "url": "https://wallstreetcn.com/livenews/3147694",
           "source": "华尔街见闻-快讯",
@@ -698,6 +744,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 03时07分]"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E5%AD%90%E5%BC%BA%E6%8E%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时58分]"
         },
         {
           "title": "宏利投资管理高级投资组合经理Nathan Thooft：美国可以通过与日本协调干预来影响市场预期，但无法改写基本面。 （谈及美国当局的能力时，他说）口袋很深，但并非无限。",
@@ -930,6 +988,18 @@
           "time_info": "[06时48分 ~ 07时43分]"
         },
         {
+          "title": "国少主帅浮嶋敏点破青训实情：中国球员天赋不差，差的是这个",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33756321",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时58分]"
+        },
+        {
           "title": "乌克兰内政部长顾问：俄罗斯对基辅、扎波罗热和第聂伯罗彼得罗夫斯克地区发起弹道攻击。基辅发生多次爆炸。",
           "url": "https://flash.jin10.com/detail/20260811053800192800",
           "source": "金十数据",
@@ -1031,18 +1101,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "媒体曝中国网红「雅典娜」确认遇害，宁波警方称并未证实其已遇害，事件真相到底如何？",
-          "url": "https://www.zhihu.com/question/2070285462472582864",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1135,13 +1194,24 @@
           "time_info": "01时02分"
         },
         {
+          "title": "水利部和中国气象局8月11日18时联合发布红色山洪灾害气象预警，预计河南中部局地发生山洪灾害可能性很大。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3148017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "曝特朗普上月秘密乘运输机回国",
           "url": "https://www.toutiao.com/trending/7672053116451389486/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1179,15 +1249,15 @@
           "time_info": "03时07分"
         },
         {
-          "title": "国少主帅浮嶋敏点破青训实情：中国球员天赋不差，差的是这个",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33756321",
-          "source": "澎湃新闻",
+          "title": "中国与印尼舰艇将位台岛以东海域演练",
+          "url": "https://www.toutiao.com/trending/7671983623922532403/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时09分"
+          "time_info": "18时58分"
         },
         {
           "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
@@ -1322,6 +1392,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "外交部：敦促太平洋岛国论坛秘书处恪守一个中国原则。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3148011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
           "url": "https://flash.jin10.com/detail/20260811003027747800",
           "source": "金十数据",
@@ -1333,6 +1414,50 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美国7月NFIB中小企业乐观程度指数 99.8%，前值 97.4%。",
+          "url": "https://wallstreetcn.com/livenews/3148006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
+          "title": "卡塔尔外交发言人：阿曼与伊朗之间的谈判目前已进入“高级阶段”。",
+          "url": "https://flash.jin10.com/detail/20260811182333920800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
+          "title": "中国印尼舰艇将位台岛以东海域演练",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%B0%E5%B0%BC%E8%88%B0%E8%89%87%E5%B0%86%E4%BD%8D%E5%8F%B0%E5%B2%9B%E4%BB%A5%E4%B8%9C%E6%B5%B7%E5%9F%9F%E6%BC%94%E7%BB%83",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
           "url": "https://flash.jin10.com/detail/20260811001859720800",
           "source": "金十数据",
@@ -1342,6 +1467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "预告：2026中国算力大会将于9月11日至13日在河北廊坊举行",
+          "url": "https://flash.jin10.com/detail/20260811182017363800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
@@ -1427,7 +1563,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1619,13 +1755,24 @@
           "time_info": "10时16分"
         },
         {
+          "title": "SK海力士将在中国的NAND产能提高50%。（首尔经济日报）",
+          "url": "https://wallstreetcn.com/livenews/3147991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "无人机如何催生了俄罗斯坦克的变革",
           "url": "https://www.toutiao.com/trending/7672597288291700260/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1636,7 +1783,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1724,7 +1871,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1773,6 +1920,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "中国老板卖鸡汤馄饨视频",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%80%81%E6%9D%BF%E5%8D%96%E9%B8%A1%E6%B1%A4%E9%A6%84%E9%A5%A8%E8%A7%86%E9%A2%91&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "市场消息：伊朗外交部长与德国外长通电话。",
           "url": "https://flash.jin10.com/detail/20260810234334198800",
           "source": "金十数据",
@@ -1790,7 +1948,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1886,7 +2044,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 109,
+      "match_count": 114,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -1896,8 +2054,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时42分 ~ 17时09分]"
+          "appearance_count": 9,
+          "time_info": "[07时42分 ~ 18时58分]"
         },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -1991,6 +2149,19 @@
           "time_info": "[01时01分 ~ 07时43分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时16分 ~ 18时58分]"
+        },
+        {
           "title": "土耳其为何向乌转让2.8亿美元武器",
           "url": "https://www.toutiao.com/trending/7672370517101252102/",
           "source": "今日头条",
@@ -2004,18 +2175,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时07分 ~ 07时43分]"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时16分 ~ 17时09分]"
         },
         {
           "title": "美国2026财年前10个月联邦赤字为1.8万亿美元",
@@ -2105,7 +2264,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -2121,6 +2280,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "五矿资源公布中期业绩：权益持有人应占利润同比增长164%至8.97亿美元",
+          "url": "https://flash.jin10.com/detail/20260811183559361800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "美国2026财年前10个月联邦赤字为1.8万亿美元",
           "url": "https://wallstreetcn.com/livenews/3147650",
           "source": "华尔街见闻-快讯",
@@ -2130,6 +2300,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 18时58分]"
         },
         {
           "title": "哈萨克斯坦央行：7月份的净黄金和外汇储备为617.24亿美元（环比变化3.2%）。",
@@ -2217,16 +2400,18 @@
           "time_info": "[01时02分 ~ 03时07分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            13,
+            12,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时58分 ~ 17时09分]"
+          "time_info": "[15时22分 ~ 18时58分]"
         },
         {
           "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
@@ -2266,19 +2451,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时53分 ~ 06时48分]"
-        },
-        {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时09分]"
         },
         {
           "title": "特朗普媒体科技集团二季度净利润2.38亿美元，上年同期亏损0.2亿美元。",
@@ -2514,6 +2686,17 @@
           "time_info": "[05时52分 ~ 06时48分]"
         },
         {
+          "title": "布伦特原油和美国原油回吐部分涨幅，卡塔尔政府发言人表示阿曼与伊朗的谈判已进入高级阶段。",
+          "url": "https://flash.jin10.com/detail/20260811183204331800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "WTI 9月原油期货收涨3.95美元，涨幅超过5.05%，报82.13美元/桶。 NYMEX 9月天然气期货收报2.7940美元/百万英热单位。 NYMEX 9月汽油期货收报3.1354美元/加仑，NYMEX 9月取暖油期货收报4.1898美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3147645",
           "source": "华尔街见闻-快讯",
@@ -2523,6 +2706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "日元跌向1美元兑160重要关口 干预忧虑进一步升温",
+          "url": "https://wallstreetcn.com/livenews/3148019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "上期所原油期货2609合约夜盘收涨4.06%，报553.70元人民币/桶。 沪金夜盘收涨0.66%，沪银收涨1.89%。",
@@ -2652,7 +2846,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -2861,7 +3055,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -2875,6 +3069,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "金价冲上4400美元 黄金股为何跳水",
+          "url": "https://www.toutiao.com/trending/7672685366725316123/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "现货黄金下破4400美元/盎司关口，最低至4381美元/盎司附近，日内转跌0.15%。",
@@ -3031,6 +3236,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "WTI原油日内涨幅达3.0%，报84.6美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "霍尔木兹海峡风险推高油轮租船成本，中东航线日费逼近50万美元。",
           "url": "https://flash.jin10.com/detail/20260810235519623800",
           "source": "金十数据",
@@ -3081,7 +3297,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -3103,7 +3319,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -3136,7 +3352,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
