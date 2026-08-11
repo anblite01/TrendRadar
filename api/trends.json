@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T10:16:35.910491+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-08-11T12:27:37.511956+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 119,
+      "match_count": 132,
       "titles": [
         {
           "title": "《中国人民银行“十五五”改革发展规划》发布",
@@ -66,19 +66,6 @@
           "time_info": "[01时01分 ~ 07时43分]"
         },
         {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 10时16分]"
-        },
-        {
           "title": "外交部：藏南地区是中国领土",
           "url": "https://www.toutiao.com/trending/7671604814489649215/",
           "source": "今日头条",
@@ -89,6 +76,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 10时16分]"
+        },
+        {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 12时27分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -246,6 +247,17 @@
           "time_info": "[07时42分 ~ 07时43分]"
         },
         {
+          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
+          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
+        },
+        {
           "title": "中国可控核聚变最新进展",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
           "source": "bilibili 热搜",
@@ -258,6 +270,40 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 10时16分]"
+        },
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
+        },
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
+        },
+        {
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
         },
         {
           "title": "高塔姆·阿达尼赢得美国证券欺诈指控的驳回",
@@ -273,15 +319,15 @@
           "time_info": "[05时52分 ~ 07时43分]"
         },
         {
-          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
-          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
-          "source": "凤凰网",
+          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "12时27分"
         },
         {
           "title": "美国7月平均气温刷新1895年以来最高纪录",
@@ -320,17 +366,6 @@
           "time_info": "[01时01分 ~ 05时52分]"
         },
         {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
           "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
           "url": "https://flash.jin10.com/detail/20260811071100479800",
           "source": "金十数据",
@@ -351,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
         },
         {
           "title": "美国7月平均气温刷新1895年以来最高纪录",
@@ -392,7 +416,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -403,20 +427,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
         {
-          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "title": "美国又一个机构成为“反华急先锋”",
+          "url": "https://news.ifeng.com/c/8vV0CNr2Nw7",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "12时27分"
         },
         {
           "title": "以色列士兵把枪口对准中国记者",
@@ -546,6 +570,19 @@
           "time_info": "[05时52分 ~ 06时48分]"
         },
         {
+          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
+          "url": "https://www.cls.cn/detail/2450585",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 12时27分]"
+        },
+        {
           "title": "伊朗最高领袖将任命数名高级指挥官",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
           "source": "百度热搜",
@@ -570,18 +607,6 @@
           "time_info": "[06时48分 ~ 07时43分]"
         },
         {
-          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
-          "url": "https://www.cls.cn/detail/2450585",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时16分]"
-        },
-        {
           "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
           "url": "https://wallstreetcn.com/livenews/3147684",
           "source": "华尔街见闻-快讯",
@@ -595,6 +620,40 @@
           "time_info": "[04时53分 ~ 06时48分]"
         },
         {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
+        },
+        {
+          "title": "中国网红「雅典娜」确认遇害，被闺蜜骗去菲律宾后被绑架，哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2070285462472582864",
+          "source": "知乎",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
+        },
+        {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
@@ -604,6 +663,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
         },
         {
           "title": "特朗普称自沃什履新以来仅与其短暂交谈一次 否认频繁沟通",
@@ -628,6 +698,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时43分]"
+        },
+        {
+          "title": "德国记者要帮泽连斯基“杀死更多俄罗斯人”，武契奇表情震惊",
+          "url": "https://news.ifeng.com/c/8vU5AoRmRLo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
+        },
+        {
+          "title": "伊朗总统称最高领袖健康状况很好",
+          "url": "https://www.toutiao.com/trending/7672040770148417546/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
         },
         {
           "title": "中国地震台网正式测定：8月11日05时31分，在四川宜宾市高县（北纬28.53度，东经104.66度）发生3.9级地震，震源深度5公里。",
@@ -725,17 +818,6 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
           "title": "俄罗斯最高法院禁止反战的雅布洛科党参加议会选举。",
           "url": "https://flash.jin10.com/detail/20260811004929286800",
           "source": "金十数据",
@@ -764,7 +846,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -780,37 +862,37 @@
           "time_info": "01时02分"
         },
         {
+          "title": "遏制中国？美国仍在做“沿第一岛链拒止威慑”的美梦",
+          "url": "https://news.ifeng.com/c/8vV2wvtx3Do",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3147780",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
+          "title": "伊朗总统之子反思伊朗国际形象",
+          "url": "https://www.toutiao.com/trending/7671499615899877402/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "12时27分"
         },
         {
           "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
@@ -824,26 +906,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "伊朗总统称最高领袖健康状况很好",
-          "url": "https://www.toutiao.com/trending/7672040770148417546/",
-          "source": "今日头条",
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "德国记者要帮泽连斯基“杀死更多俄罗斯人”，武契奇表情震惊",
-          "url": "https://news.ifeng.com/c/8vU5AoRmRLo",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "12时27分"
         },
         {
           "title": "白宫：托德·布兰奇正式宣誓就任美国司法部长。",
@@ -879,6 +950,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
           "url": "https://flash.jin10.com/detail/20260811003419512800",
           "source": "金十数据",
@@ -899,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "外国记者：在中国提前窥见“22世纪”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%8F%90%E5%89%8D%E7%AA%A5%E8%A7%81%E2%80%9C22%E4%B8%96%E7%BA%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "乌克兰袭击俄罗斯腹地大型炼油厂及石化工厂，13名罹难人员中包含一名儿童",
@@ -929,9 +1022,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股走势分化，保险行业全线下跌，通信设备、炼化股悉数飘红",
+          "url": "https://flash.jin10.com/detail/20260811113714606800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "纳斯达克金龙中国指数涨超1%，中进医疗涨63.38%，中比能源涨15.77%，陆金所控股涨13.00%，搜狐涨6.60%，海天网络涨5.49%。",
@@ -951,7 +1055,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -965,17 +1069,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "中国网红「雅典娜」确认遇害，被闺蜜骗去菲律宾后被绑架，哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2070285462472582864",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
         },
         {
           "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
@@ -1006,7 +1099,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -1050,9 +1143,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "受贿6798万余元，中国一重原副总经理陆文俊一审获刑15年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753453",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "美国反腐的现状如何",
@@ -1061,7 +1165,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -1083,7 +1187,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -1127,7 +1231,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -1149,7 +1253,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -1204,7 +1308,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -1253,13 +1357,24 @@
           "time_info": "04时53分"
         },
         {
+          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
+          "url": "https://wallstreetcn.com/livenews/3147809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "中国军号海外账号发布视频",
           "url": "https://www.toutiao.com/trending/7672218698578149402/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -1308,6 +1423,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "市场消息：伊朗外交部长与德国外长通电话。",
           "url": "https://flash.jin10.com/detail/20260810234334198800",
           "source": "金十数据",
@@ -1336,9 +1462,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "核爆81周年日本为何不敢点名美国",
+          "url": "https://www.toutiao.com/trending/7671866200909643795/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "中国存储开始把定价权拿回来了",
@@ -1347,9 +1484,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈七八个小时",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "伊朗最高领袖将任命数名高级军事指挥官",
@@ -1377,7 +1525,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 82,
+      "match_count": 88,
       "titles": [
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -1400,8 +1548,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 10时16分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 12时27分]"
+        },
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 12时27分]"
         },
         {
           "title": "伯克希尔 Q2 净利润 256.67 亿美元，时隔 3 年首次净买入股票，现金储备降至 3655 亿美元，如何解读？",
@@ -1432,28 +1591,18 @@
           "time_info": "[01时01分 ~ 07时43分]"
         },
         {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时16分]"
-        },
-        {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
           "source": "财联社热门",
           "ranks": [
             8,
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时48分 ~ 10时16分]"
+          "appearance_count": 5,
+          "time_info": "[06时48分 ~ 12时27分]"
         },
         {
           "title": "土耳其为何向乌转让2.8亿美元武器",
@@ -1471,15 +1620,16 @@
           "time_info": "[03时07分 ~ 07时43分]"
         },
         {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
+          "source": "财联社热门",
           "ranks": [
+            8,
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 12时27分]"
         },
         {
           "title": "美国2026财年前10个月联邦赤字为1.8万亿美元",
@@ -1532,21 +1682,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
-        },
-        {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时16分]"
         },
         {
           "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
@@ -1571,6 +1709,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "哈萨克斯坦央行：7月份的净黄金和外汇储备为617.24亿美元（环比变化3.2%）。",
+          "url": "https://flash.jin10.com/detail/20260811120328823800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "报道：英特尔拟扩大股票发售规模，筹资约200亿美元",
           "url": "https://wallstreetcn.com/livenews/3147737",
           "source": "华尔街见闻-快讯",
@@ -1593,6 +1742,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时53分 ~ 06时48分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
         },
         {
           "title": "多路资金买入黄金，机构热议新“击球区”出现",
@@ -1630,6 +1791,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 03时07分]"
+        },
+        {
+          "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
+          "url": "https://www.cls.cn/detail/2450754",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
         },
         {
           "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
@@ -1749,6 +1922,18 @@
           "time_info": "[04时53分 ~ 06时48分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
+        },
+        {
           "title": "Applied Compute融资估值有望翻倍至30亿美元",
           "url": "https://flash.jin10.com/detail/20260811042852164800",
           "source": "金十数据",
@@ -1771,6 +1956,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时43分]"
+        },
+        {
+          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
+          "url": "https://www.cls.cn/detail/2450613",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时27分]"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
@@ -1915,17 +2112,6 @@
           "time_info": "03时07分"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
           "title": "上期所原油期货2609合约夜盘收涨4.06%，报553.70元人民币/桶。 沪金夜盘收涨0.66%，沪银收涨1.89%。",
           "url": "https://wallstreetcn.com/livenews/3147644",
           "source": "华尔街见闻-快讯",
@@ -1935,17 +2121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
-          "url": "https://www.cls.cn/detail/2450754",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
         },
         {
           "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
@@ -1998,7 +2173,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -2012,17 +2187,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
-          "url": "https://www.cls.cn/detail/2450613",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
         },
         {
           "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
@@ -2047,6 +2211,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "菲律宾比索跌至1美元兑61.066比索，为8月4日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3147832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 8月10日（周一）晚盘收盘上涨0.69%报947.62元/克；<br/>上海黄金交易所白银T+D 8月10日（周一）晚盘收盘上涨1.79%报15830.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260811023542356800",
           "source": "金十数据",
@@ -2056,6 +2231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260811113830052800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "现货白银日内涨幅扩大至3.00%，现报65.44美元/盎司。",
@@ -2146,6 +2332,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3147820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "霍尔木兹海峡风险推高油轮租船成本，中东航线日费逼近50万美元",
           "url": "https://wallstreetcn.com/livenews/3147603",
           "source": "华尔街见闻-快讯",
@@ -2157,13 +2354,24 @@
           "time_info": "01时02分"
         },
         {
+          "title": "早盘收盘，国内期货主力合约涨跌不一。低硫燃料油（LU）、燃料油、SC原油涨超4%，纯碱、沪银涨超3%，焦煤、丙烯、甲醇、聚丙烯月均价涨超2%。跌幅方面，集运欧线跌超6%，鸡蛋跌超2%，红枣、纸浆跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260811113049988800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "人民币兑美元中间价报6.7900，下调16点；上一交易日中间价6.7884，上一交易日官方收盘价6.7442，上日夜盘报收6.7495。",
           "url": "https://wallstreetcn.com/livenews/3147763",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -2229,7 +2437,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -2243,6 +2451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "菲律宾披索兑美元跌至61.066，为8月4日以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260811112438831800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
@@ -2328,7 +2547,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         }
