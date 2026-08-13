@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T04:53:49.511356+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-08-14T05:55:48.486337+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 74,
+      "match_count": 90,
       "titles": [
         {
           "title": "伊朗：将以持久战消耗美国",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -27,19 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
-        },
-        {
-          "title": "俄罗斯历史课本里的中国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%86%E5%8F%B2%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -49,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "中国持续刷新生态“成绩单”",
@@ -60,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -71,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "中国制造再添全球之最",
@@ -82,8 +71,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
+        },
+        {
+          "title": "俄罗斯历史课本里的中国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%86%E5%8F%B2%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "德比斯羡慕中国车手",
@@ -94,8 +95,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "伊朗将正式加入金砖国家新开发银行",
@@ -105,8 +106,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "通胀超预期降温！美国7月PPI同比涨幅收窄至4.7%，能源成本下降成主因",
@@ -117,8 +118,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "马斯克一句“中国太棒了”刷屏海外",
@@ -128,8 +129,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -149,7 +150,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -187,72 +188,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "惠誉：预计美国2026年通胀率将平均为3.4%。",
-          "url": "https://flash.jin10.com/detail/20260814044156209800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "惠誉：美国政治僵局与政府停摆发生概率或将上升，持续时间也可能进一步拉长。",
-          "url": "https://wallstreetcn.com/livenews/3149322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "惠誉：预计美国债务上限将在2027年中左右触及。",
-          "url": "https://flash.jin10.com/detail/20260814044152304800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "惠誉：美国的评级得益于庞大的经济、高人均收入、活跃的商业环境和卓越的融资灵活性。预计美国2026-2027年经济增长将保持相对韧性，达到1.9%，但低于2025年的2.8%。2026年美国劳动力需求减弱，职位创造显著下降。",
-          "url": "https://wallstreetcn.com/livenews/3149321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "惠誉：高财政赤字、巨大的利息负担以及高企且上升的政府债务水平制约了美国评级。",
-          "url": "https://flash.jin10.com/detail/20260814044027598800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "花旗集团：花旗美国消费信用卡业务宣布已达成协议收购 Kard Financial, Inc.",
-          "url": "https://wallstreetcn.com/livenews/3149320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
           "title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温",
           "url": "https://www.cls.cn/detail/2453838",
           "source": "财联社热门",
@@ -261,8 +196,110 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
+        },
+        {
+          "title": "惠誉：预计美国2026年通胀率将平均为3.4%。",
+          "url": "https://flash.jin10.com/detail/20260814044156209800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "特朗普对特定无人机进口加征100%关税",
+          "url": "https://flash.jin10.com/detail/20260814054149150800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "惠誉：预计美国债务上限将在2027年中左右触及。",
+          "url": "https://flash.jin10.com/detail/20260814044152304800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "澳大利亚总理阿尔巴尼斯：与美国总统特朗普进行了夜间交谈。",
+          "url": "https://flash.jin10.com/detail/20260814054026468800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "富时中国A50指数期货夜盘收盘涨0.03%",
+          "url": "https://wallstreetcn.com/livenews/3149333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "惠誉：高财政赤字、巨大的利息负担以及高企且上升的政府债务水平制约了美国评级。",
+          "url": "https://flash.jin10.com/detail/20260814044027598800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "惠誉：美国政治僵局与政府停摆发生概率或将上升，持续时间也可能进一步拉长。",
+          "url": "https://wallstreetcn.com/livenews/3149322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "惠誉：美国的评级得益于庞大的经济、高人均收入、活跃的商业环境和卓越的融资灵活性。预计美国2026-2027年经济增长将保持相对韧性，达到1.9%，但低于2025年的2.8%。2026年美国劳动力需求减弱，职位创造显著下降。",
+          "url": "https://wallstreetcn.com/livenews/3149321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "花旗集团：花旗美国消费信用卡业务宣布已达成协议收购 Kard Financial, Inc.",
+          "url": "https://wallstreetcn.com/livenews/3149320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
@@ -272,20 +309,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
-        },
-        {
-          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2071169289697092854",
-          "source": "知乎",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "“数字护照”发到巴拿马，美国的手伸得太长了",
@@ -295,8 +320,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
+        },
+        {
+          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2071169289697092854",
+          "source": "知乎",
+          "ranks": [
+            8,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "中国印尼首次台岛以东联演有何深意",
@@ -307,8 +345,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "“再不猛干就要被中国追上”，韩国两部长激辩要不要搞996",
@@ -318,8 +356,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -327,11 +365,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "马斯克安利中国,外网闹麻",
@@ -341,8 +380,128 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
+        },
+        {
+          "title": "中国车企攻入日系车大本营",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%94%BB%E5%85%A5%E6%97%A5%E7%B3%BB%E8%BD%A6%E5%A4%A7%E6%9C%AC%E8%90%A5",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 05时55分]"
+        },
+        {
+          "title": "美防长称可“无限期维持”对伊朗海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3149317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
+          "url": "https://wallstreetcn.com/livenews/3149316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
+          "url": "https://wallstreetcn.com/livenews/3149314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也退出中国市场，说明了什么？",
+          "url": "https://www.zhihu.com/question/2069970060106527911",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "美国副总统万斯谈及伊朗：美国手上有诸多可用于应对伊朗的手段。首要目标是让美国的石油与汽油维持低价。最终目标同样是让霍尔木兹海峡恢复稳定，油价回归平稳。",
+          "url": "https://wallstreetcn.com/livenews/3149312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "美国老师崩溃痛哭：高中生不会读写",
+          "url": "https://www.toutiao.com/trending/7673322961486495780/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "美国证券交易委员会文件：先锋资本管理有限责任公司披露持有 SpaceX 2660 万股 A 类股份。",
+          "url": "https://wallstreetcn.com/livenews/3149306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "中国男篮热身赛力克乌拉圭",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%83%AD%E8%BA%AB%E8%B5%9B%E5%8A%9B%E5%85%8B%E4%B9%8C%E6%8B%89%E5%9C%AD",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
         },
         {
           "title": "加拿大萨斯喀彻温省省长：在8月19日关税截止日期临近之际，加拿大与美国之间的谈判在过去几周明显升温。",
@@ -362,9 +521,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
+          "url": "https://flash.jin10.com/detail/20260814053520853800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "美国地质调查局：克马德克群岛地区发生5.4级地震。",
@@ -376,17 +546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "中国车企攻入日系车大本营",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%94%BB%E5%85%A5%E6%97%A5%E7%B3%BB%E8%BD%A6%E5%A4%A7%E6%9C%AC%E8%90%A5",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "俄罗斯太平洋舰队军演，日本急了",
@@ -406,7 +565,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -428,20 +587,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
         {
-          "title": "美新闻机构起诉特朗普",
-          "url": "https://www.douyin.com/hot/2607917",
-          "source": "抖音",
+          "title": "美联储未来一个月暂停出于准备金管理目的买入美国国库券",
+          "url": "https://wallstreetcn.com/livenews/3149329",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "05时55分"
         },
         {
           "title": "美国房贷利率六周来首次小幅下降",
@@ -455,6 +614,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "白宫：美国总统特朗普已指示国防部长，在CVN-81航母建造期间，将先进电磁弹射系统和先进武器升降机更换为传统的蒸汽和液压系统。",
+          "url": "https://flash.jin10.com/detail/20260814052949951800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
           "url": "https://wallstreetcn.com/livenews/3149255",
           "source": "华尔街见闻-快讯",
@@ -464,17 +634,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "美防长称可“无限期维持”对伊朗海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3149317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "乌克兰向俄罗斯提出黑海民用目标停火提议",
@@ -488,15 +647,15 @@
           "time_info": "01时04分"
         },
         {
-          "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
-          "url": "https://wallstreetcn.com/livenews/3149316",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫：美国总统特朗普签署的备忘录指示五角大楼参照“芬兰模式”，加大对美国造船工业基础的直接投资。",
+          "url": "https://flash.jin10.com/detail/20260814052933295800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时55分"
         },
         {
           "title": "惠誉：我们预计到2028年底美国通胀将朝目标水平移动。",
@@ -505,9 +664,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "白宫：美国总统特朗普已签署一份国家安全总统备忘录，旨在解决海军舰船建造与维修计划中长期存在的关键问题。",
+          "url": "https://flash.jin10.com/detail/20260814052911469800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "惠誉：2026年美国劳动力需求减弱，职位创造显著下降。",
@@ -516,18 +686,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
-          "url": "https://wallstreetcn.com/livenews/3149314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -538,9 +697,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "白宫：美国总统特朗普将对英国输美无人机加征10%从价关税。",
+          "url": "https://flash.jin10.com/detail/20260814052728079800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "惠誉：美国的评级得益于庞大的经济、高人均收入、活跃的商业环境和卓越的融资灵活性。",
@@ -549,9 +719,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "白宫：美国总统特朗普将对欧盟、日本、列支敦士登、韩国、瑞士输美的无人机及零部件加征15%从价关税。",
+          "url": "https://flash.jin10.com/detail/20260814052706154800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "美国抵押贷款利率六周以来首次小幅下降",
@@ -565,15 +746,15 @@
           "time_info": "01时04分"
         },
         {
-          "title": "美国副总统万斯谈及伊朗：美国手上有诸多可用于应对伊朗的手段。首要目标是让美国的石油与汽油维持低价。最终目标同样是让霍尔木兹海峡恢复稳定，油价回归平稳。",
-          "url": "https://wallstreetcn.com/livenews/3149312",
+          "title": "惠誉：到2032 年，美国医疗保险与社会保障支出占GDP的比重将增加近1个百分点，这将进一步加大政府的财政压力。",
+          "url": "https://wallstreetcn.com/livenews/3149323",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时55分"
         },
         {
           "title": "惠誉确认美国信用评级为 'AA+'；展望稳定。",
@@ -582,20 +763,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
         {
-          "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也退出中国市场，说明了什么？",
-          "url": "https://www.zhihu.com/question/2069970060106527911",
-          "source": "知乎",
+          "title": "白宫：美国总统特朗普将对特定尺寸或具备敏感性能的无人机加征100%从价关税。",
+          "url": "https://flash.jin10.com/detail/20260814052625841800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "白宫：美国总统特朗普将对部分缺乏特定能力的小型无人机加征25%从价关税，理由是相关产品涉及国家安全问题。",
+          "url": "https://flash.jin10.com/detail/20260814052554722800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时55分"
         },
         {
           "title": "美国副总统万斯：（关于伊朗）霍尔木兹海峡冲突结束后，油价将回归稳定。",
@@ -604,7 +796,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -615,9 +807,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "惠誉确认美国主权评级为 AA+。惠誉预计美国将在2027年中期触及债务上限，到2028年美国政府债务占GDP的比例将升至123%。",
+          "url": "https://wallstreetcn.com/livenews/3149318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "美国抵押贷款利率六周以来首次小幅下降。",
@@ -637,7 +840,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -651,17 +854,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "美国证券交易委员会文件：先锋资本管理有限责任公司披露持有 SpaceX 2660 万股 A 类股份。",
-          "url": "https://wallstreetcn.com/livenews/3149306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "房利美：美国30年期固定利率抵押贷款在截至8月13日当周平均为6.67%，较前一周的6.69%有所下降。",
@@ -681,9 +873,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "据沙特国家通讯社：沙特王储与美国中央司令部指挥官就深化防务合作、推动地区局势降温进行了交流。",
+          "url": "https://flash.jin10.com/detail/20260814051010797800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
@@ -692,7 +895,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -708,13 +911,24 @@
           "time_info": "01时04分"
         },
         {
+          "title": "据沙特国家通讯社：沙特王储会见美国中央司令部司令。",
+          "url": "https://flash.jin10.com/detail/20260814050756556800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
           "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
           "url": "https://flash.jin10.com/detail/20260814041900261800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -736,7 +950,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -747,7 +961,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -763,17 +977,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "美国老师崩溃痛哭：高中生不会读写",
-          "url": "https://www.toutiao.com/trending/7673322961486495780/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
           "title": "美国对华出口管制伤害了谁",
           "url": "https://www.toutiao.com/trending/7673498853865164315/",
           "source": "今日头条",
@@ -785,24 +988,13 @@
           "time_info": "01时04分"
         },
         {
-          "title": "中国男篮热身赛力克乌拉圭",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%83%AD%E8%BA%AB%E8%B5%9B%E5%8A%9B%E5%85%8B%E4%B9%8C%E6%8B%89%E5%9C%AD",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
           "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
           "url": "https://wallstreetcn.com/livenews/3149298",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -824,7 +1016,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }
@@ -832,7 +1024,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 29,
+      "match_count": 36,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -842,8 +1034,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
@@ -851,11 +1043,23 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
+        },
+        {
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -867,6 +1071,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "文件显示AMD的47.5亿美元高级无担保票据发行定价方案已确定，共分为四个批次。",
+          "url": "https://wallstreetcn.com/livenews/3149335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股盘中）",
@@ -891,6 +1106,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814053819730800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
           "title": "曼哈顿租金创新高，有人豪掷4000美元只为抢看“隐藏房源”",
           "url": "https://wallstreetcn.com/livenews/3149258",
           "source": "华尔街见闻-快讯",
@@ -910,8 +1136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -922,19 +1148,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3779371",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
@@ -945,19 +1172,101 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时55分]"
         },
         {
           "title": "泛林集团计划在未来五年内投资超过30亿美元，以扩大其全球实验室网络，目标是将实验产能提升50%以上。",
           "url": "https://wallstreetcn.com/livenews/3149319",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
+          "url": "https://www.zhihu.com/question/2071179550575124530",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "黄金后市何去何从？业内预测：年内仍有上行空间，最高看向7150美元！",
+          "url": "https://www.cls.cn/detail/2453369",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3149311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "美光科技：美光风投基金总承诺出资规模增至 5.5 亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "应用材料第三季度调整后每股收益3.50美元，预期3.42美元。盘后股价下跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3149308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "美股三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时55分]"
+        },
+        {
+          "title": "Reddit(RDDT.N)美股盘后涨超12%。",
+          "url": "https://flash.jin10.com/detail/20260814053317827800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时55分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
@@ -966,9 +1275,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "周四（8月13日）纽约尾盘（周五北京时间04:59），美元兑离岸人民币（CNH）报6.7444元，较周三纽约尾盘跌14点，日内整体交投于6.74793-6.74218元区间。",
+          "url": "https://wallstreetcn.com/livenews/3149328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "底特律汽车制造商将向白宫提出申诉，称修订后的北美贸易协议可能令他们损失数十亿美元。",
@@ -993,26 +1313,15 @@
           "time_info": "01时04分"
         },
         {
-          "title": "黄金后市何去何从？业内预测：年内仍有上行空间，最高看向7150美元！",
-          "url": "https://www.cls.cn/detail/2453369",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3149311",
+          "title": "周四（8月13日）纽约尾盘，现货黄金跌1.34%，报4350.20美元/盎司。 现货白银跌1.43%，报64.427美元/盎司，日内震荡下行，交投于66.303-64.219美元。 COMEX铜期货跌0.35%，报6.5326美元/磅，盘中一度走V收复跌幅，美PPI数据后较日高回落收跌。",
+          "url": "https://wallstreetcn.com/livenews/3149326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时55分"
         },
         {
           "title": "美国至8月7日当周外国央行持有美国国债 -342.57亿美元，前值-255.34亿美元。",
@@ -1021,42 +1330,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
         {
-          "title": "美光科技：美光风投基金总承诺出资规模增至 5.5 亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3149309",
-          "source": "华尔街见闻-快讯",
+          "title": "阿根廷LNG项目申请加入RIGI激励制度，涉及投资规模510亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814051307220800",
+          "source": "金十数据",
           "ranks": [
-            16
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
-          "url": "https://www.zhihu.com/question/2071179550575124530",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "应用材料第三季度调整后每股收益3.50美元，预期3.42美元。盘后股价下跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3149308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时55分"
         },
         {
           "title": "2026未来科学大奖公布：张宏、赵东元、袁新意获奖，单项奖金百万美元",
@@ -1076,18 +1363,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美股三大指数集体高开",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -1098,7 +1374,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -1109,7 +1385,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -1120,7 +1396,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -1153,7 +1429,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }
