@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T06:32:20.121260+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-08-15T07:29:26.033734+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 80,
+      "match_count": 82,
       "titles": [
         {
           "title": "中国人会飞官方MV",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -26,19 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
-        },
-        {
-          "title": "中国汽车开放崛起之路",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%BC%80%E6%94%BE%E5%B4%9B%E8%B5%B7%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时05分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "台湾岛内出现有利于统一的三个变化",
@@ -50,8 +39,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -61,8 +50,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
+        },
+        {
+          "title": "中国汽车开放崛起之路",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%BC%80%E6%94%BE%E5%B4%9B%E8%B5%B7%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时05分 ~ 07时29分]"
         },
         {
           "title": "中国7月新增社融1.41万亿元，人民币贷款减少3400亿，M2同比增长7.7%",
@@ -73,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "中国公开赛周跃龙6:5吉尔伯特",
@@ -86,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "马科斯：没想疏远中国，看好经济合作",
@@ -97,8 +98,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "以网友挑衅中国文化遭群嘲",
@@ -109,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
@@ -120,8 +121,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "日本“和平塔”，压着从中国抢来的238块石头！",
@@ -131,8 +132,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
@@ -142,8 +143,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "中国足球小将战平巴萨",
@@ -153,8 +154,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
@@ -164,8 +165,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "美国法官将联合健康CEO枪杀案嫌疑人路易吉·曼吉奥内的判刑时间定在12月18日。",
@@ -212,16 +213,28 @@
           "time_info": "04时38分"
         },
         {
+          "title": "美国防务巨头竞相研发廉价导弹",
+          "url": "https://flash.jin10.com/detail/20260815060326105800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "中国科研团队研发活体菌丝面料",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E7%A0%94%E5%8F%91%E6%B4%BB%E4%BD%93%E8%8F%8C%E4%B8%9D%E9%9D%A2%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "美国总统特朗普：每周从委内瑞拉提取数百万桶石油。",
@@ -233,17 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "据美国证券交易委员会文件显示： THIRD POINT LLC已出售其持有的全部英伟达股份。同时将其持有的亚马逊公司股份减持9.8%，减持后持股数为180万股。",
-          "url": "https://wallstreetcn.com/livenews/3149889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "伊朗方面的最新表态传递出哪些信号",
@@ -269,6 +271,32 @@
           "time_info": "[00时03分 ~ 04时38分]"
         },
         {
+          "title": "BEST杯中国小将战平巴萨U18",
+          "url": "https://www.douyin.com/hot/2608973",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时05分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
+          "url": "https://wallstreetcn.com/livenews/3149874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 07时29分]"
+        },
+        {
           "title": "特朗普料将出席白宫预测市场会议",
           "url": "https://wallstreetcn.com/livenews/3149855",
           "source": "华尔街见闻-快讯",
@@ -281,16 +309,16 @@
           "time_info": "[03时06分 ~ 04时38分]"
         },
         {
-          "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
-          "url": "https://wallstreetcn.com/livenews/3149874",
+          "title": "据美国证券交易委员会文件显示： THIRD POINT LLC已出售其持有的全部英伟达股份。同时将其持有的亚马逊公司股份减持9.8%，减持后持股数为180万股。",
+          "url": "https://wallstreetcn.com/livenews/3149889",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            19
+            5,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时38分 ~ 06时32分]"
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
@@ -305,6 +333,19 @@
           "time_info": "[03时06分 ~ 04时38分]"
         },
         {
+          "title": "日本暴雨中国游客无奈地铁站过夜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A0%E5%A5%88%E5%9C%B0%E9%93%81%E7%AB%99%E8%BF%87%E5%A4%9C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 07时29分]"
+        },
+        {
           "title": "中国男篮热身赛险胜乌拉圭",
           "url": "https://www.douyin.com/hot/2609009",
           "source": "抖音",
@@ -315,18 +356,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时03分 ~ 03时06分]"
-        },
-        {
-          "title": "BEST杯中国小将战平巴萨U18",
-          "url": "https://www.douyin.com/hot/2608973",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时05分 ~ 06时32分]"
         },
         {
           "title": "马科斯：没想疏远中国 看好经济合作",
@@ -342,28 +371,77 @@
           "time_info": "[03时05分 ~ 06时32分]"
         },
         {
-          "title": "日本暴雨中国游客无奈地铁站过夜",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A0%E5%A5%88%E5%9C%B0%E9%93%81%E7%AB%99%E8%BF%87%E5%A4%9C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 06时32分]"
-        },
-        {
           "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3149869",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            24
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "url": "https://wallstreetcn.com/livenews/3149885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时38分 ~ 06时32分]"
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
+          "url": "https://flash.jin10.com/detail/20260815050929790800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "中国有什么成语或者典故可以对应「奥德赛」这个词呢？",
+          "url": "https://www.zhihu.com/question/489874919",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
+          "url": "https://flash.jin10.com/detail/20260815050235011800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
+          "url": "https://flash.jin10.com/detail/20260815050027660800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "从“龙餐馆”看中国电影工业产业链",
@@ -375,6 +453,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 00时04分]"
+        },
+        {
+          "title": "美国证券交易委员会文件显示，AMD(AMD.O)持有330万股SpaceX(SPCX.O)A类股份。",
+          "url": "https://flash.jin10.com/detail/20260815044509711800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "伊朗回应格什姆岛沿岸遭石油污染",
@@ -432,6 +522,17 @@
           "time_info": "04时38分"
         },
         {
+          "title": "抹黑中国的菲防长曾带队抓扣中国人",
+          "url": "https://www.toutiao.com/trending/7673855381147238436/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "美国财经媒体Semafor：能源公司菲利普斯66与马拉松在今年早些时候进行了合并谈判。",
           "url": "https://flash.jin10.com/detail/20260814233208296800",
           "source": "金十数据",
@@ -454,17 +555,6 @@
           "time_info": "04时38分"
         },
         {
-          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
-          "url": "https://wallstreetcn.com/livenews/3149885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "特朗普：很快将宣布霍尔木兹海峡为“美国领土”",
           "url": "https://flash.jin10.com/detail/20260815041128597800",
           "source": "金十数据",
@@ -482,18 +572,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
-          "url": "https://flash.jin10.com/detail/20260815050929790800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -575,17 +654,6 @@
           "time_info": "00时04分"
         },
         {
-          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
-          "url": "https://flash.jin10.com/detail/20260815050235011800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "美国6月商业库存环比 0%，预期 0.1%，前值 0.3%。",
           "url": "https://wallstreetcn.com/livenews/3149804",
           "source": "华尔街见闻-快讯",
@@ -619,17 +687,6 @@
           "time_info": "00时04分"
         },
         {
-          "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
-          "url": "https://flash.jin10.com/detail/20260815050027660800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "美国8月密歇根大学消费者预期指数初值 50.6，预期 55.2，前值 55.4。",
           "url": "https://wallstreetcn.com/livenews/3149803",
           "source": "华尔街见闻-快讯",
@@ -639,17 +696,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "中国有什么成语或者典故可以对应「奥德赛」这个词呢？",
-          "url": "https://www.zhihu.com/question/489874919",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "美国8月密歇根大学5年通胀预期初值 3.3，预期 3.3，前值 3.3。",
@@ -795,17 +841,6 @@
           "time_info": "04时38分"
         },
         {
-          "title": "美国证券交易委员会文件显示，AMD(AMD.O)持有330万股SpaceX(SPCX.O)A类股份。",
-          "url": "https://flash.jin10.com/detail/20260815044509711800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "巴西总统卢拉：我希望与美国保持良好关系，但不幸的是，他们正在对巴西散布谣言。",
           "url": "https://flash.jin10.com/detail/20260814230121768800",
           "source": "金十数据",
@@ -908,7 +943,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
@@ -918,8 +953,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -942,19 +977,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
-        },
-        {
-          "title": "巴克莱：维持2026年布伦特原油价格预测为每桶96美元。",
-          "url": "https://wallstreetcn.com/livenews/3149893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
         },
         {
           "title": "“走在多瑙河上”：一场大旱如何冲击欧洲生态、航运与能源安全",
@@ -966,8 +990,44 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时29分]"
+        },
+        {
+          "title": "巴克莱：维持2026年布伦特原油价格预测为每桶96美元。",
+          "url": "https://wallstreetcn.com/livenews/3149893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "Jane Street 7月遭遇约150亿美元巨亏",
+          "url": "https://wallstreetcn.com/livenews/3149892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
+          "url": "https://wallstreetcn.com/livenews/3149891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "布伦特原油期货结算价为每桶88.52美元，上涨1.45美元，涨幅1.67%。",
@@ -981,48 +1041,15 @@
           "time_info": "03时06分"
         },
         {
-          "title": "Jane Street 7月遭遇约150亿美元巨亏",
-          "url": "https://wallstreetcn.com/livenews/3149892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
-          "url": "https://wallstreetcn.com/livenews/3149891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
-          "url": "https://wallstreetcn.com/livenews/3149890",
-          "source": "华尔街见闻-快讯",
+          "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "巴克莱：维持2026年布伦特原油价格预测为96美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260815053953991800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时29分"
         },
         {
           "title": "沙特主权基金PIF披露美股持仓，SpaceX、艺电等为主要投资标的",
@@ -1034,6 +1061,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "美国证券交易委员会文件显示，英伟达持有SpaceX1.228亿股A类普通股，估值约为210亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 07时29分]"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
+          "url": "https://wallstreetcn.com/livenews/3149890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "美国证券交易委员会文件显示，英伟达(NVDA.O)持有SpaceX(SPCX.O)1.228亿股A类普通股，估值约为210亿美元。",
@@ -1048,16 +1100,17 @@
           "time_info": "[04时38分 ~ 06时32分]"
         },
         {
-          "title": "美国证券交易委员会文件显示，英伟达持有SpaceX1.228亿股A类普通股，估值约为210亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3149875",
+          "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
+          "url": "https://wallstreetcn.com/livenews/3149871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            18
+            5,
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 07时29分]"
         },
         {
           "title": "上期所原油期货主力合约夜盘收涨2.60%，报569.30元人民币/桶。 沪银2609合约夜盘收涨0.68%，报15820元/千克。 沪金2609合约夜盘收涨0.63%，报949.66元/克。",
@@ -1072,16 +1125,16 @@
           "time_info": "[03时06分 ~ 04时38分]"
         },
         {
-          "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
-          "url": "https://wallstreetcn.com/livenews/3149871",
-          "source": "华尔街见闻-快讯",
+          "title": "巴克莱：维持2026年布伦特原油价格预测为96美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260815053953991800",
+          "source": "金十数据",
           "ranks": [
             5,
-            22
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时38分 ~ 06时32分]"
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "CFTC：投机者增持原油、黄金净多头",
@@ -1089,11 +1142,72 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            28
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 07时29分]"
+        },
+        {
+          "title": "Anthropic公司在IPO前夕，初步预测2026年第二季度营收将超过115亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时38分 ~ 06时32分]"
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3149887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "据英国金融时报：简街（JaneStreet）在七月份录得约150亿美元的亏损。",
+          "url": "https://flash.jin10.com/detail/20260815053237241800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
+          "url": "https://flash.jin10.com/detail/20260815053103557800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
+          "url": "https://flash.jin10.com/detail/20260815051457331800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "AMD发行47.5亿美元债券，创公司最高规模发债纪录",
@@ -1108,6 +1222,18 @@
           "time_info": "[04时38分 ~ 06时32分]"
         },
         {
+          "title": "布伦特原油日内涨2%，现报88.89美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3149881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
           "title": "美元指数14日下跌",
           "url": "https://wallstreetcn.com/livenews/3149863",
           "source": "华尔街见闻-快讯",
@@ -1120,37 +1246,28 @@
           "time_info": "[04时38分 ~ 06时32分]"
         },
         {
-          "title": "Anthropic公司在IPO前夕，初步预测2026年第二季度营收将超过115亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3149888",
+          "title": "哈佛大学披露持有SpaceX价值22亿美元的股权。",
+          "url": "https://wallstreetcn.com/livenews/3149879",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
-          "title": "据英国金融时报：简街（JaneStreet）在七月份录得约150亿美元的亏损。",
-          "url": "https://flash.jin10.com/detail/20260815053237241800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
-          "url": "https://wallstreetcn.com/livenews/3149887",
+          "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
+          "url": "https://wallstreetcn.com/livenews/3149878",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            15,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "美国原油期货结算价为每桶82.40美元，上涨1.15美元，涨幅1.42%。",
@@ -1164,17 +1281,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
-          "url": "https://flash.jin10.com/detail/20260815053103557800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 8月14日（周五）晚盘收盘上涨0.99%报948.91元/克；<br/>上海黄金交易所白银T+D 8月14日（周五）晚盘收盘上涨1.06%报15780.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260815023016767800",
           "source": "金十数据",
@@ -1184,17 +1290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
-          "url": "https://flash.jin10.com/detail/20260815051457331800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "美国司法部：亚马逊同意支付225万美元和解金，并接受禁令，以解决涉嫌违反《公平信用报告法》的问题。",
@@ -1230,15 +1325,15 @@
           "time_info": "04时38分"
         },
         {
-          "title": "布伦特原油日内涨2%，现报88.89美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3149881",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时29分"
         },
         {
           "title": "软银Q2大幅减持台积电 套现近2.7亿美元",
@@ -1252,17 +1347,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "哈佛大学披露持有SpaceX价值22亿美元的股权。",
-          "url": "https://wallstreetcn.com/livenews/3149879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "德国莱茵河考布水位创历史新低，航运或被“截断”",
           "url": "https://wallstreetcn.com/livenews/3149841",
           "source": "华尔街见闻-快讯",
@@ -1272,17 +1356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
-          "url": "https://wallstreetcn.com/livenews/3149878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "美股收盘：三大股指低收 博通跌近6%",
@@ -1335,7 +1408,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -1357,7 +1430,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -1401,7 +1474,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         }
