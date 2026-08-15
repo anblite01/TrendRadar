@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T10:59:55.485699+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-08-15T11:50:01.775248+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 102,
+      "match_count": 108,
       "titles": [
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 10时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时50分]"
         },
         {
           "title": "中国公开赛周跃龙6:5吉尔伯特",
@@ -50,11 +50,12 @@
             8,
             9,
             7,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 10时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时50分]"
         },
         {
           "title": "以网友挑衅中国文化遭群嘲",
@@ -63,11 +64,12 @@
           "ranks": [
             9,
             11,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 10时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时50分]"
         },
         {
           "title": "中国足球小将战平巴萨",
@@ -77,8 +79,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时50分]"
+        },
+        {
+          "title": "中国人民银行定于2026年8月17日起陆续发行江泽民诞辰100周年纪念币",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33785137",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            20,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时03分 ~ 10时59分]"
+          "time_info": "[00时03分 ~ 11时50分]"
         },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -150,6 +165,28 @@
           "time_info": "[00时03分 ~ 09时42分]"
         },
         {
+          "title": "一组数据解锁中国生态新图景",
+          "url": "https://www.toutiao.com/trending/7674069615844298278/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 11时50分]"
+        },
+        {
+          "title": "中国China成为潮流",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDChina%E6%88%90%E4%B8%BA%E6%BD%AE%E6%B5%81%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 11时50分]"
+        },
+        {
           "title": "中国汽车开放崛起之路",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%BC%80%E6%94%BE%E5%B4%9B%E8%B5%B7%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -162,19 +199,6 @@
           "time_info": "[03时05分 ~ 07时29分]"
         },
         {
-          "title": "中国人民银行定于2026年8月17日起陆续发行江泽民诞辰100周年纪念币",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33785137",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 10时59分]"
-        },
-        {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
           "url": "https://www.zhihu.com/question/2070813507499643585",
           "source": "知乎",
@@ -184,6 +208,40 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 07时29分]"
+        },
+        {
+          "title": "美国老师气哭,高三生纯文盲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357613&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B8%88%E6%B0%94%E5%93%AD%2C%E9%AB%98%E4%B8%89%E7%94%9F%E7%BA%AF%E6%96%87%E7%9B%B2",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 11时50分]"
+        },
+        {
+          "title": "美国将对进口无人机及零部件征收最高 100% 关税，将如何影响全球产业？",
+          "url": "https://www.zhihu.com/question/2071487809492456110",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 11时50分]"
+        },
+        {
+          "title": "伊朗外交部长：伊朗尚未决定恢复与美国的谈判。",
+          "url": "https://flash.jin10.com/detail/20260815113243919800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "美国法官将联合健康CEO枪杀案嫌疑人路易吉·曼吉奥内的判刑时间定在12月18日。",
@@ -208,28 +266,6 @@
           "time_info": "04时38分"
         },
         {
-          "title": "一组数据解锁中国生态新图景",
-          "url": "https://www.toutiao.com/trending/7674069615844298278/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "中国China成为潮流",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDChina%E6%88%90%E4%B8%BA%E6%BD%AE%E6%B5%81%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
           "title": "市场消息：美国总统特朗普预计将参加与预测市场有关的会议。",
           "url": "https://flash.jin10.com/detail/20260815025844466800",
           "source": "金十数据",
@@ -250,17 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
-          "url": "https://flash.jin10.com/detail/20260815100007836800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
         },
         {
           "title": "中国科研团队研发活体菌丝面料",
@@ -287,15 +312,26 @@
           "time_info": "04时38分"
         },
         {
-          "title": "美国陆军暂停所有“阿帕奇”直升机训练任务",
-          "url": "https://wallstreetcn.com/livenews/3149919",
+          "title": "伊朗外长：卡塔尔和巴基斯坦正在与我们交换信息，但这并不是谈判。伊朗与阿曼的会谈是独立进行的，重点关注霍尔木兹海峡的海上航线。",
+          "url": "https://flash.jin10.com/detail/20260815112659829800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "url": "https://wallstreetcn.com/livenews/3149935",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "11时50分"
         },
         {
           "title": "伊朗方面的最新表态传递出哪些信号",
@@ -321,6 +357,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时05分 ~ 07时29分]"
+        },
+        {
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时50分]"
         },
         {
           "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
@@ -374,16 +423,27 @@
           "time_info": "[03时06分 ~ 04时38分]"
         },
         {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
+          "url": "https://flash.jin10.com/detail/20260815100007836800",
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
+          "time_info": "[10时59分 ~ 11时50分]"
+        },
+        {
+          "title": "意外转负！美国7月零售销售环比下降0.6%，创逾一年最大降幅",
+          "url": "https://wallstreetcn.com/articles/3779468",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 11时50分]"
         },
         {
           "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
@@ -396,6 +456,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 04时38分]"
+        },
+        {
+          "title": "美国陆军暂停所有“阿帕奇”直升机训练任务",
+          "url": "https://wallstreetcn.com/livenews/3149919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时50分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 11时50分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 11时50分]"
         },
         {
           "title": "日本暴雨中国游客无奈地铁站过夜",
@@ -436,6 +533,30 @@
           "time_info": "[03时05分 ~ 06时32分]"
         },
         {
+          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
+          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 11时50分]"
+        },
+        {
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时50分]"
+        },
+        {
           "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3149869",
           "source": "华尔街见闻-快讯",
@@ -447,6 +568,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 07时29分]"
+        },
+        {
+          "title": "美国密歇根州发生枪击事件，已致包含嫌犯在内6人死亡",
+          "url": "https://wallstreetcn.com/livenews/3149907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时50分]"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -462,15 +596,30 @@
           "time_info": "[06时32分 ~ 09时42分]"
         },
         {
-          "title": "美国将对进口无人机及零部件征收最高 100% 关税，将如何影响全球产业？",
-          "url": "https://www.zhihu.com/question/2071487809492456110",
-          "source": "知乎",
+          "title": "中国驻登巴萨总领馆提醒领区中国公民注意防范地震与海啸",
+          "url": "https://wallstreetcn.com/livenews/3149906",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时50分]"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时50分]"
         },
         {
           "title": "抹黑中国的菲防长曾带队抓扣中国人",
@@ -483,77 +632,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 09时42分]"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "美国密歇根州发生枪击事件，已致包含嫌犯在内6人死亡",
-          "url": "https://wallstreetcn.com/livenews/3149907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "中国驻登巴萨总领馆提醒领区中国公民注意防范地震与海啸",
-          "url": "https://wallstreetcn.com/livenews/3149906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "意外转负！美国7月零售销售环比下降0.6%，创逾一年最大降幅",
-          "url": "https://wallstreetcn.com/articles/3779468",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
@@ -574,18 +652,6 @@
           "ranks": [
             14,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20260815081700535800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -720,15 +786,15 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
-          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
-          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
-          "source": "凤凰网",
+          "title": "龙餐馆原型称中国护照相当于防弹衣",
+          "url": "https://www.toutiao.com/trending/7674092551258869299/",
+          "source": "今日头条",
           "ranks": [
-            6
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 11时50分]"
         },
         {
           "title": "美国财经媒体Semafor：菲利普斯66与马拉松的合并谈判破裂。",
@@ -795,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "古巴外长谴责美国对古实施极限施压和经济扼杀政策",
+          "url": "https://wallstreetcn.com/livenews/3149931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "普京登岛是中国怂恿？日网友又说胡话",
@@ -880,7 +957,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1185,7 +1262,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
@@ -1197,6 +1274,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 07时29分]"
+        },
+        {
+          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 11时50分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -1211,6 +1299,19 @@
           "time_info": "[00时03分 ~ 06时32分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 11时50分]"
+        },
+        {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
@@ -1221,17 +1322,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 07时29分]"
-        },
-        {
-          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
         },
         {
           "title": "“走在多瑙河上”：一场大旱如何冲击欧洲生态、航运与能源安全",
@@ -1289,19 +1379,6 @@
           "time_info": "[06时32分 ~ 10时59分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
-          "url": "https://www.cls.cn/detail/2455043",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 10时59分]"
-        },
-        {
           "title": "布伦特原油期货结算价为每桶88.52美元，上涨1.45美元，涨幅1.67%。",
           "url": "https://flash.jin10.com/detail/20260815025857317800",
           "source": "金十数据",
@@ -1311,6 +1388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "伊朗外长：美国必须满足（伊朗的）条件，才能恢复霍尔木兹海峡的航运。",
+          "url": "https://flash.jin10.com/detail/20260815112723569800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
@@ -1359,6 +1447,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 07时29分]"
+        },
+        {
+          "title": "美国能源信息署（EIA）：预计8月美国原油产量平均为1383万桶/日（7月为1382万桶/日）；9月平均产量预计为1377万桶/日。 预计8月美国天然气产量平均为1226亿立方英尺/日（7月为1220亿立方英尺/日）；9月平均产量预计为1232亿立方英尺/日。",
+          "url": "https://wallstreetcn.com/livenews/3149911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时50分]"
         },
         {
           "title": "巴克莱：维持2026年布伦特原油价格预测为96美元/桶。",
@@ -1411,18 +1512,6 @@
           "time_info": "[03时06分 ~ 04时38分]"
         },
         {
-          "title": "美国能源信息署（EIA）：预计8月美国原油产量平均为1383万桶/日（7月为1382万桶/日）；9月平均产量预计为1377万桶/日。 预计8月美国天然气产量平均为1226亿立方英尺/日（7月为1220亿立方英尺/日）；9月平均产量预计为1232亿立方英尺/日。",
-          "url": "https://wallstreetcn.com/livenews/3149911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
           "title": "Anthropic公司在IPO前夕，初步预测2026年第二季度营收将超过115亿美元。",
           "url": "https://wallstreetcn.com/livenews/3149888",
           "source": "华尔街见闻-快讯",
@@ -1462,6 +1551,19 @@
           "time_info": "[06时32分 ~ 09时42分]"
         },
         {
+          "title": "原油ETF持仓报告：美、布两油纷纷增持，规模有何变化？",
+          "url": "https://flash.jin10.com/detail/20260815084615172800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时50分]"
+        },
+        {
           "title": "CFTC：投机者增持原油、黄金净多头",
           "url": "https://wallstreetcn.com/livenews/3149865",
           "source": "华尔街见闻-快讯",
@@ -1473,6 +1575,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 07时29分]"
+        },
+        {
+          "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
+          "url": "https://flash.jin10.com/detail/20260815083816255800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时50分]"
+        },
+        {
+          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815081946244800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时50分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.285吨，当前持仓量为1023.528吨。",
+          "url": "https://flash.jin10.com/detail/20260815081312547800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时50分]"
         },
         {
           "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
@@ -1487,18 +1628,6 @@
           "time_info": "[06时32分 ~ 07时29分]"
         },
         {
-          "title": "原油ETF持仓报告：美、布两油纷纷增持，规模有何变化？",
-          "url": "https://flash.jin10.com/detail/20260815084615172800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
           "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
           "url": "https://flash.jin10.com/detail/20260815051457331800",
           "source": "金十数据",
@@ -1509,18 +1638,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时29分]"
-        },
-        {
-          "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
-          "url": "https://flash.jin10.com/detail/20260815083816255800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
         },
         {
           "title": "AMD发行47.5亿美元债券，创公司最高规模发债纪录",
@@ -1547,16 +1664,27 @@
           "time_info": "[06时32分 ~ 07时29分]"
         },
         {
-          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260815081946244800",
-          "source": "金十数据",
+          "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
+          "url": "https://www.cls.cn/detail/2455019",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            18
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
+          "time_info": "[11时49分 ~ 11时50分]"
+        },
+        {
+          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时50分]"
         },
         {
           "title": "美元指数14日下跌",
@@ -1595,18 +1723,6 @@
           "time_info": "[06时32分 ~ 07时29分]"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.285吨，当前持仓量为1023.528吨。",
-          "url": "https://flash.jin10.com/detail/20260815081312547800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 10时59分]"
-        },
-        {
           "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
           "url": "https://flash.jin10.com/detail/20260815080428529800",
           "source": "金十数据",
@@ -1617,6 +1733,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时42分 ~ 10时59分]"
+        },
+        {
+          "title": "美股三大指数全线收跌",
+          "url": "https://www.toutiao.com/trending/7674037560066441266/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 11时50分]"
         },
         {
           "title": "美国原油期货结算价为每桶82.40美元，上涨1.15美元，涨幅1.42%。",
@@ -1694,17 +1821,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
-          "url": "https://flash.jin10.com/detail/20260815090110907800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
         },
         {
           "title": "德国莱茵河考布水位创历史新低，航运或被“截断”",
