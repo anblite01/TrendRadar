@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T22:31:53.172155+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-08-16T23:30:46.051834+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 127,
+      "match_count": 130,
       "titles": [
         {
           "title": "伊朗三大权力机构负责人举行会晤",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 23时30分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 23时30分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -42,8 +42,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 23时30分]"
+        },
+        {
+          "title": "伊朗高层换血，革命卫队更强势了？",
+          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时27分 ~ 23时30分]"
+        },
+        {
+          "title": "中国医生用AI解决数学圈22年难题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时49分 ~ 23时30分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -58,18 +81,6 @@
           "time_info": "[09时49分 ~ 15时38分]"
         },
         {
-          "title": "中国医生用AI解决数学圈22年难题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时49分 ~ 22时31分]"
-        },
-        {
           "title": "“日本几乎白送菲律宾5艘护卫舰，就是让菲在南海给中国找麻烦”",
           "url": "https://news.ifeng.com/c/8vcmzyKyM4x",
           "source": "凤凰网",
@@ -82,15 +93,67 @@
           "time_info": "[09时49分 ~ 15时38分]"
         },
         {
-          "title": "伊朗高层换血，革命卫队更强势了？",
-          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
-          "source": "凤凰网",
+          "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
+          "url": "https://wallstreetcn.com/articles/3779445",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时27分 ~ 23时30分]"
+        },
+        {
+          "title": "一组数据看中国经济的澎湃动能",
+          "url": "https://www.toutiao.com/trending/7674370501220991012/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时27分 ~ 22时31分]"
+          "time_info": "[20时54分 ~ 23时30分]"
+        },
+        {
+          "title": "中国为什么值得“反复探索”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E2%80%9C%E5%8F%8D%E5%A4%8D%E6%8E%A2%E7%B4%A2%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 23时30分]"
+        },
+        {
+          "title": "人民日报刊文纪念江泽民同志诞辰100周年：在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791729",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 23时30分]"
+        },
+        {
+          "title": "战争无正义?日媒装可怜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357784&amp;topic_name=%E6%88%98%E4%BA%89%E6%97%A0%E6%AD%A3%E4%B9%89%3F%E6%97%A5%E5%AA%92%E8%A3%85%E5%8F%AF%E6%80%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            11,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 23时30分]"
         },
         {
           "title": "美国老师气哭,高三生纯文盲",
@@ -103,11 +166,27 @@
             21,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 22时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时49分 ~ 23时30分]"
+        },
+        {
+          "title": "寰际中国职业赛哈尔滨站",
+          "url": "https://www.douyin.com/hot/2611689",
+          "source": "抖音",
+          "ranks": [
+            21,
+            4,
+            17,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时38分 ~ 23时30分]"
         },
         {
           "title": "“中国游”圈粉全球",
@@ -132,6 +211,28 @@
           "time_info": "[11时08分 ~ 15时38分]"
         },
         {
+          "title": "为中国航天点赞",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时37分 ~ 23时30分]"
+        },
+        {
+          "title": "中国工程机械5年出口规模3倍增长",
+          "url": "https://www.douyin.com/hot/2612202",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时37分 ~ 23时30分]"
+        },
+        {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
@@ -142,34 +243,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时49分 ~ 19时28分]"
-        },
-        {
-          "title": "人民日报刊文纪念江泽民同志诞辰100周年：在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791729",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 22时31分]"
-        },
-        {
-          "title": "战争无正义?日媒装可怜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357784&amp;topic_name=%E6%88%98%E4%BA%89%E6%97%A0%E6%AD%A3%E4%B9%89%3F%E6%97%A5%E5%AA%92%E8%A3%85%E5%8F%AF%E6%80%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 22时31分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -196,18 +269,6 @@
           "time_info": "[09时49分 ~ 15时38分]"
         },
         {
-          "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
-          "url": "https://wallstreetcn.com/articles/3779445",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时27分 ~ 22时31分]"
-        },
-        {
           "title": "美国大模型帮日本对AI进行投毒",
           "url": "https://www.toutiao.com/trending/7673727363703639571/",
           "source": "今日头条",
@@ -218,28 +279,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 11时09分]"
-        },
-        {
-          "title": "一组数据看中国经济的澎湃动能",
-          "url": "https://www.toutiao.com/trending/7674370501220991012/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 22时31分]"
-        },
-        {
-          "title": "中国为什么值得“反复探索”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E2%80%9C%E5%8F%8D%E5%A4%8D%E6%8E%A2%E7%B4%A2%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 22时31分]"
         },
         {
           "title": "中国博主发布进入靖国神社视频",
@@ -267,18 +306,30 @@
           "time_info": "[09时49分 ~ 11时09分]"
         },
         {
-          "title": "寰际中国职业赛哈尔滨站",
-          "url": "https://www.douyin.com/hot/2611689",
-          "source": "抖音",
+          "title": "中国驻菲律宾使馆发言人16问菲防长特奥多罗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791735",
+          "source": "澎湃新闻",
           "ranks": [
-            21,
-            4,
-            17,
-            19
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时38分 ~ 22时31分]"
+          "appearance_count": 8,
+          "time_info": "[19时27分 ~ 23时30分]"
+        },
+        {
+          "title": "侵华日军家信：每天杀两三千中国人",
+          "url": "https://www.baidu.com/s?wd=%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%EF%BC%9A%E6%AF%8F%E5%A4%A9%E6%9D%80%E4%B8%A4%E4%B8%89%E5%8D%83%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            24,
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时27分 ~ 23时30分]"
         },
         {
           "title": "8月15日，中国外交部国防部都加班了",
@@ -303,17 +354,6 @@
           "time_info": "[14时52分 ~ 15时38分]"
         },
         {
-          "title": "为中国航天点赞",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时31分]"
-        },
-        {
           "title": "中国市场吸引力提升",
           "url": "https://www.douyin.com/hot/2611860",
           "source": "抖音",
@@ -325,15 +365,29 @@
           "time_info": "[19时27分 ~ 20时54分]"
         },
         {
-          "title": "中国工程机械5年出口规模3倍增长",
-          "url": "https://www.douyin.com/hot/2612202",
-          "source": "抖音",
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://www.toutiao.com/trending/7674484727768301577/",
+          "source": "今日头条",
           "ranks": [
-            3
+            15,
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时31分]"
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 23时30分]"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://www.toutiao.com/trending/7673769080869191734/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时37分 ~ 23时30分]"
         },
         {
           "title": "中国用电大省如何扛过大考",
@@ -359,6 +413,30 @@
           "time_info": "[15时38分 ~ 19时28分]"
         },
         {
+          "title": "伊朗议会通过反渗透法案",
+          "url": "https://wallstreetcn.com/livenews/3150070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时30分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3150079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时30分]"
+        },
+        {
           "title": "厚植中国式现代化的绿色底色",
           "url": "https://www.toutiao.com/trending/7673520930697936902/",
           "source": "今日头条",
@@ -381,19 +459,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时53分 ~ 19时28分]"
-        },
-        {
-          "title": "伊朗议会通过反渗透法案",
-          "url": "https://wallstreetcn.com/livenews/3150070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时31分]"
         },
         {
           "title": "侵华日军家信：每天杀两三千中国人",
@@ -433,40 +498,42 @@
           "time_info": "[09时49分 ~ 11时09分]"
         },
         {
-          "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3150079",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗Press TV：伊朗商会主席表示，伊朗经济已走出“战争冲击”。",
+          "url": "https://flash.jin10.com/detail/20260816231407542800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "23时30分"
         },
         {
-          "title": "中国驻菲律宾使馆发言人16问菲防长特奥多罗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791735",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时27分 ~ 22时31分]"
-        },
-        {
-          "title": "侵华日军家信：每天杀两三千中国人",
-          "url": "https://www.baidu.com/s?wd=%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%EF%BC%9A%E6%AF%8F%E5%A4%A9%E6%9D%80%E4%B8%A4%E4%B8%89%E5%8D%83%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+          "title": "伊朗军方：每名入境美军悬赏50亿土曼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AF%8F%E5%90%8D%E5%85%A5%E5%A2%83%E7%BE%8E%E5%86%9B%E6%82%AC%E8%B5%8F50%E4%BA%BF%E5%9C%9F%E6%9B%BC",
           "source": "百度热搜",
           "ranks": [
-            19,
-            24,
-            21
+            29,
+            20,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时27分 ~ 22时31分]"
+          "time_info": "[20时54分 ~ 23时30分]"
+        },
+        {
+          "title": "美国女子怀孕八个月却每天吸食芬太尼",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%85%AB%E4%B8%AA%E6%9C%88%E5%8D%B4%E6%AF%8F%E5%A4%A9%E5%90%B8%E9%A3%9F%E8%8A%AC%E5%A4%AA%E5%B0%BC%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 23时30分]"
         },
         {
           "title": "以网友挑衅中国文化遭群嘲",
@@ -493,15 +560,28 @@
           "time_info": "15时38分"
         },
         {
-          "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20260816215626803800",
+          "title": "据沙特媒体哈达斯（Alhadath）援引以色列消息人士称，以色列不希望美国在加沙的计划成功，但也不想对其造成损害，军方正在监视哈马斯重建能力的行动。消息人士称，美国的限制阻止以军对哈马斯“采取进一步行动”。",
+          "url": "https://flash.jin10.com/detail/20260816230114518800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "23时30分"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://wallstreetcn.com/livenews/3150068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时30分]"
         },
         {
           "title": "数读中国出口含新量含绿量",
@@ -526,28 +606,16 @@
           "time_info": "11时09分"
         },
         {
-          "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
-          "url": "https://flash.jin10.com/detail/20260816215609663800",
-          "source": "金十数据",
+          "title": "全球开源AI大洗牌 中国开源模型加速崛起",
+          "url": "https://wallstreetcn.com/livenews/3150072",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://www.toutiao.com/trending/7674484727768301577/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            5,
+            3,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 22时31分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时30分]"
         },
         {
           "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
@@ -572,27 +640,32 @@
           "time_info": "15时38分"
         },
         {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://www.toutiao.com/trending/7673769080869191734/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时31分]"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——中国7月经济“成绩单”；阿里、百度等多家公司财报；美联储会议纪要来袭；美预告对伊进行“史无前例”的经济打击",
-          "url": "https://flash.jin10.com/detail/20260816213008775800",
+          "title": "伊朗议会通过反渗透法案",
+          "url": "https://flash.jin10.com/detail/20260816204802677800",
           "source": "金十数据",
           "ranks": [
-            5
+            1,
+            7,
+            13,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时30分]"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://flash.jin10.com/detail/20260816204422990800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时30分]"
         },
         {
           "title": "如何看待 TI2026 小组赛瑞士轮三支中国队 XG 、 VG 、 TR 全部出局？",
@@ -608,6 +681,20 @@
           "time_info": "[19时27分 ~ 21时38分]"
         },
         {
+          "title": "特朗普再促参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3150053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时28分 ~ 23时30分]"
+        },
+        {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_33790363",
           "source": "澎湃新闻",
@@ -619,32 +706,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时52分 ~ 20时54分]"
-        },
-        {
-          "title": "伊朗议会通过反渗透法案",
-          "url": "https://flash.jin10.com/detail/20260816204802677800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时31分]"
-        },
-        {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://wallstreetcn.com/livenews/3150068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时31分]"
         },
         {
           "title": "伊朗外交部强烈谴责以色列对黎袭击",
@@ -659,29 +720,16 @@
           "time_info": "[14时53分 ~ 15时38分]"
         },
         {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://flash.jin10.com/detail/20260816204422990800",
+          "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20260816215626803800",
           "source": "金十数据",
           "ranks": [
             2,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时31分]"
-        },
-        {
-          "title": "全球开源AI大洗牌 中国开源模型加速崛起",
-          "url": "https://wallstreetcn.com/livenews/3150072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时31分]"
+          "time_info": "[22时31分 ~ 23时30分]"
         },
         {
           "title": "大疆被美国移除“黑名单”，有戏？",
@@ -693,6 +741,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 11时09分]"
+        },
+        {
+          "title": "据沙特官方通讯社，吉赞地区已启动空袭警报。 此前，据伊朗塔斯尼姆通讯社称，沙特阿拉伯吉赞炼油厂附近传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260816210430822800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时30分]"
         },
         {
           "title": "伊朗外交部强烈谴责以色列对黎袭击",
@@ -707,6 +768,18 @@
           "time_info": "[15时38分 ~ 19时28分]"
         },
         {
+          "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
+          "url": "https://flash.jin10.com/detail/20260816215609663800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时30分]"
+        },
+        {
           "title": "塔利班喊话美国：回来吧，但有个条件",
           "url": "https://news.ifeng.com/c/8vbYXcmubx2",
           "source": "凤凰网",
@@ -718,30 +791,31 @@
           "time_info": "[09时49分 ~ 11时09分]"
         },
         {
-          "title": "据沙特官方通讯社，吉赞地区已启动空袭警报。 此前，据伊朗塔斯尼姆通讯社称，沙特阿拉伯吉赞炼油厂附近传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260816210430822800",
+          "title": "据以色列i24News：以色列总理内塔尼亚胡明天将在以色列会见美国特使库什纳和高级和平委员会官员。",
+          "url": "https://flash.jin10.com/detail/20260816200840819800",
           "source": "金十数据",
           "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时31分]"
-        },
-        {
-          "title": "特朗普再促参议院通过全年采用夏令时法案",
-          "url": "https://wallstreetcn.com/livenews/3150053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6,
-            17,
-            21,
-            25
+            12,
+            18,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时28分 ~ 22时31分]"
+          "time_info": "[20时54分 ~ 23时30分]"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://wallstreetcn.com/livenews/3150063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时30分]"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -754,6 +828,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 11时09分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——中国7月经济“成绩单”；阿里、百度等多家公司财报；美联储会议纪要来袭；美预告对伊进行“史无前例”的经济打击",
+          "url": "https://flash.jin10.com/detail/20260816213008775800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时30分]"
+        },
+        {
+          "title": "国泰海通：中国股市将逐步迎来“金秋行情” 积极部署",
+          "url": "https://wallstreetcn.com/livenews/3150059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时30分]"
         },
         {
           "title": "张雪机车车手德比斯中国摩托车首秀",
@@ -778,19 +877,6 @@
           "time_info": "[09时49分 ~ 11时09分]"
         },
         {
-          "title": "伊朗军方：每名入境美军悬赏50亿土曼",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AF%8F%E5%90%8D%E5%85%A5%E5%A2%83%E7%BE%8E%E5%86%9B%E6%82%AC%E8%B5%8F50%E4%BA%BF%E5%9C%9F%E6%9B%BC",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 22时31分]"
-        },
-        {
           "title": "金正恩：坚信俄罗斯能维护领土完整",
           "url": "https://www.toutiao.com/trending/7674437579219177011/",
           "source": "今日头条",
@@ -801,18 +887,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时08分 ~ 14时53分]"
-        },
-        {
-          "title": "美国女子怀孕八个月却每天吸食芬太尼",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%85%AB%E4%B8%AA%E6%9C%88%E5%8D%B4%E6%AF%8F%E5%A4%A9%E5%90%B8%E9%A3%9F%E8%8A%AC%E5%A4%AA%E5%B0%BC%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 22时31分]"
         },
         {
           "title": "中国驻日使馆：敦促日方深刻反省历史罪责，不要再次走向历史的被告席",
@@ -863,32 +937,6 @@
           "time_info": "[19时28分 ~ 21时38分]"
         },
         {
-          "title": "据以色列i24News：以色列总理内塔尼亚胡明天将在以色列会见美国特使库什纳和高级和平委员会官员。",
-          "url": "https://flash.jin10.com/detail/20260816200840819800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时31分]"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://wallstreetcn.com/livenews/3150063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时31分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
           "url": "https://flash.jin10.com/detail/20260816180839464800",
           "source": "金十数据",
@@ -913,19 +961,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时53分 ~ 19时28分]"
-        },
-        {
-          "title": "国泰海通：中国股市将逐步迎来“金秋行情” 积极部署",
-          "url": "https://wallstreetcn.com/livenews/3150059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时31分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -996,6 +1031,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时08分 ~ 11时09分]"
+        },
+        {
+          "title": "伊朗战争，正在掏空美国弹药库",
+          "url": "https://flash.jin10.com/detail/20260816211830849800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时30分]"
         },
         {
           "title": "特朗普为何要求航母改回蒸汽弹射",
@@ -1302,6 +1349,17 @@
           "time_info": "[14时53分 ~ 15时38分]"
         },
         {
+          "title": "中国U17女足5-0大胜皇马U17女足",
+          "url": "https://www.toutiao.com/trending/7674454798841839662/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
           "title": "中国地震台网自动测定：08月16日11时20分在瓦努阿图附近（南纬14.33度，东经167.56度）发生6.0级左右地震，最终结果以正式速报为准。",
           "url": "https://flash.jin10.com/detail/20260816114112290800",
           "source": "金十数据",
@@ -1369,17 +1427,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
-        },
-        {
-          "title": "伊朗战争，正在掏空美国弹药库",
-          "url": "https://flash.jin10.com/detail/20260816211830849800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
         },
         {
           "title": "乌克兰军方：乌克兰已对俄罗斯罗斯托夫地区的一处导弹燃料生产设施进行了打击。",
@@ -1517,7 +1564,7 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -1530,8 +1577,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 23时30分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -1544,8 +1591,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 22时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时49分 ~ 23时30分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -1557,8 +1604,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 23时30分]"
         },
         {
           "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
@@ -1606,11 +1653,40 @@
             12,
             11,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时27分 ~ 22时31分]"
+          "appearance_count": 8,
+          "time_info": "[19时27分 ~ 23时30分]"
+        },
+        {
+          "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
+          "url": "https://wallstreetcn.com/livenews/3150058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时28分 ~ 23时30分]"
+        },
+        {
+          "title": "紫金黄金国际：上半年母公司拥有人应占溢利约14.5亿美元 同比增长179%",
+          "url": "https://wallstreetcn.com/livenews/3150057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时28分 ~ 23时30分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -1641,20 +1717,6 @@
           "time_info": "[19时28分 ~ 22时31分]"
         },
         {
-          "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
-          "url": "https://wallstreetcn.com/livenews/3150058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时28分 ~ 22时31分]"
-        },
-        {
           "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
           "url": "https://www.zhihu.com/question/2071916942760342436",
           "source": "知乎",
@@ -1666,20 +1728,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时52分 ~ 19时28分]"
-        },
-        {
-          "title": "紫金黄金国际：上半年母公司拥有人应占溢利约14.5亿美元 同比增长179%",
-          "url": "https://wallstreetcn.com/livenews/3150057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时28分 ~ 22时31分]"
         },
         {
           "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
@@ -1736,6 +1784,18 @@
           "time_info": "[09时50分 ~ 15时38分]"
         },
         {
+          "title": "30美元1小时 机器人上门做保洁",
+          "url": "https://www.baidu.com/s?wd=30%E7%BE%8E%E5%85%831%E5%B0%8F%E6%97%B6+%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E9%97%A8%E5%81%9A%E4%BF%9D%E6%B4%81",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时31分 ~ 23时30分]"
+        },
+        {
           "title": "哈佛大学重仓SpaceX，22亿美元投资彰显长期布局",
           "url": "https://flash.jin10.com/detail/20260816090116800800",
           "source": "金十数据",
@@ -1771,6 +1831,17 @@
           "time_info": "[19时27分 ~ 19时28分]"
         },
         {
+          "title": "黄金还会二次暴涨吗",
+          "url": "https://www.toutiao.com/trending/7674595161468636682/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
           "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
           "url": "https://flash.jin10.com/detail/20260816120240152800",
           "source": "金十数据",
@@ -1794,15 +1865,15 @@
           "time_info": "[09时49分 ~ 09时50分]"
         },
         {
-          "title": "30美元1小时 机器人上门做保洁",
-          "url": "https://www.baidu.com/s?wd=30%E7%BE%8E%E5%85%831%E5%B0%8F%E6%97%B6+%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E9%97%A8%E5%81%9A%E4%BF%9D%E6%B4%81",
-          "source": "百度热搜",
+          "title": "富国银行：摩根大通有望成首家“万亿美元银行”",
+          "url": "https://flash.jin10.com/detail/20260816222531840800",
+          "source": "金十数据",
           "ranks": [
-            16
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "23时30分"
         }
       ]
     }
